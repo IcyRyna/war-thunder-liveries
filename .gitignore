@@ -1,0 +1,6 @@
+# Game packages and projects go to Releases, never into git history
+*.zip
+*.tga
+*.dds
+*.cmps
+*.psd
