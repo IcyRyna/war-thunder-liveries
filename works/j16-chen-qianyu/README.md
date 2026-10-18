@@ -20,7 +20,7 @@
 | `J16_ChenQianyu_8K.zip` | 游戏包（TGA） | 30.9 MB | `bd9359a3f68ed5bc…` |
 | `J16_ChenQianyu_8K_DDS_RGBA8.zip` | 游戏包（DDS） | 43.8 MB | `69ebc5167ef58f3c…` |
 | `J16_ChenQianyu_Editable.zip` | 可编辑工程 | 33.2 MB | `8127eb2184d5ab95…` |
-| `使用说明.txt` | 使用说明 | 0.0 MB | `98f082e2dfb55f3a…` |
+| `J16_ChenQianyu_install_notes_zh.txt`（使用说明） | 使用说明 | 0.0 MB | `98f082e2dfb55f3a…` |
 
 ## 安装
 
