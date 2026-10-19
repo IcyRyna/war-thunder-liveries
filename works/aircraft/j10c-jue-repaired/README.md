@@ -2,7 +2,7 @@
 
 诀主题的 J-10C 涂装，对线条与材质作了修订。
 
-版本：[v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/v1) · 状态：待评价
+版本：[v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/v1) · 状态：已否定
 
 ![预览](preview.png)
 

@@ -2,7 +2,7 @@
 
 汤汤主题的 J-16 涂装，对清晰度与材质作了修订。
 
-版本：[v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/v1) · 状态：待评价
+版本：[v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/v1) · 状态：部分认可
 
 ![预览](preview.png)
 

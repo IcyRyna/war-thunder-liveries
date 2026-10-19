@@ -2,7 +2,7 @@
 
 陈千语主题的早期 J-16 涂装。
 
-版本：[v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu/v1) · 状态：待评价
+版本：[v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu/v1) · 状态：已否定
 
 ![预览](preview.png)
 

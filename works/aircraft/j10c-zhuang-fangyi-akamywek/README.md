@@ -2,7 +2,7 @@
 
 庄方宜主题的 J-10C 涂装，采用 Akamywek 风格。
 
-版本：[v3](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/v3) · 状态：待评价
+版本：[v3](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/v3) · 状态：部分认可
 
 ![预览](preview.png)
 
