@@ -7,17 +7,17 @@
 | 作品 | 版本 | 状态 |
 | --- | --- | --- |
 | [J-16 陈千语 · Akamywek 风格](works/aircraft/j16-chen-qianyu-akamywek/README.md) | [v10](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu-akamywek/v10) | 已认可 |
-| [J-10C 庄方宜 · Akamywek 风格](works/aircraft/j10c-zhuang-fangyi-akamywek/README.md) | [v3](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/v3) | 待评价 |
-| [J-16 陈千语 · 早期版](works/aircraft/j16-chen-qianyu/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu/v1) | 待评价 |
-| [J-10C 陈千语 · 重修版](works/aircraft/j10c-chen-qianyu-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-chen-qianyu-repaired/v1) | 待评价 |
-| [J-10C 诀 · 重修版](works/aircraft/j10c-jue-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/v1) | 待评价 |
-| [J-16 汤汤 · 重修版](works/aircraft/j16-tangtang-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/v1) | 待评价 |
+| [J-10C 庄方宜 · Akamywek 风格](works/aircraft/j10c-zhuang-fangyi-akamywek/README.md) | [v3](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/v3) | 部分认可 |
+| [J-16 陈千语 · 早期版](works/aircraft/j16-chen-qianyu/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu/v1) | 已否定 |
+| [J-10C 陈千语 · 重修版](works/aircraft/j10c-chen-qianyu-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-chen-qianyu-repaired/v1) | 已否定 |
+| [J-10C 诀 · 重修版](works/aircraft/j10c-jue-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/v1) | 已否定 |
+| [J-16 汤汤 · 重修版](works/aircraft/j16-tangtang-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/v1) | 部分认可 |
 
 ## 坦克
 
 | 作品 | 版本 | 状态 |
 | --- | --- | --- |
-| [Leopard 2A7HU · ENDFIELD](works/ground/leopard2a7hu-endfield/README.md) | [v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v4) | 待评价 |
+| [Leopard 2A7HU · ENDFIELD](works/ground/leopard2a7hu-endfield/README.md) | [v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v4) | 已认可 |
 
 ## 历史方案
 
