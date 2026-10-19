@@ -8,7 +8,7 @@
 
 | 作品 | 风格 | 当前版本 | 日期 | 状态 |
 | --- | --- | --- | --- | --- |
-| [Leopard 2A7HU ENDFIELD](works/leopard2a7hu-endfield/README.md) | 现代坦克，原作画风适配 | [v3](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v3) | 2026-10-20 | 待评价 |
+| [Leopard 2A7HU ENDFIELD](works/leopard2a7hu-endfield/README.md) | 现代坦克，原作画风适配 | [v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v4) | 2026-10-20 | 待评价 |
 | [J-16 陈千语](works/j16-chen-qianyu-akamywek/README.md) | Akamywek 风格 | [v10](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu-akamywek/v10) | 2026-10-18 | 已认可 |
 | [J-10C 庄方宜](works/j10c-zhuang-fangyi-akamywek/README.md) | Akamywek 风格 | [v3](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/v3) | 2026-10-18 | 待评价 |
 | [J-10C 莱万汀](works/j10c-laevatain-akamywek/README.md) | 概念图优先（v1–v6 Akamywek 风格） | [v8](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/v8) | 2026-10-20 | 待评价 |
