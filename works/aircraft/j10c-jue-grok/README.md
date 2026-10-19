@@ -2,7 +2,7 @@
 
 Grok bot 制作的诀主题 J-10C 涂装，采用青黑配色，机翼和垂尾布置人物。
 
-版本：[v17](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/v17) · 状态：待评价
+版本：[v17](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/v17) · 状态：已认可
 
 ![预览](preview.png)
 

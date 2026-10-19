@@ -1,6 +1,6 @@
-# F-2A · Akamywek 复刻
+# F-2A · Akamywek 原作临摹
 
-Claude 对 Akamywek F-2A M4 SOPMOD II 涂装的学习复刻，保存 r14 的现有结果。
+临摹 WT Live 作者 Akamywek 的 F-2A「M4 SOPMOD II」涂装，保存 Claude r14 的现有结果。
 
 版本：[v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/f2a-akamywek-replica/v1) · 状态：待评价
 

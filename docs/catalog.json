@@ -300,9 +300,9 @@
       "category": "aircraft",
       "title": "Su-30MKK 红弩箭 · Grok 版",
       "version": "v4",
-      "status": "待评价",
+      "status": "已认可",
       "description": "Grok bot 制作的红弩箭主题 Su-30MKK 涂装，采用红黑配色与 Akamywek 风格线条。",
-      "note": "8K DDS 原包。现存文件为游戏包，未找到可编辑制作源。",
+      "note": "8K DDS 原包。现存文件为游戏包，未找到可编辑制作源。文字排版仍需修订。",
       "creator": "Grok bot",
       "page": "works/aircraft/su30mkk-lilya-arbalest-grok/README.md",
       "preview": "works/aircraft/su30mkk-lilya-arbalest-grok/preview.png",
@@ -327,7 +327,7 @@
       "category": "aircraft",
       "title": "J-10C 诀 · Grok 版",
       "version": "v17",
-      "status": "待评价",
+      "status": "已认可",
       "description": "Grok bot 制作的诀主题 J-10C 涂装，采用青黑配色，机翼和垂尾布置人物。",
       "note": "这是 Grok 的 v17，与“诀·重修版 v1”分别保存。现有 8K DDS 和 4K TGA 两种游戏包，未找到可编辑制作源。",
       "creator": "Grok bot",
@@ -358,10 +358,10 @@
     {
       "id": "f2a-akamywek-replica",
       "category": "aircraft",
-      "title": "F-2A · Akamywek 复刻",
+      "title": "F-2A · Akamywek 原作临摹",
       "version": "v1",
       "status": "待评价",
-      "description": "Claude 对 Akamywek F-2A M4 SOPMOD II 涂装的学习复刻，保存 r14 的现有结果。",
+      "description": "临摹 WT Live 作者 Akamywek 的 F-2A「M4 SOPMOD II」涂装，保存 Claude r14 的现有结果。",
       "note": "备份版本 v1，制作修订 r14。颜色图按原作测量重建，材质与挂载贴图沿用原包。源资料含36组设计 JSON、颜色图和离线场景，整套自动重建命令未整理。",
       "creator": "Claude",
       "page": "works/aircraft/f2a-akamywek-replica/README.md",
@@ -386,7 +386,10 @@
           "sha256": "da80017d9fed16567e5631cab22e78d044e4af80a9be2d1c2a93aa99ec14934a",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/f2a-akamywek-replica/v1/f2a-akamywek-replica_seven_views.png"
         }
-      ]
+      ],
+      "original_author": "Akamywek",
+      "original_post": "https://live.warthunder.com/post/1169410/en/",
+      "work_kind": "原作临摹"
     }
   ],
   "references": [

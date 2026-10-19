@@ -2,11 +2,11 @@
 
 Grok bot 制作的红弩箭主题 Su-30MKK 涂装，采用红黑配色与 Akamywek 风格线条。
 
-版本：[v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30mkk-lilya-arbalest-grok/v4) · 状态：待评价
+版本：[v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30mkk-lilya-arbalest-grok/v4) · 状态：已认可
 
 ![预览](preview.png)
 
-8K DDS 原包。现存文件为游戏包，未找到可编辑制作源。
+8K DDS 原包。现存文件为游戏包，未找到可编辑制作源。文字排版仍需修订。
 
 展示图为离线模型预览，使用包内贴图与近似受光；尚未完成游戏内验证。
 

@@ -12,9 +12,9 @@
 | [J-10C 陈千语 · 重修版](works/aircraft/j10c-chen-qianyu-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-chen-qianyu-repaired/v1) | 已否定 |
 | [J-10C 诀 · 重修版](works/aircraft/j10c-jue-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/v1) | 已否定 |
 | [J-16 汤汤 · 重修版](works/aircraft/j16-tangtang-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/v1) | 部分认可 |
-| [Su-30MKK 红弩箭 · Grok 版](works/aircraft/su30mkk-lilya-arbalest-grok/README.md) | [v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30mkk-lilya-arbalest-grok/v4) | 待评价 |
-| [J-10C 诀 · Grok 版](works/aircraft/j10c-jue-grok/README.md) | [v17](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/v17) | 待评价 |
-| [F-2A · Akamywek 复刻](works/aircraft/f2a-akamywek-replica/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/f2a-akamywek-replica/v1) | 待评价 |
+| [Su-30MKK 红弩箭 · Grok 版](works/aircraft/su30mkk-lilya-arbalest-grok/README.md) | [v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30mkk-lilya-arbalest-grok/v4) | 已认可 |
+| [J-10C 诀 · Grok 版](works/aircraft/j10c-jue-grok/README.md) | [v17](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/v17) | 已认可 |
+| [F-2A · Akamywek 原作临摹](works/aircraft/f2a-akamywek-replica/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/f2a-akamywek-replica/v1) | 待评价 |
 
 ## 坦克
 
