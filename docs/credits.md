@@ -8,7 +8,7 @@ Akamywek 风格作品以该作者的公开涂装为风格参考。
 
 ## 终末地坦克
 
-Leopard 2A7HU ENDFIELD 基于 HK416の午夜福音 的 [Leopard 2A7V 原作](https://live.warthunder.com/post/1162771/en/)适配。车体和炮管保留原作纹理，HU 专属构件另行适配。原作者与来源同时标在作品页和[参考目录](../references/README.md)。
+Leopard 2A7HU ENDFIELD 基于 HK416の午夜福音 的 [Leopard 2A7V 原作](https://live.warthunder.com/post/1162771/en/)适配。车体主体图案与炮管沿用原作，车型铭牌适配为 LEOPARD2A7HU，HU 专属构件另行适配。原作者与来源同时标在作品页和[参考目录](../references/README.md)。
 
 ## F-2A 复刻
 
