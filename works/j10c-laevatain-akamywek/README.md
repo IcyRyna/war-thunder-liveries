@@ -1,4 +1,4 @@
-# J-10C 莱万汀 · Akamywek 风格
+# J-10C 莱万汀
 
 ![七视图](preview.png)
 
@@ -6,21 +6,20 @@
 | --- | --- |
 | 机型 | J-10C |
 | 角色 | 莱万汀 |
-| 风格 | Akamywek 风格 |
-| 当前版本 | [v6](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/v6) |
-| 日期 | 2026-10-19 |
+| 风格 | v1–v6 Akamywek 风格；v7 概念图优先（GPT 整机概念，黑白斜分加红带） |
+| 当前版本 | [v7](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/v7) |
+| 日期 | 2026-10-20 |
 | 状态 | 待评价 |
-| 说明 | 第二阶段，上立绘。在 v5 基本布局上放 4 张不同的人物：左翼上表面官方截图 3、右翼上表面官方截图 1（背景由 GPT 换成纯灰后抠图），垂尾左右两面各一张 GPT 参考官方图画的新姿态；人物铺满主翼上表面（只留翼尖条纹），垂尾人物从头往下取、在根部深色带截断；垂尾不再放字和平行四边形序列。俯视面积 深底 49.8% / 签名色 25.5% / 淡染 7.2% / 白 5.7%。还没进游戏实机看过。 |
+| 说明 | 新路子的第一架：先让 GPT 在 J-10C 真模型的正交渲染上画整机概念图（共 14 套），用户选了 W4：深炭机头和前机身沿斜直线分到白色后机身和外翼，分界线一条红色宽带，两翼各一个莱万汀，垂尾半身像。概念图对齐真模型轮廓后描成直线多边形，在 8192 贴图上直接求值；三个人物由 GPT 参照官方立绘按概念里的姿势高清重画，放大 2 倍后抠图放回。白底一层亮漆（R 228、B 56）。还没进游戏实机看过。 |
 | 工作区任务 | `war-thunder-skins/assignments/j10c-laevatain-akamywek-20261018` |
 
 ## 文件（在 Release 里下载）
 
 | 文件 | 类型 | 大小 | SHA-256 |
 | --- | --- | --- | --- |
-| `J10C_Laevatain_Akamywek_v6.zip` | 游戏包（TGA，颜色 8192） | 22.9 MB | `9d215e2fab01af17…` |
-| `J10C_Laevatain_Akamywek_v6_Editable.zip` | 可编辑工程（Composa 工程、图层、矢量稿、设计源、立绘抠图与 GPT 原图） | 57.5 MB | `be451abc6dec1668…` |
-| `J10C_Laevatain_Akamywek_v6.cmps` | 可编辑工程（Composa） | 14.8 MB | `c4af348ea437f2ad…` |
-| `J10C_Laevatain_v6_install_notes_zh.txt` | 使用说明（中文） | 2.6 KB | `692997e7be40fc48…` |
+| `J10C_Laevatain_Akamywek_v7.zip` | 游戏包（TGA，颜色 8192） | 29.4 MB | `c8ead8f0b1b38633…` |
+| `J10C_Laevatain_Akamywek_v7_Editable.zip` | 可编辑包（图层、矢量稿、设计源、概念图、人物 GPT 原图与抠图；无 Composa 工程） | 43.9 MB | `64ab5f18aa56d237…` |
+| `J10C_Laevatain_v7_install_notes_zh.txt` | 使用说明（中文） | 2.6 KB | `d55316df75ac7d54…` |
 
 ## 安装
 
@@ -30,6 +29,7 @@
 
 | 版本 | 日期 | 状态 |
 | --- | --- | --- |
+| v7 | 2026-10-20 | 待评价（概念图优先：GPT 整机概念 W4，黑白斜分加红带，三处立绘） |
 | v6 | 2026-10-19 | 待评价（第二阶段：主翼上表面和垂尾两面放 4 张立绘，垂尾去掉字） |
 | v5 | 2026-10-19 | 未单独评价；v6 在它上面放立绘（机背白色改用构造线切格，去掉回声细线，描边加粗） |
 | v4 | 2026-10-19 | 被 v5 取代：游戏里看机背白色太弱（梳子状回声细线、整块白板） |

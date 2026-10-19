@@ -10,7 +10,7 @@
 | --- | --- | --- | --- | --- |
 | [J-16 陈千语](works/j16-chen-qianyu-akamywek/README.md) | Akamywek 风格 | [v10](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu-akamywek/v10) | 2026-10-18 | 已认可 |
 | [J-10C 庄方宜](works/j10c-zhuang-fangyi-akamywek/README.md) | Akamywek 风格 | [v3](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/v3) | 2026-10-18 | 待评价 |
-| [J-10C 莱万汀](works/j10c-laevatain-akamywek/README.md) | Akamywek 风格 | [v6](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/v6) | 2026-10-19 | 待评价 |
+| [J-10C 莱万汀](works/j10c-laevatain-akamywek/README.md) | 概念图优先（v1–v6 Akamywek 风格） | [v7](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/v7) | 2026-10-20 | 待评价 |
 | [J-16 陈千语](works/j16-chen-qianyu/README.md) | 早期风格 | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu/v1) | 2026-10-16 | 待评价 |
 | [J-10C 陈千语](works/j10c-chen-qianyu-repaired/README.md) | 早期风格（重修版） | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-chen-qianyu-repaired/v1) | 2026-10-16 | 待评价 |
 | [J-10C 诀](works/j10c-jue-repaired/README.md) | 早期风格（重修版） | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/v1) | 2026-10-16 | 待评价 |
