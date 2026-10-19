@@ -294,6 +294,99 @@
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-rossi/v1/J16_Rossi_editable.zip"
         }
       ]
+    },
+    {
+      "id": "su30mkk-lilya-arbalest-grok",
+      "category": "aircraft",
+      "title": "Su-30MKK 红弩箭 · Grok 版",
+      "version": "v4",
+      "status": "待评价",
+      "description": "Grok bot 制作的红弩箭主题 Su-30MKK 涂装，采用红黑配色与 Akamywek 风格线条。",
+      "note": "8K DDS 原包。现存文件为游戏包，未找到可编辑制作源。",
+      "creator": "Grok bot",
+      "page": "works/aircraft/su30mkk-lilya-arbalest-grok/README.md",
+      "preview": "works/aircraft/su30mkk-lilya-arbalest-grok/preview.png",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30mkk-lilya-arbalest-grok/v4",
+      "assets": [
+        {
+          "name": "Su30MKK_Lilya_Arbalest_v4.zip",
+          "size": 6343813,
+          "sha256": "2e85b1054c86549e736769fc9d312271eabf600016c3d545197007a48c2df171",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/su30mkk-lilya-arbalest-grok/v4/Su30MKK_Lilya_Arbalest_v4.zip"
+        },
+        {
+          "name": "su30mkk-lilya-arbalest-grok_seven_views.png",
+          "size": 793768,
+          "sha256": "7c35599dbc5515c9b6e3f69ba94ad3dbbd4f9cecafd726cf75ea2536bbf48e76",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/su30mkk-lilya-arbalest-grok/v4/su30mkk-lilya-arbalest-grok_seven_views.png"
+        }
+      ]
+    },
+    {
+      "id": "j10c-jue-grok",
+      "category": "aircraft",
+      "title": "J-10C 诀 · Grok 版",
+      "version": "v17",
+      "status": "待评价",
+      "description": "Grok bot 制作的诀主题 J-10C 涂装，采用青黑配色，机翼和垂尾布置人物。",
+      "note": "这是 Grok 的 v17，与“诀·重修版 v1”分别保存。现有 8K DDS 和 4K TGA 两种游戏包，未找到可编辑制作源。",
+      "creator": "Grok bot",
+      "page": "works/aircraft/j10c-jue-grok/README.md",
+      "preview": "works/aircraft/j10c-jue-grok/preview.png",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/v17",
+      "assets": [
+        {
+          "name": "J10C_Jue_Akamywek_v17.zip",
+          "size": 10011908,
+          "sha256": "c3b0c8b83b9c32c80ea6b54b2ce8e71737a5e2cef64bfbcb025274bffbac572c",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/v17/J10C_Jue_Akamywek_v17.zip"
+        },
+        {
+          "name": "J10C_Jue_Akamywek_v17_TGA4K_fallback.zip",
+          "size": 11081527,
+          "sha256": "3f0f5d1c16ab08e8fec647be715ad1b1c9899ad895821d40bbe0191d846cd307",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/v17/J10C_Jue_Akamywek_v17_TGA4K_fallback.zip"
+        },
+        {
+          "name": "j10c-jue-grok_seven_views.png",
+          "size": 748017,
+          "sha256": "c1c9881fd0b5cd933b42cd01c37dd019705219be2bfb0652bed08353cae9dc0d",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/v17/j10c-jue-grok_seven_views.png"
+        }
+      ]
+    },
+    {
+      "id": "f2a-akamywek-replica",
+      "category": "aircraft",
+      "title": "F-2A · Akamywek 复刻",
+      "version": "v1",
+      "status": "待评价",
+      "description": "Claude 对 Akamywek F-2A M4 SOPMOD II 涂装的学习复刻，保存 r14 的现有结果。",
+      "note": "备份版本 v1，制作修订 r14。颜色图按原作测量重建，材质与挂载贴图沿用原包。源资料含36组设计 JSON、颜色图和离线场景，整套自动重建命令未整理。",
+      "creator": "Claude",
+      "page": "works/aircraft/f2a-akamywek-replica/README.md",
+      "preview": "works/aircraft/f2a-akamywek-replica/preview.png",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/f2a-akamywek-replica/v1",
+      "assets": [
+        {
+          "name": "F2A_Replica_Claude_r14_v1.zip",
+          "size": 19096462,
+          "sha256": "3980649fa5898f828007593ebf03a8587d562b79792ff9f473cb9b013e7bd1b3",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/f2a-akamywek-replica/v1/F2A_Replica_Claude_r14_v1.zip"
+        },
+        {
+          "name": "F2A_Replica_Claude_r14_Source_v1.zip",
+          "size": 23904233,
+          "sha256": "4843ecbdd2e8f19f1b4521bf43e11f3e72ca33ce87557ad339d8341bfc3fa548",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/f2a-akamywek-replica/v1/F2A_Replica_Claude_r14_Source_v1.zip"
+        },
+        {
+          "name": "f2a-akamywek-replica_seven_views.png",
+          "size": 612652,
+          "sha256": "da80017d9fed16567e5631cab22e78d044e4af80a9be2d1c2a93aa99ec14934a",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/f2a-akamywek-replica/v1/f2a-akamywek-replica_seven_views.png"
+        }
+      ]
     }
   ],
   "references": [
