@@ -20,6 +20,7 @@
 
 | 作品 | 版本 | 状态 |
 | --- | --- | --- |
+| [EMBT（法国）· ENDFIELD](works/ground/embt-endfield/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/v1) | 待评价 |
 | [Leopard 2A7HU · ENDFIELD](works/ground/leopard2a7hu-endfield/README.md) | [v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v4) | 已认可 |
 
 ## 历史方案
