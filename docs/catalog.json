@@ -200,39 +200,39 @@
       "version": "v4",
       "status": "已认可",
       "description": "A7V ENDFIELD 的 A7HU 适配版。车体主体图案与炮管沿用原作，车型铭牌适配为 LEOPARD2A7HU，炮塔、附加件和遥控武器站按 A7HU 制作。",
-      "note": "v4 修复炮塔前斜装甲的图案错位。展示图为离线模型预览。 两侧车体铭牌补为 LEOPARD2A7HU，沿用 v4 原位置替换。",
+      "note": "v4 已修复炮塔前斜装甲与车首灯组图案，保留 LEOPARD2A7HU 铭牌、顶盖和武器站修订。黄条延续至灯罩折边；左右灯罩共用 UV，对侧对应位置同步黄色。展示图为离线模型预览。",
       "page": "works/ground/leopard2a7hu-endfield/README.md",
       "preview": "works/ground/leopard2a7hu-endfield/preview.png",
       "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v4",
       "assets": [
         {
           "name": "Leopard2A7HU_ENDFIELD_v4.zip",
-          "size": 128740611,
-          "sha256": "4970d44c34b4c1508c6f486af49a7520106eb786dfb550a59a9830a965ca0f28",
+          "size": 128533196,
+          "sha256": "6f32ccc30df6464e40a62a2c52270e5c997ab881145b38ed0b717cdc6109eb16",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/Leopard2A7HU_ENDFIELD_v4.zip"
         },
         {
           "name": "Leopard2A7HU_ENDFIELD_v4_editable.zip",
-          "size": 353448573,
-          "sha256": "4f569182d53f7490d549bccbe758fed74c994287b2c90539f8525545bf59bb0d",
+          "size": 404152833,
+          "sha256": "f1d48b1cf70e93fc73899db547fff710da24d4590a52c2ddf1a8e7f2a21d1382",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/Leopard2A7HU_ENDFIELD_v4_editable.zip"
         },
         {
           "name": "Leopard2A7HU_ENDFIELD_v4_preview_r2.zip",
-          "size": 12364377,
-          "sha256": "2ac515c93f441fd9194503222507f76bf67243cb47e1530977bc3948f31f65f3",
+          "size": 12368323,
+          "sha256": "0ffc6a1ab986ae61fb48b074d2b230a80a29725c59181c22b51470fa649f7319",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/Leopard2A7HU_ENDFIELD_v4_preview_r2.zip"
         },
         {
           "name": "views.png",
-          "size": 2878952,
-          "sha256": "05efb292caa22b09d9fe744e6dde888d56563aed8a046cedb4520cbd5bb512c3",
+          "size": 2879586,
+          "sha256": "4712ec57269df9f69d0b482b0f469991a57c76defc22a2abb0cabcab12016121",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/views.png"
         },
         {
           "name": "views_studio_r2.png",
-          "size": 2878952,
-          "sha256": "05efb292caa22b09d9fe744e6dde888d56563aed8a046cedb4520cbd5bb512c3",
+          "size": 2879586,
+          "sha256": "4712ec57269df9f69d0b482b0f469991a57c76defc22a2abb0cabcab12016121",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/views_studio_r2.png"
         }
       ]
