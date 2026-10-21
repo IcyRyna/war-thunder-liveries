@@ -24,7 +24,7 @@
 | --- | --- | --- |
 | [embt-endfield-skin.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-skin.zip) | 游戏涂装 | 251.0 MiB |
 | [embt-endfield-source.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-source.zip) | 可编辑工程与源码 | 1.0 MiB |
-| [embt-endfield-seven-views.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-seven-views.png) | 展示图 PNG | 6.6 MiB |
+| [embt-endfield-seven-views.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-seven-views.png) | 展示图 PNG | 7.1 MiB |
 | [embt-endfield-hero-front.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-front.png) | 单视角大图 PNG | 2.0 MiB |
 | [embt-endfield-hero-opposite.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-opposite.png) | 单视角大图 PNG | 2.3 MiB |
 | [embt-endfield-hero-overview.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-overview.png) | 单视角大图 PNG | 2.6 MiB |

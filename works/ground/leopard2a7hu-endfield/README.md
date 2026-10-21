@@ -24,7 +24,7 @@
 | --- | --- | --- |
 | [leopard2a7hu-endfield-skin.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-skin.zip) | 游戏涂装 | 125.1 MiB |
 | [leopard2a7hu-endfield-source.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-source.zip) | 可编辑工程与源码 | 20.2 MiB |
-| [leopard2a7hu-endfield-seven-views.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-seven-views.png) | 展示图 PNG | 6.7 MiB |
+| [leopard2a7hu-endfield-seven-views.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-seven-views.png) | 展示图 PNG | 7.3 MiB |
 | [leopard2a7hu-endfield-hero-front.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-hero-front.png) | 单视角大图 PNG | 2.0 MiB |
 | [leopard2a7hu-endfield-hero-opposite.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-hero-opposite.png) | 单视角大图 PNG | 2.3 MiB |
 | [leopard2a7hu-endfield-hero-overview.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-hero-overview.png) | 单视角大图 PNG | 2.7 MiB |
