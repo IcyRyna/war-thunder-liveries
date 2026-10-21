@@ -1,20 +1,23 @@
 # J-16 Rossi · 早期版
 
-Rossi 主题的早期 J-16 涂装。
-
-版本：[v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-rossi/v1) · 状态：已否定
-
-![预览](preview.png)
+状态：已否定
 
 清晰度不足，保留为历史方案。
 
+内部标识：`6B5D45B9`
+
+## 七视图
+
+![当前展示](preview.png)
+
 ## 下载
 
-| 文件 | 大小 |
-| --- | --- |
-| [TGA 涂装包](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-rossi/v1/J16_Rossi_4K.zip) | 7.6 MB |
-| [设计源包](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-rossi/v1/J16_Rossi_editable.zip) | 89.6 MB |
+| 文件 | 内容 | 大小 |
+| --- | --- | --- |
+| [j16-rossi-skin.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-rossi/current/j16-rossi-skin.zip) | 游戏涂装 | 7.2 MiB |
+| [j16-rossi-source.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-rossi/current/j16-rossi-source.zip) | 可编辑工程与源码 | 85.4 MiB |
+| [j16-rossi-seven-views.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-rossi/current/j16-rossi-seven-views.png) | 展示图 PNG | 1.0 MiB |
 
-[安装说明](../../../docs/installation.md) · [SHA-256 校验](../../../docs/checksums/j16-rossi.sha256)
+游戏包解压后，把整个涂装文件夹放入对应客户端的 `UserSkins/`。源码保留原目录与修订文件名，便于继续编辑；它们不作为公开制作版本标识。
 
-[返回作品目录](../../../README.md)
+[当前发布与全部附件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-rossi/current) · [校验值](../../../docs/checksums/j16-rossi.sha256) · [安装说明](../../../docs/installation.md) · [返回目录](../../../README.md)

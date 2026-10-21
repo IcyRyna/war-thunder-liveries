@@ -1,23 +1,25 @@
 # J-10C 诀 · Grok 版
 
-Grok bot 制作的诀主题 J-10C 涂装，采用青黑配色，机翼和垂尾布置人物。
-
-版本：[v17](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/v17) · 状态：已认可
-
-![预览](preview.png)
+状态：已认可
 
 这是 Grok 的 v17，与“诀·重修版 v1”分别保存。现有 8K DDS 和 4K TGA 两种游戏包，未找到可编辑制作源。
 
-展示图为离线模型预览，使用包内贴图与近似受光；尚未完成游戏内验证。
+内部标识：`F268AA1E`
+
+## 七视图
+
+![当前展示](preview.png)
 
 ## 下载
 
-| 文件 | 大小 |
-| --- | --- |
-| [DDS 涂装包（8K）](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/v17/J10C_Jue_Akamywek_v17.zip) | 10.0 MB |
-| [TGA 涂装包（4K）](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/v17/J10C_Jue_Akamywek_v17_TGA4K_fallback.zip) | 11.1 MB |
-| [七视图](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/v17/j10c-jue-grok_seven_views.png) | 0.7 MB |
+| 文件 | 内容 | 大小 |
+| --- | --- | --- |
+| [j10c-jue-grok-skin.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/current/j10c-jue-grok-skin.zip) | 游戏涂装 | 9.5 MiB |
+| [j10c-jue-grok-skin-tga-fallback.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/current/j10c-jue-grok-skin-tga-fallback.zip) | 游戏涂装 | 10.6 MiB |
+| [j10c-jue-grok-seven-views.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/current/j10c-jue-grok-seven-views.png) | 展示图 PNG | 0.7 MiB |
 
-[安装说明](../../../docs/installation.md) · [SHA-256 校验](../../../docs/checksums/j10c-jue-grok.sha256)
+游戏包解压后，把整个涂装文件夹放入对应客户端的 `UserSkins/`。源码保留原目录与修订文件名，便于继续编辑；它们不作为公开制作版本标识。
 
-[返回作品目录](../../../README.md)
+未找到可分发的原生编辑工程；此处保存现有游戏文件与展示资料。
+
+[当前发布与全部附件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/current) · [校验值](../../../docs/checksums/j10c-jue-grok.sha256) · [安装说明](../../../docs/installation.md) · [返回目录](../../../README.md)

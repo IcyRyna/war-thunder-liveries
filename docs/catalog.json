@@ -1,405 +1,676 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "works": [
     {
-      "id": "j16-chen-qianyu-akamywek",
+      "id": "j16-rossi",
+      "title": "J-16 Rossi · 早期版",
       "category": "aircraft",
-      "title": "J-16 陈千语 · Akamywek 风格",
-      "version": "v10",
-      "status": "已认可",
-      "description": "陈千语主题的 J-16 涂装，采用 Akamywek 风格。",
-      "note": "使用较早的偏哑光材质，保留原机法线。",
-      "page": "works/aircraft/j16-chen-qianyu-akamywek/README.md",
-      "preview": "works/aircraft/j16-chen-qianyu-akamywek/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu-akamywek/v10",
-      "assets": [
-        {
-          "name": "J16_ChenQianyu_Akamywek.cmps",
-          "size": 11176670,
-          "sha256": "f58355c6ca6cdebe82d9293ac3de4ed97f03e917fd4deba1ca6637ecd739e98e",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu-akamywek/v10/J16_ChenQianyu_Akamywek.cmps"
-        },
-        {
-          "name": "J16_ChenQianyu_Akamywek_4K.zip",
-          "size": 13309201,
-          "sha256": "a4c2ac8e7f2e67d7e57505d280bfee1d461bd7fa4c0355d2c563ca2485572f5c",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu-akamywek/v10/J16_ChenQianyu_Akamywek_4K.zip"
-        },
-        {
-          "name": "J16_ChenQianyu_Akamywek_Editable.zip",
-          "size": 42017288,
-          "sha256": "9b1d04c1a77010da84f990a25c68859ddaab18129b3515dda590398f056e22a4",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu-akamywek/v10/J16_ChenQianyu_Akamywek_Editable.zip"
-        }
-      ]
-    },
-    {
-      "id": "j10c-zhuang-fangyi-akamywek",
-      "category": "aircraft",
-      "title": "J-10C 庄方宜 · Akamywek 风格",
-      "version": "v3",
-      "status": "部分认可",
-      "description": "庄方宜主题的 J-10C 涂装，采用 Akamywek 风格。",
-      "note": "当前仍保留原机法线，机腹有细白线；材质和白线尚需修订。",
-      "page": "works/aircraft/j10c-zhuang-fangyi-akamywek/README.md",
-      "preview": "works/aircraft/j10c-zhuang-fangyi-akamywek/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/v3",
-      "assets": [
-        {
-          "name": "J10C_ZhuangFangyi_Akamywek_4K_v3.zip",
-          "size": 15750652,
-          "sha256": "8830856d95729d0fcc162d75996ca0afe925b8fee34c22316f039e07cb0d7c18",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-zhuang-fangyi-akamywek/v3/J10C_ZhuangFangyi_Akamywek_4K_v3.zip"
-        },
-        {
-          "name": "J10C_ZhuangFangyi_Akamywek_v3_Editable.zip",
-          "size": 39639934,
-          "sha256": "176d07532cb0fed9aa15aee48ef414a138e4b3e0c0bd9b417ecc644f016d3d9b",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-zhuang-fangyi-akamywek/v3/J10C_ZhuangFangyi_Akamywek_v3_Editable.zip"
-        }
-      ]
-    },
-    {
-      "id": "j16-chen-qianyu",
-      "category": "aircraft",
-      "title": "J-16 陈千语 · 早期版",
-      "version": "v1",
       "status": "已否定",
-      "description": "陈千语主题的早期 J-16 涂装。",
-      "note": "8K 离线版本，尚未完成游戏内验证。",
-      "page": "works/aircraft/j16-chen-qianyu/README.md",
-      "preview": "works/aircraft/j16-chen-qianyu/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu/v1",
+      "note": "清晰度不足，保留为历史方案。",
+      "page": "works/aircraft/j16-rossi/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-rossi/current",
+      "current": true,
+      "preview": "works/aircraft/j16-rossi/preview.png",
       "assets": [
         {
-          "name": "J16_ChenQianyu_8K.zip",
-          "size": 30912404,
-          "sha256": "bd9359a3f68ed5bc4abc574daa693b6c645f3f4ee255bd00aa509d353860782b",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu/v1/J16_ChenQianyu_8K.zip"
+          "name": "j16-rossi-skin.zip",
+          "size": 7555194,
+          "sha256": "61f9ea2f05c2ca886b43198a2beba19b9ab20f188a412a260744349236074374",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-rossi/current/j16-rossi-skin.zip"
         },
         {
-          "name": "J16_ChenQianyu_8K_DDS_RGBA8.zip",
-          "size": 43797797,
-          "sha256": "69ebc5167ef58f3c565f656d431fe5b155fa3760298766d1194b84e5b2acf52b",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu/v1/J16_ChenQianyu_8K_DDS_RGBA8.zip"
+          "name": "j16-rossi-source.zip",
+          "size": 89573468,
+          "sha256": "11b368c3b79c7e906ecb891ff48d8f0e98bd2557cc99905051f68af4648d7ec4",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-rossi/current/j16-rossi-source.zip"
         },
         {
-          "name": "J16_ChenQianyu_Editable.zip",
-          "size": 33182686,
-          "sha256": "8127eb2184d5ab95968fd9e509bbd7d3a16a770c57a378664bb1bc7dbee6b01d",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu/v1/J16_ChenQianyu_Editable.zip"
-        },
-        {
-          "name": "J16_ChenQianyu_install_notes_zh.txt",
-          "size": 2220,
-          "sha256": "98f082e2dfb55f3a8447c6fa3aaae9288bd7586466aa6eb2b9166f0b5e7ef588",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu/v1/J16_ChenQianyu_install_notes_zh.txt"
-        }
-      ]
-    },
-    {
-      "id": "j10c-chen-qianyu-repaired",
-      "category": "aircraft",
-      "title": "J-10C 陈千语 · 重修版",
-      "version": "v1",
-      "status": "已否定",
-      "description": "陈千语主题的 J-10C 涂装，对线条与材质作了修订。",
-      "note": "8K，尚未完成游戏内验证。",
-      "page": "works/aircraft/j10c-chen-qianyu-repaired/README.md",
-      "preview": "works/aircraft/j10c-chen-qianyu-repaired/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-chen-qianyu-repaired/v1",
-      "assets": [
-        {
-          "name": "J10C_ChenQianyu_Repaired_8K_DDS_RGBA8.zip",
-          "size": 39350438,
-          "sha256": "0d106cfae1921ba11edf88e2b37b978323589194bdef8c06ff5350fd4c1ba59d",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-chen-qianyu-repaired/v1/J10C_ChenQianyu_Repaired_8K_DDS_RGBA8.zip"
-        },
-        {
-          "name": "J10C_ChenQianyu_Repaired_8K_Editable.zip",
-          "size": 133330747,
-          "sha256": "e2876757ae56a95e11c3026d61f5148058c6a64c9f2cec25c57acbc269490670",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-chen-qianyu-repaired/v1/J10C_ChenQianyu_Repaired_8K_Editable.zip"
-        },
-        {
-          "name": "J10C_ChenQianyu_Repaired_8K_TGA.zip",
-          "size": 26805772,
-          "sha256": "6ba0744133cc1edd0f9a8f4c9f73528ae82c809bc4e0fe61ebe94dfd63e9f90f",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-chen-qianyu-repaired/v1/J10C_ChenQianyu_Repaired_8K_TGA.zip"
-        }
-      ]
-    },
-    {
-      "id": "j10c-jue-repaired",
-      "category": "aircraft",
-      "title": "J-10C 诀 · 重修版",
-      "version": "v1",
-      "status": "已否定",
-      "description": "诀主题的 J-10C 涂装，对线条与材质作了修订。",
-      "note": "8K，尚未完成游戏内验证。",
-      "page": "works/aircraft/j10c-jue-repaired/README.md",
-      "preview": "works/aircraft/j10c-jue-repaired/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/v1",
-      "assets": [
-        {
-          "name": "J10C_Jue_Repaired_8K_DDS_RGBA8.zip",
-          "size": 38647031,
-          "sha256": "fb581bdcbdc57e8e8847ed539b365b186b64945cf4eb5b409128747f5a3bb3d9",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-repaired/v1/J10C_Jue_Repaired_8K_DDS_RGBA8.zip"
-        },
-        {
-          "name": "J10C_Jue_Repaired_8K_Editable.zip",
-          "size": 150807280,
-          "sha256": "e8479562176e89accb96c8316d0ffb58e10017cd7417fad304f3c032eb1b5917",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-repaired/v1/J10C_Jue_Repaired_8K_Editable.zip"
-        },
-        {
-          "name": "J10C_Jue_Repaired_8K_TGA.zip",
-          "size": 26729634,
-          "sha256": "e3957a1d53b229747b820bc9ef06f6f8a5fe5af167411eabc5b565bbc6ca04d3",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-repaired/v1/J10C_Jue_Repaired_8K_TGA.zip"
-        }
-      ]
-    },
-    {
-      "id": "j16-tangtang-repaired",
-      "category": "aircraft",
-      "title": "J-16 汤汤 · 重修版",
-      "version": "v1",
-      "status": "部分认可",
-      "description": "汤汤主题的 J-16 涂装，对清晰度与材质作了修订。",
-      "note": "8K，尚未完成游戏内验证。",
-      "page": "works/aircraft/j16-tangtang-repaired/README.md",
-      "preview": "works/aircraft/j16-tangtang-repaired/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/v1",
-      "assets": [
-        {
-          "name": "J16_Tangtang_Repaired_8K_DDS_RGBA8.zip",
-          "size": 34859806,
-          "sha256": "affb9abb69ffc543241cc731edac9e4f188d72e4dcb1ef3e6055e71f028c5cfc",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-tangtang-repaired/v1/J16_Tangtang_Repaired_8K_DDS_RGBA8.zip"
-        },
-        {
-          "name": "J16_Tangtang_Repaired_8K_Editable.zip",
-          "size": 114856203,
-          "sha256": "7090e81d658070c4db2dfb958429ee00a2421c81f7617edc95d0e2ea2dbaa8c6",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-tangtang-repaired/v1/J16_Tangtang_Repaired_8K_Editable.zip"
-        },
-        {
-          "name": "J16_Tangtang_Repaired_8K_TGA.zip",
-          "size": 23673673,
-          "sha256": "0ba489ef6419db5f6eddff7a4b8a5d42b5e5d0025ba0d9fa443a47dbd9e50840",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-tangtang-repaired/v1/J16_Tangtang_Repaired_8K_TGA.zip"
-        }
-      ]
-    },
-    {
-      "id": "leopard2a7hu-endfield",
-      "category": "ground",
-      "title": "Leopard 2A7HU · ENDFIELD",
-      "version": "v4",
-      "status": "已认可",
-      "description": "A7V ENDFIELD 的 A7HU 适配版。车体主体图案与炮管沿用原作，车型铭牌适配为 LEOPARD2A7HU，炮塔、附加件和遥控武器站按 A7HU 制作。",
-      "note": "v4 已修复炮塔前斜装甲与车首灯组图案，保留 LEOPARD2A7HU 铭牌、顶盖和武器站修订。黄条延续至灯罩折边；左右灯罩共用 UV，对侧对应位置同步黄色。展示图为离线模型预览。",
-      "page": "works/ground/leopard2a7hu-endfield/README.md",
-      "preview": "works/ground/leopard2a7hu-endfield/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v4",
-      "assets": [
-        {
-          "name": "Leopard2A7HU_ENDFIELD_v4.zip",
-          "size": 128531583,
-          "sha256": "8091a4467729f3c354bc25fae076b23a2d574a6df4dc95ae9df2a779c50cfa01",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/Leopard2A7HU_ENDFIELD_v4.zip"
-        },
-        {
-          "name": "Leopard2A7HU_ENDFIELD_v4_editable.zip",
-          "size": 404152833,
-          "sha256": "f1d48b1cf70e93fc73899db547fff710da24d4590a52c2ddf1a8e7f2a21d1382",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/Leopard2A7HU_ENDFIELD_v4_editable.zip"
-        },
-        {
-          "name": "Leopard2A7HU_ENDFIELD_v4_preview_r2.zip",
-          "size": 12368323,
-          "sha256": "0ffc6a1ab986ae61fb48b074d2b230a80a29725c59181c22b51470fa649f7319",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/Leopard2A7HU_ENDFIELD_v4_preview_r2.zip"
-        },
-        {
-          "name": "views.png",
-          "size": 2879586,
-          "sha256": "4712ec57269df9f69d0b482b0f469991a57c76defc22a2abb0cabcab12016121",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/views.png"
-        },
-        {
-          "name": "views_studio_r2.png",
-          "size": 2879586,
-          "sha256": "4712ec57269df9f69d0b482b0f469991a57c76defc22a2abb0cabcab12016121",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/views_studio_r2.png"
+          "name": "j16-rossi-seven-views.png",
+          "size": 1086808,
+          "sha256": "9d99ff6112caaab077b4b6761ec66d5d990d7c644fe48973c525554968285064",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-rossi/current/j16-rossi-seven-views.png"
         }
       ]
     },
     {
       "id": "j10c-laevatain-akamywek",
-      "category": "aircraft",
       "title": "J-10C 莱万汀 · 黑白红方案",
-      "version": "v8",
+      "category": "aircraft",
       "status": "已否定",
-      "description": "黑白斜分与红色色带的 J-10C 涂装，包含机翼和垂尾的人物布局。",
       "note": "当前方案已否定，保留为历史方案。v8 改为非金属亮漆；设计源沿用 v7，v8 材质以游戏包为准。人物素材包含参考官方图的生成重绘。",
       "page": "works/aircraft/j10c-laevatain-akamywek/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/current",
+      "current": true,
       "preview": "works/aircraft/j10c-laevatain-akamywek/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/v8",
       "assets": [
         {
-          "name": "J10C_Laevatain_Akamywek_v8.zip",
-          "size": 30789056,
-          "sha256": "c4a1e3c8b3bbcb23722a8a28b4e7b9d7a947992f8c8f5819eefe3c931a856d12",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-laevatain-akamywek/v8/J10C_Laevatain_Akamywek_v8.zip"
+          "name": "j10c-laevatain-akamywek-skin.zip",
+          "size": 30789200,
+          "sha256": "82bc3142eb12d0664e3510f3efed1c4343005e2bae5b1a28ce2641cb3cb237a4",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-laevatain-akamywek/current/j10c-laevatain-akamywek-skin.zip"
         },
         {
-          "name": "J10C_Laevatain_v8_install_notes_zh.txt",
-          "size": 1347,
-          "sha256": "0ac6e4ac36dfd7137b86f96d3bdef02457e357ebdf7e27ad9cbc4083613d434d",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-laevatain-akamywek/v8/J10C_Laevatain_v8_install_notes_zh.txt"
+          "name": "j10c-laevatain-akamywek-source.zip",
+          "size": 68742773,
+          "sha256": "68965a28b915f6b9372536e36a05325d7f417e66a49f97d9e5cca17dd945b360",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-laevatain-akamywek/current/j10c-laevatain-akamywek-source.zip"
         },
         {
-          "name": "J10C_Laevatain_Akamywek_v7_Editable.zip",
-          "size": 46059021,
-          "sha256": "64ab5f18aa56d2376c5321c078be74ca8407a43bf9aecf58ed8f4fe3dbdead6d",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-laevatain-akamywek/v7/J10C_Laevatain_Akamywek_v7_Editable.zip"
+          "name": "j10c-laevatain-akamywek-seven-views.png",
+          "size": 731502,
+          "sha256": "880a55e8bc11370ffc23c3fbc65a71a5220b4d824441c3408665129b0081c3fa",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-laevatain-akamywek/current/j10c-laevatain-akamywek-seven-views.png"
         }
       ]
     },
     {
-      "id": "j16-rossi",
+      "id": "j10c-zhuang-fangyi-akamywek",
+      "title": "J-10C 庄方宜 · Akamywek 风格",
       "category": "aircraft",
-      "title": "J-16 Rossi · 早期版",
-      "version": "v1",
+      "status": "部分认可",
+      "note": "当前仍保留原机法线，机腹有细白线；材质和白线尚需修订。",
+      "page": "works/aircraft/j10c-zhuang-fangyi-akamywek/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/current",
+      "current": true,
+      "preview": "works/aircraft/j10c-zhuang-fangyi-akamywek/preview.png",
+      "assets": [
+        {
+          "name": "j10c-zhuang-fangyi-akamywek-skin.zip",
+          "size": 15750622,
+          "sha256": "552f77e9ce847f99523db662687af124febe67e0b730bf50328aa33416d17233",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-zhuang-fangyi-akamywek/current/j10c-zhuang-fangyi-akamywek-skin.zip"
+        },
+        {
+          "name": "j10c-zhuang-fangyi-akamywek-source.zip",
+          "size": 39639686,
+          "sha256": "e88de58c7ac185de370f20c7e4bdb174f829ed80782ef31dc7b2c9312084e33c",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-zhuang-fangyi-akamywek/current/j10c-zhuang-fangyi-akamywek-source.zip"
+        },
+        {
+          "name": "j10c-zhuang-fangyi-akamywek-seven-views.png",
+          "size": 517213,
+          "sha256": "a7346163f6aaa9b4c7756dde3c6efcf018f3395b2dab9c07395c368e0dbb8f4d",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-zhuang-fangyi-akamywek/current/j10c-zhuang-fangyi-akamywek-seven-views.png"
+        }
+      ]
+    },
+    {
+      "id": "j16-chen-qianyu-akamywek",
+      "title": "J-16 陈千语 · Akamywek 风格",
+      "category": "aircraft",
+      "status": "已认可",
+      "note": "使用较早的偏哑光材质，保留原机法线。",
+      "page": "works/aircraft/j16-chen-qianyu-akamywek/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu-akamywek/current",
+      "current": true,
+      "preview": "works/aircraft/j16-chen-qianyu-akamywek/preview.png",
+      "assets": [
+        {
+          "name": "j16-chen-qianyu-akamywek-skin.zip",
+          "size": 13309181,
+          "sha256": "3e5d9afc067b5abe305563ae132db07d126c8fc26e2c3d5d6a302a7d4bae94e3",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu-akamywek/current/j16-chen-qianyu-akamywek-skin.zip"
+        },
+        {
+          "name": "j16-chen-qianyu-akamywek-source.zip",
+          "size": 42020744,
+          "sha256": "69c11a8fc245f156332b05b4d9626284530343a6a16db1f3619b197f08396539",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu-akamywek/current/j16-chen-qianyu-akamywek-source.zip"
+        },
+        {
+          "name": "j16-chen-qianyu-akamywek-seven-views.png",
+          "size": 1199368,
+          "sha256": "44de1b1c3a370c88ad6d8dba64c594933b536290cb4c61454a0fc7f455d6f40c",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu-akamywek/current/j16-chen-qianyu-akamywek-seven-views.png"
+        }
+      ]
+    },
+    {
+      "id": "embt-endfield",
+      "title": "EMBT（法国）· ENDFIELD",
+      "category": "ground",
+      "status": "待评价",
+      "note": "炮塔侧甲加入完整微标、标尺与工程定位图形。当前局部修订工程与最终 DDS 配对，整套美术待评价；旧重建运行时依赖已退役。",
+      "page": "works/ground/embt-endfield/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current",
+      "current": true,
+      "preview": "works/ground/embt-endfield/preview.png",
+      "assets": [
+        {
+          "name": "embt-endfield-skin.zip",
+          "size": 263181887,
+          "sha256": "c33cf698be20ca524810e8a0b1364e059a01664fda8666bbcae221ca4dd47fbe",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-skin.zip"
+        },
+        {
+          "name": "embt-endfield-source.zip",
+          "size": 1087332,
+          "sha256": "1cd19f6c82df8617a87a04fc9a7694488048e7f0a0a177a2fa1e6132f412050a",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-source.zip"
+        },
+        {
+          "name": "embt-endfield-seven-views.png",
+          "size": 6935847,
+          "sha256": "39970eef976a0de50967a9100e55bef013f07bb66db0e9225a7930cdd7ac0a07",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-seven-views.png"
+        },
+        {
+          "name": "embt-endfield-hero-front.png",
+          "size": 2086651,
+          "sha256": "d793e68d80f4118e6dde91b74ba57b0c2a3c95bec984b44d6af7963d3516248a",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-front.png"
+        },
+        {
+          "name": "embt-endfield-hero-opposite.png",
+          "size": 2365983,
+          "sha256": "9f35ee121f13e1339af3ad4dc0b7ab91eddfb3f779d3ab5da7fd52a79426764e",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-opposite.png"
+        },
+        {
+          "name": "embt-endfield-hero-overview.png",
+          "size": 2726760,
+          "sha256": "5964de791d250cca790b327b505ad741a9ef1904c0e20fd50ee62fac0cd14e85",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-overview.png"
+        }
+      ]
+    },
+    {
+      "id": "leopard2a7v-endfield-clean-pilot",
+      "title": "Leopard 2A7V · ENDFIELD 干净试作",
+      "category": "ground",
+      "status": "待评价",
+      "note": "保留现有原生 UV 试作工程和游戏包；本次同步不代表整套美术认可或 Skill 更新。",
+      "page": "works/ground/leopard2a7v-endfield-clean-pilot/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-clean-pilot/current",
+      "current": true,
+      "preview": "works/ground/leopard2a7v-endfield-clean-pilot/preview.png",
+      "assets": [
+        {
+          "name": "leopard2a7v-endfield-clean-pilot-skin.zip",
+          "size": 165688339,
+          "sha256": "0011062d8f7cfddcda1629fa93ba965bf1ff34f263a72150296cf8a1102f16e8",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-skin.zip"
+        },
+        {
+          "name": "leopard2a7v-endfield-clean-pilot-source.zip",
+          "size": 122180340,
+          "sha256": "78369aeb375ef6a7321a96834a5265289f06ce1b2728997d0fa90f1c60e49fac",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-source.zip"
+        },
+        {
+          "name": "leopard2a7v-endfield-clean-pilot-seven-views.png",
+          "size": 6466930,
+          "sha256": "7f8110691e07be9cef08cccc753de14df741d17cddea872b24fabbc0e4107351",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-seven-views.png"
+        },
+        {
+          "name": "leopard2a7v-endfield-clean-pilot-hero-front.png",
+          "size": 1926404,
+          "sha256": "4404d85870b5cbf6915b8e57365bfdd227d05e76112056444ba0e292d20fa6f8",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-hero-front.png"
+        },
+        {
+          "name": "leopard2a7v-endfield-clean-pilot-hero-opposite.png",
+          "size": 2214380,
+          "sha256": "7f7f1cbcaf4329d003d705bba3bb3f26f2c100e36239162847343cd5308c27ce",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-hero-opposite.png"
+        },
+        {
+          "name": "leopard2a7v-endfield-clean-pilot-hero-overview.png",
+          "size": 2649209,
+          "sha256": "73ab25e7ce3c17c8f8ee840ab201eeb5647c437e5cc5fb3bd97602b13a59988b",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-hero-overview.png"
+        }
+      ]
+    },
+    {
+      "id": "leopard2a7v-endfield-handdrawn",
+      "title": "Leopard 2A7V · ENDFIELD 手绘临摹",
+      "category": "ground",
+      "status": "待评价",
+      "note": "原始手绘临摹结果。现存包提供游戏文件与制作总结，没有原生可编辑图层工程。",
+      "page": "works/ground/leopard2a7v-endfield-handdrawn/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-handdrawn/current",
+      "current": true,
+      "preview": "works/ground/leopard2a7v-endfield-handdrawn/preview.png",
+      "assets": [
+        {
+          "name": "leopard2a7v-endfield-handdrawn-skin.zip",
+          "size": 157962034,
+          "sha256": "d07a15c695f6ff40cd84f624309683f2b5154702ebd055932a3d358137ee7750",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-handdrawn/current/leopard2a7v-endfield-handdrawn-skin.zip"
+        },
+        {
+          "name": "leopard2a7v-endfield-handdrawn-seven-views.png",
+          "size": 7108281,
+          "sha256": "78f031f7694a6ffde36b5b2a9dfee1aed79a8a9e1f2919d873915a5691ca75ed",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-handdrawn/current/leopard2a7v-endfield-handdrawn-seven-views.png"
+        },
+        {
+          "name": "leopard2a7v-endfield-handdrawn-hero-front.png",
+          "size": 2144912,
+          "sha256": "fe72fc84787d2092b39f7d6144bd9b0f12f3cbd281459b529febf0e395dff56a",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-handdrawn/current/leopard2a7v-endfield-handdrawn-hero-front.png"
+        },
+        {
+          "name": "leopard2a7v-endfield-handdrawn-hero-opposite.png",
+          "size": 2417160,
+          "sha256": "63115d6bb8f22fcbe079cc307753bd335d1ceb758966738b41d8786b11cb6f71",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-handdrawn/current/leopard2a7v-endfield-handdrawn-hero-opposite.png"
+        },
+        {
+          "name": "leopard2a7v-endfield-handdrawn-hero-overview.png",
+          "size": 3001773,
+          "sha256": "37bf2698b61239e57ccc01c1eb375e073254e4fb21ff7b1415c5c46196243990",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-handdrawn/current/leopard2a7v-endfield-handdrawn-hero-overview.png"
+        },
+        {
+          "name": "leopard2a7v-endfield-handdrawn-production-notes.zip",
+          "size": 319579,
+          "sha256": "495a4254e5c0bb5a93303cceff563304edd5d62ddc9a555f9dd15b83e0ba495a",
+          "role": "source-notes",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-handdrawn/current/leopard2a7v-endfield-handdrawn-production-notes.zip"
+        }
+      ]
+    },
+    {
+      "id": "j10c-chen-qianyu-repaired",
+      "title": "J-10C 陈千语 · 重修版",
+      "category": "aircraft",
       "status": "已否定",
-      "description": "Rossi 主题的早期 J-16 涂装。",
-      "note": "清晰度不足，保留为历史方案。",
-      "page": "works/aircraft/j16-rossi/README.md",
-      "preview": "works/aircraft/j16-rossi/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-rossi/v1",
+      "note": "8K，尚未完成游戏内验证。",
+      "page": "works/aircraft/j10c-chen-qianyu-repaired/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-chen-qianyu-repaired/current",
+      "current": true,
+      "preview": "works/aircraft/j10c-chen-qianyu-repaired/preview.png",
       "assets": [
         {
-          "name": "J16_Rossi_4K.zip",
-          "size": 7556203,
-          "sha256": "489138eea97de37fc39ca6f171feed35bf045ae3e016966f46b6fbc5339cc714",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-rossi/v1/J16_Rossi_4K.zip"
+          "name": "j10c-chen-qianyu-repaired-skin-tga.zip",
+          "size": 26805736,
+          "sha256": "bf1a44a2ede71ce2f4141a9115a2dc9cf77dfda8346f3db5f1db6822b7fdfb77",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-chen-qianyu-repaired/current/j10c-chen-qianyu-repaired-skin-tga.zip"
         },
         {
-          "name": "J16_Rossi_editable.zip",
-          "size": 89574252,
-          "sha256": "37872f201f529966a92397f3fe1f5abbf06a15477cf91f6940c6b6d87bc93ae3",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-rossi/v1/J16_Rossi_editable.zip"
+          "name": "j10c-chen-qianyu-repaired-skin-dds.zip",
+          "size": 39350366,
+          "sha256": "7da6abbfd8ae8df2892ce38a9579511659956ad54dc50882209df3d3da345860",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-chen-qianyu-repaired/current/j10c-chen-qianyu-repaired-skin-dds.zip"
+        },
+        {
+          "name": "j10c-chen-qianyu-repaired-source.zip",
+          "size": 133328979,
+          "sha256": "1e746137f0b1ea799d72c8ea2560a4960115f75db60824ff07c152480ed48c1c",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-chen-qianyu-repaired/current/j10c-chen-qianyu-repaired-source.zip"
+        },
+        {
+          "name": "j10c-chen-qianyu-repaired-seven-views.png",
+          "size": 744386,
+          "sha256": "f3057e5fb4cc48f941b992a2f0bd1f735b825407b0e0c3730b46b3c95ea0d0f7",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-chen-qianyu-repaired/current/j10c-chen-qianyu-repaired-seven-views.png"
         }
       ]
     },
     {
-      "id": "su30mkk-lilya-arbalest-grok",
+      "id": "j10c-jue-repaired",
+      "title": "J-10C 诀 · 重修版",
       "category": "aircraft",
-      "title": "Su-30MKK 红弩箭 · Grok 版",
-      "version": "v4",
-      "status": "已认可",
-      "description": "Grok bot 制作的红弩箭主题 Su-30MKK 涂装，采用红黑配色与 Akamywek 风格线条。",
-      "note": "8K DDS 原包。现存文件为游戏包，未找到可编辑制作源。文字排版仍需修订。",
-      "creator": "Grok bot",
-      "page": "works/aircraft/su30mkk-lilya-arbalest-grok/README.md",
-      "preview": "works/aircraft/su30mkk-lilya-arbalest-grok/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30mkk-lilya-arbalest-grok/v4",
+      "status": "已否定",
+      "note": "8K，尚未完成游戏内验证。",
+      "page": "works/aircraft/j10c-jue-repaired/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/current",
+      "current": true,
+      "preview": "works/aircraft/j10c-jue-repaired/preview.png",
       "assets": [
         {
-          "name": "Su30MKK_Lilya_Arbalest_v4.zip",
-          "size": 6343813,
-          "sha256": "2e85b1054c86549e736769fc9d312271eabf600016c3d545197007a48c2df171",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/su30mkk-lilya-arbalest-grok/v4/Su30MKK_Lilya_Arbalest_v4.zip"
+          "name": "j10c-jue-repaired-skin-tga.zip",
+          "size": 26729592,
+          "sha256": "9d7f3b895674a4a46e88c6f860e0439947d2e1abd27f37c6df8bf767dee02b4f",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-repaired/current/j10c-jue-repaired-skin-tga.zip"
         },
         {
-          "name": "su30mkk-lilya-arbalest-grok_seven_views.png",
-          "size": 793768,
-          "sha256": "7c35599dbc5515c9b6e3f69ba94ad3dbbd4f9cecafd726cf75ea2536bbf48e76",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/su30mkk-lilya-arbalest-grok/v4/su30mkk-lilya-arbalest-grok_seven_views.png"
+          "name": "j10c-jue-repaired-skin-dds.zip",
+          "size": 38646953,
+          "sha256": "d80f763870497a5c21eb507a18c16382aab34afc3567f85c43287f5c074baa0a",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-repaired/current/j10c-jue-repaired-skin-dds.zip"
+        },
+        {
+          "name": "j10c-jue-repaired-source.zip",
+          "size": 150804640,
+          "sha256": "07aa5c16e2743d68a275ce617fbff7afd7949d3311f4e22ae8aaeda54a29b06b",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-repaired/current/j10c-jue-repaired-source.zip"
+        },
+        {
+          "name": "j10c-jue-repaired-seven-views.png",
+          "size": 772977,
+          "sha256": "6ed5602ca6a0785af74529f50d1f0a550dc2f4661e67658516833351ac9dcf70",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-repaired/current/j10c-jue-repaired-seven-views.png"
         }
       ]
     },
     {
-      "id": "j10c-jue-grok",
+      "id": "j16-tangtang-repaired",
+      "title": "J-16 汤汤 · 重修版",
       "category": "aircraft",
-      "title": "J-10C 诀 · Grok 版",
-      "version": "v17",
-      "status": "已认可",
-      "description": "Grok bot 制作的诀主题 J-10C 涂装，采用青黑配色，机翼和垂尾布置人物。",
-      "note": "这是 Grok 的 v17，与“诀·重修版 v1”分别保存。现有 8K DDS 和 4K TGA 两种游戏包，未找到可编辑制作源。",
-      "creator": "Grok bot",
-      "page": "works/aircraft/j10c-jue-grok/README.md",
-      "preview": "works/aircraft/j10c-jue-grok/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/v17",
+      "status": "部分认可",
+      "note": "8K，尚未完成游戏内验证。",
+      "page": "works/aircraft/j16-tangtang-repaired/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/current",
+      "current": true,
+      "preview": "works/aircraft/j16-tangtang-repaired/preview.png",
       "assets": [
         {
-          "name": "J10C_Jue_Akamywek_v17.zip",
-          "size": 10011908,
-          "sha256": "c3b0c8b83b9c32c80ea6b54b2ce8e71737a5e2cef64bfbcb025274bffbac572c",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/v17/J10C_Jue_Akamywek_v17.zip"
+          "name": "j16-tangtang-repaired-skin-tga.zip",
+          "size": 23673631,
+          "sha256": "e06c0c5eacbddca26ea03e6b68f0989491d94f290b2aca867dea920410aa54e1",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-tangtang-repaired/current/j16-tangtang-repaired-skin-tga.zip"
         },
         {
-          "name": "J10C_Jue_Akamywek_v17_TGA4K_fallback.zip",
-          "size": 11081527,
-          "sha256": "3f0f5d1c16ab08e8fec647be715ad1b1c9899ad895821d40bbe0191d846cd307",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/v17/J10C_Jue_Akamywek_v17_TGA4K_fallback.zip"
+          "name": "j16-tangtang-repaired-skin-dds.zip",
+          "size": 34859728,
+          "sha256": "0011e71d73ce7f8a8762b0733ea540ef175f3c83c741a1daeb4e5887fa7b9f73",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-tangtang-repaired/current/j16-tangtang-repaired-skin-dds.zip"
         },
         {
-          "name": "j10c-jue-grok_seven_views.png",
-          "size": 748017,
-          "sha256": "c1c9881fd0b5cd933b42cd01c37dd019705219be2bfb0652bed08353cae9dc0d",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/v17/j10c-jue-grok_seven_views.png"
+          "name": "j16-tangtang-repaired-source.zip",
+          "size": 114852953,
+          "sha256": "321b4e9eed27ebc869a1c9f8c221600d0a1383a7490b92d31f157a253de0118d",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-tangtang-repaired/current/j16-tangtang-repaired-source.zip"
+        },
+        {
+          "name": "j16-tangtang-repaired-seven-views.png",
+          "size": 963485,
+          "sha256": "8aa20c010f3be948bdd4d9c41460eda36c1687007fa5a1a5a025a794a1f1ad1a",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-tangtang-repaired/current/j16-tangtang-repaired-seven-views.png"
+        }
+      ]
+    },
+    {
+      "id": "j16-chen-qianyu",
+      "title": "J-16 陈千语 · 早期版",
+      "category": "aircraft",
+      "status": "已否定",
+      "note": "8K 离线版本，尚未完成游戏内验证。",
+      "page": "works/aircraft/j16-chen-qianyu/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu/current",
+      "current": true,
+      "preview": "works/aircraft/j16-chen-qianyu/preview.png",
+      "assets": [
+        {
+          "name": "j16-chen-qianyu-skin-tga.zip",
+          "size": 30912384,
+          "sha256": "f76f62cd96199600ce845db45f52e6e80bb34a0bb5efeb0cee370c7a0f6c62fa",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu/current/j16-chen-qianyu-skin-tga.zip"
+        },
+        {
+          "name": "j16-chen-qianyu-skin-dds.zip",
+          "size": 43797677,
+          "sha256": "e6642ec32341f061c21072968ac4e0333282b0c4f1182efcead7667ac763a9d7",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu/current/j16-chen-qianyu-skin-dds.zip"
+        },
+        {
+          "name": "j16-chen-qianyu-source.zip",
+          "size": 33182616,
+          "sha256": "80b945c1c2929d61e581d03bad24a885badd9423a2b19034cfc0c50191cc8f1f",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu/current/j16-chen-qianyu-source.zip"
+        },
+        {
+          "name": "j16-chen-qianyu-seven-views.png",
+          "size": 539545,
+          "sha256": "08493ec843b291b95d8f88ad2be9d2aba294bcd8b2c8c978d977f9686d452b9c",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-chen-qianyu/current/j16-chen-qianyu-seven-views.png"
         }
       ]
     },
     {
       "id": "f2a-akamywek-replica",
-      "category": "aircraft",
       "title": "F-2A · Akamywek 原作临摹",
-      "version": "v1",
+      "category": "aircraft",
       "status": "待评价",
-      "description": "临摹 WT Live 作者 Akamywek 的 F-2A「M4 SOPMOD II」涂装，保存 Claude r14 的现有结果。",
       "note": "备份版本 v1，制作修订 r14。颜色图按原作测量重建，材质与挂载贴图沿用原包。源资料含36组设计 JSON、颜色图和离线场景，整套自动重建命令未整理。",
-      "creator": "Claude",
       "page": "works/aircraft/f2a-akamywek-replica/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/f2a-akamywek-replica/current",
+      "current": true,
       "preview": "works/aircraft/f2a-akamywek-replica/preview.png",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/f2a-akamywek-replica/v1",
       "assets": [
         {
-          "name": "F2A_Replica_Claude_r14_v1.zip",
-          "size": 19096462,
-          "sha256": "3980649fa5898f828007593ebf03a8587d562b79792ff9f473cb9b013e7bd1b3",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/f2a-akamywek-replica/v1/F2A_Replica_Claude_r14_v1.zip"
+          "name": "f2a-akamywek-replica-skin.zip",
+          "size": 19095694,
+          "sha256": "5daa01ee6fb63528e5a32c25848fc5b7f5d4cc1b7af861267c9375e19f36cf30",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/f2a-akamywek-replica/current/f2a-akamywek-replica-skin.zip"
         },
         {
-          "name": "F2A_Replica_Claude_r14_Source_v1.zip",
-          "size": 23904233,
-          "sha256": "4843ecbdd2e8f19f1b4521bf43e11f3e72ca33ce87557ad339d8341bfc3fa548",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/f2a-akamywek-replica/v1/F2A_Replica_Claude_r14_Source_v1.zip"
+          "name": "f2a-akamywek-replica-source.zip",
+          "size": 23904673,
+          "sha256": "046e9b5bd32eef42f1537b1ba91d58156ddeab3473c9f85b0478c83e69505e69",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/f2a-akamywek-replica/current/f2a-akamywek-replica-source.zip"
         },
         {
-          "name": "f2a-akamywek-replica_seven_views.png",
-          "size": 612652,
-          "sha256": "da80017d9fed16567e5631cab22e78d044e4af80a9be2d1c2a93aa99ec14934a",
-          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/f2a-akamywek-replica/v1/f2a-akamywek-replica_seven_views.png"
+          "name": "f2a-akamywek-replica-seven-views.png",
+          "size": 608716,
+          "sha256": "84630cfc35b468dc78acc9ee07268c7bc3f7fc7a40e8d9d89d6d7f969b4fa1c5",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/f2a-akamywek-replica/current/f2a-akamywek-replica-seven-views.png"
         }
-      ],
-      "original_author": "Akamywek",
-      "original_post": "https://live.warthunder.com/post/1169410/en/",
-      "work_kind": "原作临摹"
+      ]
+    },
+    {
+      "id": "j10c-jue-grok",
+      "title": "J-10C 诀 · Grok 版",
+      "category": "aircraft",
+      "status": "已认可",
+      "note": "这是 Grok 的 v17，与“诀·重修版 v1”分别保存。现有 8K DDS 和 4K TGA 两种游戏包，未找到可编辑制作源。",
+      "page": "works/aircraft/j10c-jue-grok/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/current",
+      "current": true,
+      "preview": "works/aircraft/j10c-jue-grok/preview.png",
+      "assets": [
+        {
+          "name": "j10c-jue-grok-skin.zip",
+          "size": 10010647,
+          "sha256": "68842df2efd43cf5cf0491dd7d2838c2258a2f8b9effd64d3a5fae0ac0bb45ee",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/current/j10c-jue-grok-skin.zip"
+        },
+        {
+          "name": "j10c-jue-grok-skin-tga-fallback.zip",
+          "size": 11080302,
+          "sha256": "9766af4baf3336cf563d1786edd3d0fa25cb5ce91db54e26b84ad23739ec87a2",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/current/j10c-jue-grok-skin-tga-fallback.zip"
+        },
+        {
+          "name": "j10c-jue-grok-seven-views.png",
+          "size": 742944,
+          "sha256": "2078a8de67028cc7e37e60b015995e7a2c6689c1a98db375c4d7f9a8e039dbf0",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jue-grok/current/j10c-jue-grok-seven-views.png"
+        }
+      ]
+    },
+    {
+      "id": "su30mkk-lilya-arbalest-grok",
+      "title": "Su-30MKK 红弩箭 · Grok 版",
+      "category": "aircraft",
+      "status": "已认可",
+      "note": "8K DDS 原包。现存文件为游戏包，未找到可编辑制作源。文字排版仍需修订。",
+      "page": "works/aircraft/su30mkk-lilya-arbalest-grok/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30mkk-lilya-arbalest-grok/current",
+      "current": true,
+      "preview": "works/aircraft/su30mkk-lilya-arbalest-grok/preview.png",
+      "assets": [
+        {
+          "name": "su30mkk-lilya-arbalest-grok-skin.zip",
+          "size": 6341783,
+          "sha256": "0f116469f19b5a14a75e51b7aa5b249fead4b9953f6aa89ff3e0ce057ec5dc41",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/su30mkk-lilya-arbalest-grok/current/su30mkk-lilya-arbalest-grok-skin.zip"
+        },
+        {
+          "name": "su30mkk-lilya-arbalest-grok-seven-views.png",
+          "size": 792798,
+          "sha256": "80f625c805d850949b1d927bbb19009d3cf28b72310ab92db296564e43687e5d",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/su30mkk-lilya-arbalest-grok/current/su30mkk-lilya-arbalest-grok-seven-views.png"
+        }
+      ]
+    },
+    {
+      "id": "leopard2a7hu-endfield",
+      "title": "Leopard 2A7HU · ENDFIELD",
+      "category": "ground",
+      "status": "部分认可",
+      "note": "仅机枪塔所选布局获得认可，不能扩大为全车认可。当前原生 UV 工程、颜色与法线配对，实机已确认加载；最终美术待评价。",
+      "page": "works/ground/leopard2a7hu-endfield/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/current",
+      "current": true,
+      "preview": "works/ground/leopard2a7hu-endfield/preview.png",
+      "assets": [
+        {
+          "name": "leopard2a7hu-endfield-skin.zip",
+          "size": 131207532,
+          "sha256": "b8fe013e1aff0ed6bc7637ae9a996a88326053b3dff07c9e2f93230a7325a446",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-skin.zip"
+        },
+        {
+          "name": "leopard2a7hu-endfield-source.zip",
+          "size": 21212205,
+          "sha256": "8f861450525dccf3eb186b0be99e0cd43519e811e4ebe495c8755a575361abf0",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-source.zip"
+        },
+        {
+          "name": "leopard2a7hu-endfield-seven-views.png",
+          "size": 7039967,
+          "sha256": "c4c412bf23721fd9982b261ec8798fd38284fe22deb813fb99cbff75758387a0",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-seven-views.png"
+        },
+        {
+          "name": "leopard2a7hu-endfield-hero-front.png",
+          "size": 2092833,
+          "sha256": "508c2ed88c33b2304c53a20856a4521f33313596cb7c84fff497f202724cd89a",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-hero-front.png"
+        },
+        {
+          "name": "leopard2a7hu-endfield-hero-opposite.png",
+          "size": 2372411,
+          "sha256": "1210bca3aea9c9aec0d2f5a9a5a233a43348fc5ab61e3ef6369d021795ce779f",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-hero-opposite.png"
+        },
+        {
+          "name": "leopard2a7hu-endfield-hero-overview.png",
+          "size": 2839994,
+          "sha256": "c5893f7771ffc2d26d3a2716f8edac8583446e8eb70b1353f41afbbaa45283a8",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-hero-overview.png"
+        }
+      ]
     }
   ],
   "references": [
     {
       "id": "leopard2a7v-endfield",
+      "title": "Leopard 2A7V · ENDFIELD 原作",
       "category": "ground",
-      "author": "HK416の午夜福音",
+      "status": "参考原作",
+      "note": "原作者游戏包按原字节保存，作者与来源单独列明。",
       "page": "references/ground/leopard2a7v-endfield/README.md",
-      "source": "https://live.warthunder.com/post/1162771/en/",
-      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/references/leopard2a7v-endfield/1162771"
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/references/leopard2a7v-endfield/current",
+      "current": true,
+      "preview": "references/ground/leopard2a7v-endfield/preview.png",
+      "assets": [
+        {
+          "name": "leopard2a7v-endfield-original.zip",
+          "size": 213635552,
+          "sha256": "e1cc23b473a1707573e60c4d9776657d41421318ab48a5052b34f4758bfb2f10",
+          "role": "reference-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/references/leopard2a7v-endfield/current/leopard2a7v-endfield-original.zip"
+        },
+        {
+          "name": "leopard2a7v-endfield-reference.png",
+          "size": 3562713,
+          "sha256": "ac23dad3c0ae9e8271ca67a066865c0cc2d798099f4e43bba5842f777af1ad1a",
+          "role": "reference-preview",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/references/leopard2a7v-endfield/current/leopard2a7v-endfield-reference.png"
+        }
+      ]
+    },
+    {
+      "id": "f2a-akamywek",
+      "title": "F-2A · Akamywek 原作",
+      "category": "aircraft",
+      "status": "参考原作",
+      "note": "原作者游戏包按原字节保存，作者与来源单独列明。",
+      "page": "references/aircraft/f2a-akamywek/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/references/f2a-akamywek/current",
+      "current": true,
+      "preview": "references/aircraft/f2a-akamywek/preview.png",
+      "assets": [
+        {
+          "name": "f2a-akamywek-original.zip",
+          "size": 5782517,
+          "sha256": "2d61205d8e734143e59c6cfd626d0cd992e6a6dde8106937b10cdc2d8c2cbfa7",
+          "role": "reference-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/references/f2a-akamywek/current/f2a-akamywek-original.zip"
+        },
+        {
+          "name": "f2a-akamywek-reference.png",
+          "size": 838222,
+          "sha256": "5670ba010ea533ff9f969f9d33ef773823eabdc9661c41df8dfd610b1d89a25c",
+          "role": "reference-preview",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/references/f2a-akamywek/current/f2a-akamywek-reference.png"
+        }
+      ]
     }
   ]
 }

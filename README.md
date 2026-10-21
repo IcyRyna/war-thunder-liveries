@@ -1,41 +1,46 @@
 # War Thunder 涂装
 
-飞机与坦克的用户涂装。各作品页提供预览、游戏包和设计源文件的下载入口。
+当前作品、可编辑工程与独立宣传图。游戏包只包含配置与纹理，展示图分别下载。
+
+## 地面载具
+
+| 作品 | 状态 | 下载 |
+| --- | --- | --- |
+| [EMBT（法国）· ENDFIELD](works/ground/embt-endfield/README.md) | 待评价 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current) |
+| [Leopard 2A7HU · ENDFIELD](works/ground/leopard2a7hu-endfield/README.md) | 部分认可 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/current) |
 
 ## 飞机
 
-| 作品 | 版本 | 状态 |
+| 作品 | 状态 | 下载 |
 | --- | --- | --- |
-| [J-16 陈千语 · Akamywek 风格](works/aircraft/j16-chen-qianyu-akamywek/README.md) | [v10](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu-akamywek/v10) | 已认可 |
-| [J-10C 庄方宜 · Akamywek 风格](works/aircraft/j10c-zhuang-fangyi-akamywek/README.md) | [v3](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/v3) | 部分认可 |
-| [J-16 陈千语 · 早期版](works/aircraft/j16-chen-qianyu/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu/v1) | 已否定 |
-| [J-10C 陈千语 · 重修版](works/aircraft/j10c-chen-qianyu-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-chen-qianyu-repaired/v1) | 已否定 |
-| [J-10C 诀 · 重修版](works/aircraft/j10c-jue-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/v1) | 已否定 |
-| [J-16 汤汤 · 重修版](works/aircraft/j16-tangtang-repaired/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/v1) | 部分认可 |
-| [Su-30MKK 红弩箭 · Grok 版](works/aircraft/su30mkk-lilya-arbalest-grok/README.md) | [v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30mkk-lilya-arbalest-grok/v4) | 已认可 |
-| [J-10C 诀 · Grok 版](works/aircraft/j10c-jue-grok/README.md) | [v17](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/v17) | 已认可 |
-| [F-2A · Akamywek 原作临摹](works/aircraft/f2a-akamywek-replica/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/f2a-akamywek-replica/v1) | 待评价 |
+| [J-16 Rossi · 早期版](works/aircraft/j16-rossi/README.md) | 已否定 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-rossi/current) |
+| [J-10C 莱万汀 · 黑白红方案](works/aircraft/j10c-laevatain-akamywek/README.md) | 已否定 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/current) |
+| [J-10C 庄方宜 · Akamywek 风格](works/aircraft/j10c-zhuang-fangyi-akamywek/README.md) | 部分认可 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/current) |
+| [J-16 陈千语 · Akamywek 风格](works/aircraft/j16-chen-qianyu-akamywek/README.md) | 已认可 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu-akamywek/current) |
+| [J-10C 陈千语 · 重修版](works/aircraft/j10c-chen-qianyu-repaired/README.md) | 已否定 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-chen-qianyu-repaired/current) |
+| [J-10C 诀 · 重修版](works/aircraft/j10c-jue-repaired/README.md) | 已否定 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/current) |
+| [J-16 汤汤 · 重修版](works/aircraft/j16-tangtang-repaired/README.md) | 部分认可 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/current) |
+| [J-16 陈千语 · 早期版](works/aircraft/j16-chen-qianyu/README.md) | 已否定 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu/current) |
+| [F-2A · Akamywek 原作临摹](works/aircraft/f2a-akamywek-replica/README.md) | 待评价 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/f2a-akamywek-replica/current) |
+| [J-10C 诀 · Grok 版](works/aircraft/j10c-jue-grok/README.md) | 已认可 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/current) |
+| [Su-30MKK 红弩箭 · Grok 版](works/aircraft/su30mkk-lilya-arbalest-grok/README.md) | 已认可 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30mkk-lilya-arbalest-grok/current) |
 
-## 坦克
+## 独立试作与实验
 
-| 作品 | 版本 | 状态 |
+| 作品 | 状态 | 下载 |
 | --- | --- | --- |
-| [EMBT（法国）· ENDFIELD](works/ground/embt-endfield/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/v1) | 待评价 |
-| [Leopard 2A7HU · ENDFIELD](works/ground/leopard2a7hu-endfield/README.md) | [v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v4) | 已认可 |
+| [Leopard 2A7V · ENDFIELD 干净试作](works/ground/leopard2a7v-endfield-clean-pilot/README.md) | 待评价 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-clean-pilot/current) |
+| [Leopard 2A7V · ENDFIELD 手绘临摹](works/ground/leopard2a7v-endfield-handdrawn/README.md) | 待评价 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-handdrawn/current) |
 
-## 历史方案
+## 参考原作
 
-| 作品 | 版本 | 状态 |
+| 作品 | 状态 | 下载 |
 | --- | --- | --- |
-| [J-10C 莱万汀 · 黑白红方案](works/aircraft/j10c-laevatain-akamywek/README.md) | [v8](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/v8) | 已否定 |
-| [J-16 Rossi · 早期版](works/aircraft/j16-rossi/README.md) | [v1](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-rossi/v1) | 已否定 |
+| [Leopard 2A7V · ENDFIELD 原作](references/ground/leopard2a7v-endfield/README.md) | 参考原作 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/references/leopard2a7v-endfield/current) |
+| [F-2A · Akamywek 原作](references/aircraft/f2a-akamywek/README.md) | 参考原作 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/references/f2a-akamywek/current) |
 
-## 参考作品
+## 安装与工程
 
-[Leopard 2A7V ENDFIELD](references/ground/leopard2a7v-endfield/README.md) · 作者：HK416の午夜福音 · [WT Live 原帖](https://live.warthunder.com/post/1162771/en/)
+[安装说明](docs/installation.md) · [素材来源](docs/credits.md)
 
-## 下载与安装
-
-从作品页选择 TGA 或 DDS 游戏包，解压到 War Thunder 的 `UserSkins/` 目录。[安装说明](docs/installation.md)列出了文件放置方式。设计源、Composa 工程和展示图在同一作品页分别提供。
-
-[飞机目录](works/aircraft/) · [地面载具目录](works/ground/) · [素材来源](docs/credits.md)
+作品页分别提供游戏包、原生编辑工程、七视图与单视角宣传图。GitHub 自动生成的 Source code 是展示仓库快照；可编辑工程请下载作品页标明的源码 ZIP。

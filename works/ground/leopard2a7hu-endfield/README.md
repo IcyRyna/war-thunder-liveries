@@ -1,37 +1,36 @@
 # Leopard 2A7HU · ENDFIELD
 
-A7V ENDFIELD 的 A7HU 适配版。车体主体图案与炮管沿用原作，车型铭牌适配为 LEOPARD2A7HU，炮塔、附加件和遥控武器站按 A7HU 制作。
+状态：部分认可
 
-版本：[v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v4) · 状态：已认可
+仅机枪塔所选布局获得认可，不能扩大为全车认可。当前原生 UV 工程、颜色与法线配对，实机已确认加载；最终美术待评价。
 
-原作：[HK416の午夜福音 · Leopard 2A7V ENDFIELD](https://live.warthunder.com/post/1162771/en/)。[参考资料](../../../references/ground/leopard2a7v-endfield/README.md)。
+内部标识：`2E028005`
 
-![预览](preview.png)
+原作参考：HK416の午夜福音 · [原帖](https://live.warthunder.com/post/1162771/en/)
 
-v4 修复炮塔前斜装甲的图案错位。展示图为离线模型预览。
+![斜前整体](hero-front.jpg)
 
-两侧车体铭牌补为 LEOPARD2A7HU，沿用 v4 原位置替换。
+![另一侧整体](hero-opposite.jpg)
 
-车首灯组后斜板图案与窄灯罩黄条已修复。左右灯罩共用 UV，对侧对应部位同步黄色；保留 HU 铭牌、炮塔与武器站，其余 13 张 DDS 保持原字节。沿用当前 v4 原位替换。
+![顶部布局](hero-overview.jpg)
 
-打包维护（2026-10-21）：游戏包已移除 `CREDITS.txt` 与 `SHA256SUMS.txt`，其余文件逐字节一致；版本与作品评价保持原记录。
+## 七视图
+
+![当前展示](preview.png)
 
 ## 下载
 
-| 文件 | 大小 |
-| --- | --- |
-| [DDS 涂装包](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/Leopard2A7HU_ENDFIELD_v4.zip) | 128.5 MB |
-| [设计源包](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/Leopard2A7HU_ENDFIELD_v4_editable.zip) | 404.2 MB |
-| [展示图源文件](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/Leopard2A7HU_ENDFIELD_v4_preview_r2.zip) | 12.4 MB |
-| [七视图（r2）](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/v4/views_studio_r2.png) | 2.9 MB |
-
-[安装说明](../../../docs/installation.md) · [SHA-256 校验](../../../docs/checksums/leopard2a7hu-endfield.sha256)
-
-## 版本记录
-
-| 版本 | 改动 | 状态 |
+| 文件 | 内容 | 大小 |
 | --- | --- | --- |
-| [v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v4) | 修复炮塔前斜装甲、车首灯组斜板与灯罩黄条，保留 HU 铭牌、顶盖和武器站修订。 | 已认可 |
-| [v3](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v3) | 修订顶盖白缝、立杆颜色与武器站字标。 | 待评价 |
+| [leopard2a7hu-endfield-skin.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-skin.zip) | 游戏涂装 | 125.1 MiB |
+| [leopard2a7hu-endfield-source.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-source.zip) | 可编辑工程与源码 | 20.2 MiB |
+| [leopard2a7hu-endfield-seven-views.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-seven-views.png) | 展示图 PNG | 6.7 MiB |
+| [leopard2a7hu-endfield-hero-front.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-hero-front.png) | 单视角大图 PNG | 2.0 MiB |
+| [leopard2a7hu-endfield-hero-opposite.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-hero-opposite.png) | 单视角大图 PNG | 2.3 MiB |
+| [leopard2a7hu-endfield-hero-overview.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-hero-overview.png) | 单视角大图 PNG | 2.7 MiB |
 
-[返回作品目录](../../../README.md)
+游戏包解压后，把整个涂装文件夹放入对应客户端的 `UserSkins/`。源码保留原目录与修订文件名，便于继续编辑；它们不作为公开制作版本标识。
+
+单视角大图是独立 PNG，不包含在游戏 ZIP 中。演示图采用真实模型与当前贴图的离线棚拍渲染。
+
+[当前发布与全部附件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/current) · [校验值](../../../docs/checksums/leopard2a7hu-endfield.sha256) · [安装说明](../../../docs/installation.md) · [返回目录](../../../README.md)
