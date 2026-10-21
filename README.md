@@ -7,7 +7,7 @@
 | 作品 | 状态 | 下载 |
 | --- | --- | --- |
 | [Leclerc AZUR · ENDFIELD「边界测绘」](works/ground/leclerc-azur-endfield/README.md) | 初步成果 · 30分钟一轮直出 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-endfield/current) |
-| [EMBT（法国）· ENDFIELD](works/ground/embt-endfield/README.md) | 待评价 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current) |
+| [EMBT（德国／法国）· ENDFIELD](works/ground/embt-endfield/README.md) | 已认可 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current) |
 | [Leopard 2A7HU · ENDFIELD](works/ground/leopard2a7hu-endfield/README.md) | 部分认可 | [当前文件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/current) |
 
 ## 飞机

@@ -1,36 +1,40 @@
-# EMBT（法国）· ENDFIELD
+# EMBT（德国／法国）· ENDFIELD
 
-状态：待评价
+状态：已认可（当前美术方案）
 
-炮塔侧甲加入完整微标、标尺与工程定位图形。当前局部修订工程与最终 DDS 配对，整套美术待评价；旧重建运行时依赖已退役。
+炮塔与首上采用当前终末地布局，恢复顶部完整工业徽记和 T/01 标识，保留顶部三色条。首上加入克制的金属漆面；炮管及火控镜、车长镜材质随整套文件提供。
 
-内部标识：`C245C5E9`
+适配德国与法国 EMBT，分别使用 `germ_embt.blk`、`fr_embt.blk`。内部标识：`2B49C5F3`。
 
-原作参考：HK416の午夜福音 · [原帖](https://live.warthunder.com/post/1162771/en/)
+![斜前整体](hero-front.png)
 
-![斜前整体](hero-front.jpg)
+![另一侧整体](hero-opposite.png)
 
-![另一侧整体](hero-opposite.jpg)
-
-![顶部布局](hero-overview.jpg)
+![顶部布局](hero-overview.png)
 
 ## 七视图
 
-![当前展示](preview.png)
+![当前七视图](preview.png)
 
 ## 下载
 
 | 文件 | 内容 | 大小 |
 | --- | --- | --- |
-| [embt-endfield-skin.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-skin.zip) | 游戏涂装 | 251.0 MiB |
-| [embt-endfield-source.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-source.zip) | 可编辑工程与源码 | 1.0 MiB |
-| [embt-endfield-seven-views.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-seven-views.png) | 展示图 PNG | 7.3 MiB |
-| [embt-endfield-hero-front.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-front.png) | 单视角大图 PNG | 2.0 MiB |
-| [embt-endfield-hero-opposite.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-opposite.png) | 单视角大图 PNG | 2.3 MiB |
-| [embt-endfield-hero-overview.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-overview.png) | 单视角大图 PNG | 2.6 MiB |
+| [embt-endfield-skin.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-skin.zip) | 德法通用游戏涂装 | 375.4 MiB |
+| [embt-endfield-source.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-source.zip) | 完整分层工程与源码 | 679.8 MiB |
+| [embt-endfield-seven-views.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-seven-views.png) | 七视图 | 7.1 MiB |
+| [embt-endfield-hero-front.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-front.png) | 斜前整车大图 | 1.9 MiB |
+| [embt-endfield-hero-opposite.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-opposite.png) | 另一侧整车大图 | 2.2 MiB |
+| [embt-endfield-hero-overview.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-overview.png) | 俯瞰整车大图 | 2.4 MiB |
 
-游戏包解压后，把整个涂装文件夹放入对应客户端的 `UserSkins/`。源码保留原目录与修订文件名，便于继续编辑；它们不作为公开制作版本标识。
+## 安装与继续编辑
 
-单视角大图是独立 PNG，不包含在游戏 ZIP 中。演示图采用真实模型与当前贴图的离线棚拍渲染。
+将游戏包中的整个 `EMBT_ENDFIELD` 文件夹放入所用客户端的 `UserSkins/`，在德系或法系 EMBT 的自定义涂装列表中选择它。
 
-[当前发布与全部附件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current) · [校验值](../../../docs/checksums/embt-endfield.sha256) · [安装说明](../../../docs/installation.md) · [返回目录](../../../README.md)
+完整工程包含 50 份分层 CMPS、当前整幅贴图、原生模型素材、参考导出和独立重建工具。保留源码内部原目录与文件名；从工程根目录运行 `python -B -X utf8 design/当前工程/build_skin.py --check` 可核对当前源文件与游戏贴图。编辑裁片的 UV、通道及导出名见 `design/当前工程/editor-index.json`。
+
+当前美术方案已获用户认可；文件绑定、DDS 读回、独立源码检查及 WTG 部署哈希核对通过。游戏内视觉复检未运行。展示图使用真实模型与当前贴图的离线棚拍渲染。
+
+原作参考：HK416の午夜福音 · [原帖](https://live.warthunder.com/post/1162771/en/)
+
+[当前发布与全部附件](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current) · [固定存档](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/v2) · [校验值](../../../docs/checksums/embt-endfield.sha256) · [返回目录](../../../README.md)
