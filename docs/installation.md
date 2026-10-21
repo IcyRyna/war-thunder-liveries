@@ -16,4 +16,6 @@ War Thunder/
 
 设计源包用于修改图层、图形和制作参数；`.cmps` 文件用 Composa 打开。展示图包保存预览和拼版文件。各类下载在作品页分别标注。
 
+游戏涂装包不附带 `CREDITS.txt` 和 `SHA256SUMS.txt`。作者与素材来源见作品页及[素材来源](credits.md)，下载校验值保留在仓库的 `docs/checksums/` 和 Release 说明中。
+
 [返回作品目录](../README.md)
