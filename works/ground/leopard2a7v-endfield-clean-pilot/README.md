@@ -24,7 +24,7 @@
 | --- | --- | --- |
 | [leopard2a7v-endfield-clean-pilot-skin.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-skin.zip) | 游戏涂装 | 158.0 MiB |
 | [leopard2a7v-endfield-clean-pilot-source.zip](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-source.zip) | 可编辑工程与源码 | 116.5 MiB |
-| [leopard2a7v-endfield-clean-pilot-seven-views.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-seven-views.png) | 展示图 PNG | 6.7 MiB |
+| [leopard2a7v-endfield-clean-pilot-seven-views.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-seven-views.png) | 展示图 PNG | 6.8 MiB |
 | [leopard2a7v-endfield-clean-pilot-hero-front.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-hero-front.png) | 单视角大图 PNG | 1.8 MiB |
 | [leopard2a7v-endfield-clean-pilot-hero-opposite.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-hero-opposite.png) | 单视角大图 PNG | 2.1 MiB |
 | [leopard2a7v-endfield-clean-pilot-hero-overview.png](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-endfield-clean-pilot/current/leopard2a7v-endfield-clean-pilot-hero-overview.png) | 单视角大图 PNG | 2.5 MiB |
