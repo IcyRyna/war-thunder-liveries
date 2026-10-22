@@ -142,7 +142,7 @@
       "title": "EMBT（德国／法国）· ENDFIELD",
       "category": "ground",
       "status": "已认可",
-      "note": "当前炮塔与首上美术方案已认可；顶部标识恢复、三色条保留、首上金属漆面与镜面材质齐备。德法双版本；游戏内视觉复检未运行。",
+      "note": "正面贴花定稿已认可：移除两侧彩条、铭文放大10%、工业徽记放大左移并校正映射。德法双版本；游戏内视觉复检未运行。",
       "page": "works/ground/embt-endfield/README.md",
       "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current",
       "current": true,
@@ -150,53 +150,53 @@
       "assets": [
         {
           "name": "embt-endfield-skin.zip",
-          "size": 393637640,
-          "sha256": "2b49c5f3d993827f0c49aff4b0c198e355aeb00132657869aa5fdaec761c6410",
+          "size": 209790997,
+          "sha256": "fb22b092c4a921ad29949c8c5be6d86b3ff6e277d41b9b0eaadb52c905e64d8c",
           "role": "game-skin",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-skin.zip"
         },
         {
           "name": "embt-endfield-source.zip",
-          "size": 712791409,
-          "sha256": "2ffdc00feaa45628dfef9ed3353902aef5d0b3d7056f142decac34e315b0679d",
+          "size": 707334888,
+          "sha256": "dd63d3a5ff0d8d026a2bbc77a38d9133d85efa7fb84b6ab77f3a683fb9112ef0",
           "role": "editable-source",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-source.zip"
         },
         {
           "name": "embt-endfield-seven-views.png",
-          "size": 7490243,
-          "sha256": "0a0aca64e337f865053c6d4527a2b46a0ab45c87a810aece90ef28cea75509f8",
+          "size": 8434889,
+          "sha256": "d423b25d9e05e8038f8e40e2dc053bff69d08066bec531a501575be432a1d7d9",
           "role": "seven-view",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-seven-views.png"
         },
         {
           "name": "embt-endfield-hero-front.png",
-          "size": 2006423,
-          "sha256": "44bbf173bbbfe602b732ed524a001ded41fbf7ac80b5e721c375ab220d943978",
+          "size": 2322160,
+          "sha256": "6ab7abfc4df0223ae5895612b4a6be6bb4c8c1c9383466843e0d93b7633091b1",
           "role": "hero-image",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-front.png"
         },
         {
           "name": "embt-endfield-hero-opposite.png",
-          "size": 2256930,
-          "sha256": "fbb59b7abeab2ffe4ecd2432eb1765977729a929e84a39bd2ef5cf3a89965bdc",
+          "size": 2511481,
+          "sha256": "6c0746e40f5516334a82623e7429a852b8887b656f47c96ff0ad3c41c43468b2",
           "role": "hero-image",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-opposite.png"
         },
         {
           "name": "embt-endfield-hero-overview.png",
-          "size": 2563715,
-          "sha256": "163ecd9d5773ee9736f36d2334d1b60932beb8a5e848a5c2845a57e91260f34d",
+          "size": 2887119,
+          "sha256": "5330e765ffaa374d4f3ad7a8332f2ac2e6659dc79c9cc2cf81beb7bb1006bcce",
           "role": "hero-image",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/embt-endfield/current/embt-endfield-hero-overview.png"
         }
       ],
-      "internal_id": "2B49C5F3",
+      "internal_id": "F0334D04",
       "supported_vehicles": [
         "germ_embt",
         "fr_embt"
       ],
-      "immutable_release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/v2"
+      "immutable_release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/v3"
     },
     {
       "id": "leopard2a7v-endfield-clean-pilot",
