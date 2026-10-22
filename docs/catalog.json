@@ -40,7 +40,7 @@
       "title": "J-10C 莱万汀 · 黑白红方案",
       "category": "aircraft",
       "status": "已否定",
-      "note": "当前方案已否定，保留为历史方案。v8 改为非金属亮漆；设计源沿用 v7，v8 材质以游戏包为准。人物素材包含参考官方图的生成重绘。",
+      "note": "当前方案已否定，保留为历史方案。采用非金属亮漆；现存设计源与游戏包的材质存在差异，以游戏包为准。人物素材包含参考官方图的生成重绘。",
       "page": "works/aircraft/j10c-laevatain-akamywek/README.md",
       "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/current",
       "current": true,
@@ -142,7 +142,7 @@
       "title": "EMBT（德国／法国）· ENDFIELD",
       "category": "ground",
       "status": "已认可",
-      "note": "正面贴花定稿已认可：移除两侧彩条、铭文放大10%、工业徽记放大左移并校正映射。德法双版本；游戏内视觉复检未运行。",
+      "note": "炮塔正面采用工业徽记与 EF-10 铭文，车顶和车身保留黑白黄分区。德国、法国版本通用；当前美术方案已认可，游戏内视觉复检未运行。",
       "page": "works/ground/embt-endfield/README.md",
       "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current",
       "current": true,
@@ -477,7 +477,7 @@
       "title": "F-2A · Akamywek 原作临摹",
       "category": "aircraft",
       "status": "待评价",
-      "note": "备份版本 v1，制作修订 r14。颜色图按原作测量重建，材质与挂载贴图沿用原包。源资料含36组设计 JSON、颜色图和离线场景，整套自动重建命令未整理。",
+      "note": "颜色图按原作测量重建，材质与挂载贴图沿用原包。源资料含 36 组设计 JSON、颜色图和离线场景，整套自动重建命令尚未整理。",
       "page": "works/aircraft/f2a-akamywek-replica/README.md",
       "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/f2a-akamywek-replica/current",
       "current": true,
@@ -511,7 +511,7 @@
       "title": "J-10C 诀 · Grok 版",
       "category": "aircraft",
       "status": "已认可",
-      "note": "这是 Grok 的 v17，与“诀·重修版 v1”分别保存。现有 8K DDS 和 4K TGA 两种游戏包，未找到可编辑制作源。",
+      "note": "Grok 制作的独立方案，与“诀·重修版”分别保存。现有 8K DDS 和 4K TGA 两种游戏包，未找到可编辑制作源。",
       "page": "works/aircraft/j10c-jue-grok/README.md",
       "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/current",
       "current": true,
@@ -619,6 +619,62 @@
           "sha256": "c5893f7771ffc2d26d3a2716f8edac8583446e8eb70b1353f41afbbaa45283a8",
           "role": "hero-image",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-endfield/current/leopard2a7hu-endfield-hero-overview.png"
+        }
+      ]
+    },
+    {
+      "id": "leclerc-azur-endfield",
+      "title": "Leclerc AZUR · ENDFIELD「边界测绘」",
+      "category": "ground",
+      "status": "初步成果",
+      "note": "30分钟一轮直出。当前作为初步成果保存，保留后续继续制作和修订的空间。",
+      "page": "works/ground/leclerc-azur-endfield/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-endfield/current",
+      "current": true,
+      "preview": "works/ground/leclerc-azur-endfield/preview.png",
+      "internal_id": "83ADD61A",
+      "assets": [
+        {
+          "name": "leclerc-azur-endfield-hero-front.png",
+          "size": 1733140,
+          "sha256": "7b3bbf85cc48faeb562e3b2784095da5e7b734c9a7c05598bbcdcc6d43dd6a70",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leclerc-azur-endfield/current/leclerc-azur-endfield-hero-front.png"
+        },
+        {
+          "name": "leclerc-azur-endfield-hero-opposite.png",
+          "size": 2039035,
+          "sha256": "be223c01308d98778a58c48f966635473aac43faa4de3e775400a0f46a79f268",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leclerc-azur-endfield/current/leclerc-azur-endfield-hero-opposite.png"
+        },
+        {
+          "name": "leclerc-azur-endfield-hero-overview.png",
+          "size": 2314804,
+          "sha256": "d41288ce5225d7b1b13e43403bab46252af0e5cb16de3e9654b6bf7515b7d09d",
+          "role": "hero-image",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leclerc-azur-endfield/current/leclerc-azur-endfield-hero-overview.png"
+        },
+        {
+          "name": "leclerc-azur-endfield-seven-views.png",
+          "size": 6421685,
+          "sha256": "104c5d9d341f8252ab1cb3b84b8c5e2a358002ecb17c8577bebf31ffa0535bf2",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leclerc-azur-endfield/current/leclerc-azur-endfield-seven-views.png"
+        },
+        {
+          "name": "leclerc-azur-endfield-skin.zip",
+          "size": 42879661,
+          "sha256": "83add61a6145e8f2ad79881702c6c2c55c87d9d75a8352e17d9a742cd23f5285",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leclerc-azur-endfield/current/leclerc-azur-endfield-skin.zip"
+        },
+        {
+          "name": "leclerc-azur-endfield-source.zip",
+          "size": 190011910,
+          "sha256": "9d0fc6023c0c3b7da9430f125a50818eea5e3a3b70c976c52136e19303653893",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leclerc-azur-endfield/current/leclerc-azur-endfield-source.zip"
         }
       ]
     }

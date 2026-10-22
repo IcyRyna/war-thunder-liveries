@@ -1,8 +1,11 @@
 # 地面载具涂装
 
-| 作品 | 版本 | 状态 |
+| 作品 | 状态 | 获取 |
 | --- | --- | --- |
-| [EMBT（德国／法国）· ENDFIELD](embt-endfield/README.md) | [当前](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current) | 已认可 |
-| [Leopard 2A7HU · ENDFIELD](leopard2a7hu-endfield/README.md) | [v4](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/v4) | 已认可 |
+| [EMBT · 终末地｜德国／法国](../../works/ground/embt-endfield/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current) |
+| [豹 2A7HU · 终末地](../../works/ground/leopard2a7hu-endfield/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/current) |
+| [勒克莱尔 AZUR · 终末地「边界测绘」](../../works/ground/leclerc-azur-endfield/README.md) | 初步成果 · 30分钟一轮直出 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-endfield/current) |
+| [豹 2A7V · 终末地干净试作](../../works/ground/leopard2a7v-endfield-clean-pilot/README.md) | 待评价 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-clean-pilot/current) |
+| [豹 2A7V · 终末地手绘临摹](../../works/ground/leopard2a7v-endfield-handdrawn/README.md) | 待评价 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-handdrawn/current) |
 
-[返回首页](../../README.md)
+[安装指南](../../docs/installation.md) · [返回作品集](../../README.md)
