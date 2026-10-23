@@ -9,10 +9,11 @@
 
 ## 地面载具
 
-终末地主题以黑、白、黄构成工业风格，按每辆车的真实表面重新安排图形。作品页提供七视图和独立整车大图。
+终末地主题以黑、白、黄构成工业风格；SPECTRE42 采用炭黑哑光与克制的黄青色标。各作品按载具真实表面重新安排图形。作品页提供七视图和独立整车大图。
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
+| [勒克莱尔 AZUR · SPECTRE42](works/ground/leclerc-azur-spectre42/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-spectre42/current) |
 | [EMBT · 终末地｜德国／法国](works/ground/embt-endfield/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current) |
 | [豹 2A7HU · 终末地](works/ground/leopard2a7hu-endfield/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/current) |
 | [勒克莱尔 AZUR · 终末地「边界测绘」](works/ground/leclerc-azur-endfield/README.md) | 初步成果 · 30分钟一轮直出 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-endfield/current) |
