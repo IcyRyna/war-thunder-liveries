@@ -26,7 +26,7 @@ jobs:
       - uses: actions/checkout@v6
         with:
           repository: IcyRyna/war-thunder-skin-skills
-          ref: a6476b08effe96aa1c52d01ec26710c2b49f5704
+          ref: 556f10e7aa21173757e8f0f77af1887644c9477c
           path: .viewer-source
           sparse-checkout: toolkits/web-preview/web
       - name: Download and verify matched preview assets

@@ -35,7 +35,7 @@ def markdown(work):
 
 def page(title,content,depth=0):
     root='../'*depth
-    return f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)} · 涂装作品集</title><link rel="icon" href="data:,"><link rel="stylesheet" href="{root}site.css"></head><body><header><a href="{root}index.html">战争雷霆 · 涂装作品集</a><a href="https://github.com/IcyRyna/war-thunder-liveries">GitHub 仓库</a></header><main>{content}</main><footer>原生 UV 颜色预览 · 反射、法线与完整材质以游戏内为准</footer><script src="{root}site.js" defer></script></body></html>'''
+    return f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)} · 涂装作品集</title><link rel="icon" href="data:,"><link rel="stylesheet" href="{root}site.css"></head><body><header><a href="{root}index.html">战争雷霆 · 涂装作品集</a><a href="https://github.com/IcyRyna/war-thunder-liveries">GitHub 仓库</a></header><main>{content}</main><footer>原生 UV · 反射与凹凸为 PBR 近似预览，完整材质以游戏内为准</footer><script src="{root}site.js" defer></script></body></html>'''
 
 def build(out,viewer,previews_dir=None,archive=None):
     data=json.loads((REPO/'site/previews.json').read_text(encoding='utf-8'))
@@ -62,21 +62,57 @@ def build(out,viewer,previews_dir=None,archive=None):
                 path=folder/name
                 if not path.is_file() or digest(path)!=record['sha256']:raise ValueError('Preview asset changed: '+str(path))
                 files+=1
+    # Keep full 4K pixels while fitting Pages' 1 GB published-site limit.
+    # Source bundle is verified above; only byte-identical native PNGs share a URL.
+    shared=out/'previews/shared';shared.mkdir()
+    saved=0;seen=set()
+    for work in data['works']:
+        for variant in work['variants']:
+            manifest=out/variant['scene'];folder=manifest.parent
+            document=json.loads(manifest.read_text(encoding='utf-8'))
+            handled=set()
+            for row in document['materials']:
+                records=[(row,'native_file','native_sha256')]
+                records.extend((row.get('reflection',{}).get(channel,{}),'file','sha256') for channel in ('orm','normal'))
+                for record,key,hash_key in records:
+                    name=record.get(key)
+                    if not name:continue
+                    if not re.fullmatch(r'native-(?:color|orm|normal)-[0-9]+\.png',name):raise ValueError('Unexpected native image path')
+                    path=folder/name;identity=record[hash_key];target=shared/(identity+'.png')
+                    if path.exists() and name not in handled:
+                        if digest(path)!=identity:raise ValueError('Native image SHA mismatch')
+                        if identity not in seen:shutil.copyfile(path,target);seen.add(identity)
+                        else:saved+=path.stat().st_size
+                        handled.add(name)
+                    record[key]='../../shared/'+identity+'.png'
+            # Every native path comes from verified manifest records, inside this fresh output.
+            native_names={p.name for p in folder.glob('native-*.png')}
+            expected={name for name in variant['files'] if re.fullmatch(r'native-(?:color|orm|normal)-[0-9]+\.png',name)}
+            if native_names!=expected:raise ValueError('Unexpected native output files')
+            for name in expected:(folder/name).unlink()
+            manifest.write_text(json.dumps(document,ensure_ascii=False,indent=2),encoding='utf-8')
     shutil.copytree(viewer,out/'viewer')
     for name in ['site.css','site.js']:shutil.copyfile(REPO/'site'/name,out/name)
     rendered=dict(zip([w['id'] for w in data['works']],ThreadPoolExecutor(max_workers=4).map(markdown,data['works'])))
-    cards=[]
+    sections={r["id"]:r for r in data["sections"]}
+    cards={key:[] for key in sections}
     for work in data['works']:
+        section=work['section'];category=html.escape(sections[section]['title'])
         title=html.escape(work['title']);identifier=work['id'];folder=out/'works'/identifier;folder.mkdir(parents=True)
         variants=work['variants'];scenes=[{'label':v['label'],'scene':'../'+v['scene']} for v in variants]
         choices=''
         if len(scenes)>1:choices='<label class="variant">车型版本<select id="variant">'+''.join(f'<option value="{i}">{html.escape(v["label"])}</option>' for i,v in enumerate(scenes))+'</select></label>'
         iframe='../../viewer/?embed=1&scene='+quote(scenes[0]['scene'],safe='')
-        content=f'''<nav class="breadcrumb"><a href="../../index.html">全部作品</a><span>{'参考原作' if work['kind']=='references' else '地面载具' if work['category']=='ground' else '飞机涂装'}</span></nav><h1>{title}</h1><p class="work-status">状态：{html.escape(work["status"])}</p><section class="interactive"><div class="preview-title"><h2>这套涂装的 3D 预览</h2><span>拖动旋转 · 滚轮拉近</span></div>{choices}<iframe id="preview" title="{title} 三维预览" src="{iframe}" data-scenes="{html.escape(json.dumps(scenes,ensure_ascii=False),quote=True)}" allow="fullscreen" loading="lazy"></iframe><p class="note">已自动载入对应车型和本套涂装 · 可在画面中切换清晰度与视角</p></section><article>{rendered[identifier]}</article>'''
+        content=f'''<nav class="breadcrumb"><a href="../../index.html">全部作品</a><a href="../../index.html?category={section}">{category}</a></nav><nav class="vehicle-kind">{'地面载具' if work['category']=='ground' else '飞机涂装'}</nav><h1>{title}</h1><p class="work-status">状态：{html.escape(work["status"])}</p><section class="interactive"><div class="preview-title"><h2>这套涂装的 3D 预览</h2><span>拖动旋转 · 滚轮拉近</span></div>{choices}<iframe id="preview" title="{title} 三维预览" src="{iframe}" data-scenes="{html.escape(json.dumps(scenes,ensure_ascii=False),quote=True)}" allow="fullscreen" loading="lazy"></iframe><p class="note">已自动载入对应车型和本套涂装 · 可在画面中切换清晰度与视角</p></section><article>{rendered[identifier]}</article>'''
         (folder/'index.html').write_text(page(work['title'],content,2),encoding='utf-8')
-        cards.append(f'<a class="work" href="works/{identifier}/"><small>{"参考原作" if work["kind"]=="references" else "地面载具" if work["category"]=="ground" else "飞机涂装"} · {html.escape(work["status"])}</small><h2>{title}</h2><span>打开介绍与 3D 预览 →</span></a>')
-    (out/'index.html').write_text(page('作品与 3D 预览','<p class="eyebrow">可旋转的整车与机体预览</p><h1>每套涂装，放回对应的模型。</h1><p class="intro">选择作品，直接查看已装好涂装的三维模型、介绍和下载。保留各作品原有评价与来源。</p><div class="works">'+''.join(cards)+'</div>'),encoding='utf-8')
-    print(json.dumps({'works':len(cards),'asset_files_verified':files,'output':str(out)}))
+        cards[section].append(f'<a class="work" href="works/{identifier}/"><small>{"参考原作" if work["kind"]=="references" else "地面载具" if work["category"]=="ground" else "飞机涂装"} · {html.escape(work["status"])}</small><h2>{title}</h2><span>打开介绍与 3D 预览 →</span></a>')
+    buttons='<button type="button" data-category="all" aria-pressed="true">全部作品 <span>20</span></button>'+''.join(f'<button type="button" data-category="{key}" aria-pressed="false">{html.escape(row["title"])} <span>{len(cards[key])}</span></button>' for key,row in sections.items())
+    groups=''.join(f'<section class="work-group" data-section="{key}" id="{key}"><div class="group-heading"><h2>{html.escape(row["title"])}</h2><span>{len(cards[key])} 套</span></div><div class="works">'+''.join(cards[key])+'</div></section>' for key,row in sections.items())
+    content='<p class="eyebrow">按分类浏览 · 每套作品内嵌 3D 预览</p><h1>涂装作品集</h1><p class="intro">选择分类，再打开作品查看对应模型、介绍与下载。历史方案和参考原作单独归档，作品评价保持原样。</p><nav class="category-filter" aria-label="作品分类">'+buttons+'</nav><p class="filter-result" id="filterResult" role="status" aria-live="polite">全部作品 · 20 套</p>'+groups
+    (out/'index.html').write_text(page('作品与 3D 预览',content),encoding='utf-8')
+    output_bytes=sum(p.stat().st_size for p in out.rglob('*') if p.is_file())
+    if output_bytes>=950_000_000:raise ValueError('Published site exceeds the 950 MB resource budget')
+    print(json.dumps({'works':sum(map(len,cards.values())),'asset_files_verified':files,'deduplicated_bytes':saved,'published_bytes':output_bytes,'output':str(out)}))
 
 if __name__=='__main__':
     p=argparse.ArgumentParser();p.add_argument('--out',type=Path,required=True);p.add_argument('--viewer',type=Path,required=True);group=p.add_mutually_exclusive_group(required=True);group.add_argument('--previews-dir',type=Path);group.add_argument('--archive',type=Path);a=p.parse_args();build(a.out,a.viewer,a.previews_dir,a.archive)
