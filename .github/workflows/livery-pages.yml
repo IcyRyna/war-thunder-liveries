@@ -26,9 +26,11 @@ jobs:
       - uses: actions/checkout@v6
         with:
           repository: IcyRyna/war-thunder-skin-skills
-          ref: 556f10e7aa21173757e8f0f77af1887644c9477c
+          ref: 1f51b65cf47baf28da636a85e816249c0970a59c
           path: .viewer-source
-          sparse-checkout: toolkits/web-preview/web
+          sparse-checkout: toolkits/web-preview
+      - name: Build presentation-only renderer
+        run: python -B .viewer-source/toolkits/web-preview/tools/build_online.py --out .viewer-online
       - name: Download and verify matched preview assets
         env:
           GH_TOKEN: ${{ github.token }}
@@ -36,7 +38,7 @@ jobs:
       - name: Build all introductions with inline 3D viewers
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python -B site/build.py --out _site --archive previews.zip --viewer .viewer-source/toolkits/web-preview/web
+        run: python -B site/build.py --out _site --archive previews.zip --viewer .viewer-online
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
