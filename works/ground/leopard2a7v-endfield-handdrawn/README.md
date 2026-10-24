@@ -1,5 +1,13 @@
 # 豹 2A7V · 终末地手绘临摹
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7v-endfield-handdrawn/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：待评价**
 
 原始手绘临摹结果。现存包提供游戏文件与制作总结，没有原生可编辑图层工程。

@@ -1,5 +1,13 @@
 # J-16 Rossi · 早期版
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/j16-rossi/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：已否定**
 
 清晰度不足，保留为历史方案。

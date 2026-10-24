@@ -1,5 +1,13 @@
 # 勒克莱尔 AZUR · SPECTRE42
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/leclerc-azur-spectre42/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 深灰与石墨黑的结构迷彩、五档灰色对比块、蜂窝侧装甲、低矮宽体 LECLERC 字标与克制的青橙色标。车体与炮塔保持磨砂金属光泽，黑色火控壳体和光学镜片分别处理。
 
 **状态：修订中。游戏包与独立源码已核验，光学反光仍待游戏视觉确认。**

@@ -1,5 +1,13 @@
 # J-16 陈千语 · Akamywek 风格
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/j16-chen-qianyu-akamywek/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：已认可**
 
 使用较早的偏哑光材质，保留原机法线。

@@ -1,5 +1,13 @@
 # J-16 陈千语 · 早期版
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/j16-chen-qianyu/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：已否定**
 
 8K 离线版本，尚未完成游戏内验证。

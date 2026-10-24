@@ -1,5 +1,13 @@
 # 豹 2A7V · 终末地参考原作
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7v-endfield/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：参考原作**
 
 原作者游戏包按原字节保存，作者与来源单独列明。

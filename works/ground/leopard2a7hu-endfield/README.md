@@ -1,5 +1,13 @@
 # 豹 2A7HU · 终末地
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7hu-endfield/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：已认可**
 
 当前整套涂装已获用户认可。保留原生 UV 工程、颜色与法线配对及可编辑源码。

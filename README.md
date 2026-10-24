@@ -1,5 +1,10 @@
 # 战争雷霆 · 涂装作品集
 
+**[在线作品集与各套涂装的 3D 预览](https://icyryna.github.io/war-thunder-liveries/)**
+
+点击下方任一作品标题，进入内嵌对应模型和涂装的介绍页；下载与原有评价保留。
+
+
 飞机与地面载具的游戏涂装、可编辑工程和完整展示。
 选一件作品，先看整车效果，再下载对应的游戏包或分层源码。
 
@@ -13,11 +18,11 @@
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
-| [豹 2A6HEL · SPECTRE42「炭灰钢装」](works/ground/leopard2a6hel-spectre42/README.md) | 已确认可发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a6hel-spectre42/current) |
-| [勒克莱尔 AZUR · SPECTRE42](works/ground/leclerc-azur-spectre42/README.md) | 修订中 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-spectre42/current) |
-| [EMBT · 终末地｜德国／法国](works/ground/embt-endfield/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current) |
-| [豹 2A7HU · 终末地](works/ground/leopard2a7hu-endfield/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/current) |
-| [勒克莱尔 AZUR · 终末地「边界测绘」](works/ground/leclerc-azur-endfield/README.md) | 初步成果 · 30分钟一轮直出 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-endfield/current) |
+| [豹 2A6HEL · SPECTRE42「炭灰钢装」](https://icyryna.github.io/war-thunder-liveries/works/leopard2a6hel-spectre42/) | 已确认可发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a6hel-spectre42/current) |
+| [勒克莱尔 AZUR · SPECTRE42](https://icyryna.github.io/war-thunder-liveries/works/leclerc-azur-spectre42/) | 修订中 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-spectre42/current) |
+| [EMBT · 终末地｜德国／法国](https://icyryna.github.io/war-thunder-liveries/works/embt-endfield/) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current) |
+| [豹 2A7HU · 终末地](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7hu-endfield/) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/current) |
+| [勒克莱尔 AZUR · 终末地「边界测绘」](https://icyryna.github.io/war-thunder-liveries/works/leclerc-azur-endfield/) | 初步成果 · 30分钟一轮直出 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-endfield/current) |
 
 EMBT 适配德国与法国两个版本；豹 2A7HU 包含专属炮塔与车长机枪塔；勒克莱尔 AZUR 当前保留为初步成果。
 
@@ -27,12 +32,12 @@ EMBT 适配德国与法国两个版本；豹 2A7HU 包含专属炮塔与车长�
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
-| [J-10C 庄方宜 · Akamywek 风格](works/aircraft/j10c-zhuang-fangyi-akamywek/README.md) | 部分认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/current) |
-| [J-16 陈千语 · Akamywek 风格](works/aircraft/j16-chen-qianyu-akamywek/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu-akamywek/current) |
-| [J-16 汤汤 · 重修版](works/aircraft/j16-tangtang-repaired/README.md) | 部分认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/current) |
-| [F-2A · Akamywek 原作临摹](works/aircraft/f2a-akamywek-replica/README.md) | 待评价 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/f2a-akamywek-replica/current) |
-| [J-10C 诀 · Grok 版](works/aircraft/j10c-jue-grok/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/current) |
-| [Su-30MKK 红弩箭 · Grok 版](works/aircraft/su30mkk-lilya-arbalest-grok/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30mkk-lilya-arbalest-grok/current) |
+| [J-10C 庄方宜 · Akamywek 风格](https://icyryna.github.io/war-thunder-liveries/works/j10c-zhuang-fangyi-akamywek/) | 部分认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/current) |
+| [J-16 陈千语 · Akamywek 风格](https://icyryna.github.io/war-thunder-liveries/works/j16-chen-qianyu-akamywek/) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu-akamywek/current) |
+| [J-16 汤汤 · 重修版](https://icyryna.github.io/war-thunder-liveries/works/j16-tangtang-repaired/) | 部分认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/current) |
+| [F-2A · Akamywek 原作临摹](https://icyryna.github.io/war-thunder-liveries/works/f2a-akamywek-replica/) | 待评价 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/f2a-akamywek-replica/current) |
+| [J-10C 诀 · Grok 版](https://icyryna.github.io/war-thunder-liveries/works/j10c-jue-grok/) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-grok/current) |
+| [Su-30MKK 红弩箭 · Grok 版](https://icyryna.github.io/war-thunder-liveries/works/su30mkk-lilya-arbalest-grok/) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30mkk-lilya-arbalest-grok/current) |
 
 “已认可”记录对应作品的评价，具体保留项和已知问题仍在作品页说明；“部分认可”和“待评价”保持各自范围。
 
@@ -60,8 +65,8 @@ EMBT 适配德国与法国两个版本；豹 2A7HU 包含专属炮塔与车长�
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
-| [豹 2A7V · 终末地干净试作](works/ground/leopard2a7v-endfield-clean-pilot/README.md) | 待评价 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-clean-pilot/current) |
-| [豹 2A7V · 终末地手绘临摹](works/ground/leopard2a7v-endfield-handdrawn/README.md) | 待评价 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-handdrawn/current) |
+| [豹 2A7V · 终末地干净试作](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7v-endfield-clean-pilot/) | 待评价 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-clean-pilot/current) |
+| [豹 2A7V · 终末地手绘临摹](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7v-endfield-handdrawn/) | 待评价 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-handdrawn/current) |
 
 ### 历史方案
 
@@ -69,18 +74,18 @@ EMBT 适配德国与法国两个版本；豹 2A7HU 包含专属炮塔与车长�
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
-| [J-16 Rossi · 早期版](works/aircraft/j16-rossi/README.md) | 已否定 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-rossi/current) |
-| [J-10C 莱万汀 · 黑白红方案](works/aircraft/j10c-laevatain-akamywek/README.md) | 已否定 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/current) |
-| [J-10C 陈千语 · 重修版](works/aircraft/j10c-chen-qianyu-repaired/README.md) | 已否定 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-chen-qianyu-repaired/current) |
-| [J-10C 诀 · 重修版](works/aircraft/j10c-jue-repaired/README.md) | 已否定 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/current) |
-| [J-16 陈千语 · 早期版](works/aircraft/j16-chen-qianyu/README.md) | 已否定 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu/current) |
+| [J-16 Rossi · 早期版](https://icyryna.github.io/war-thunder-liveries/works/j16-rossi/) | 已否定 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-rossi/current) |
+| [J-10C 莱万汀 · 黑白红方案](https://icyryna.github.io/war-thunder-liveries/works/j10c-laevatain-akamywek/) | 已否定 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-laevatain-akamywek/current) |
+| [J-10C 陈千语 · 重修版](https://icyryna.github.io/war-thunder-liveries/works/j10c-chen-qianyu-repaired/) | 已否定 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-chen-qianyu-repaired/current) |
+| [J-10C 诀 · 重修版](https://icyryna.github.io/war-thunder-liveries/works/j10c-jue-repaired/) | 已否定 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jue-repaired/current) |
+| [J-16 陈千语 · 早期版](https://icyryna.github.io/war-thunder-liveries/works/j16-chen-qianyu/) | 已否定 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu/current) |
 
 ## 参考原作
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
-| [豹 2A7V · 终末地参考原作](references/ground/leopard2a7v-endfield/README.md) | 参考原作 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/references/leopard2a7v-endfield/current) |
-| [F-2A · Akamywek 参考原作](references/aircraft/f2a-akamywek/README.md) | 参考原作 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/references/f2a-akamywek/current) |
+| [豹 2A7V · 终末地参考原作](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7v-endfield/) | 参考原作 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/references/leopard2a7v-endfield/current) |
+| [F-2A · Akamywek 参考原作](https://icyryna.github.io/war-thunder-liveries/works/f2a-akamywek/) | 参考原作 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/references/f2a-akamywek/current) |
 
 参考作品保留原作者和来源，使用范围按对应许可说明。
 

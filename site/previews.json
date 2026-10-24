@@ -1,0 +1,2501 @@
+{
+  "schema_version": 1,
+  "works": [
+    {
+      "id": "f2a-akamywek",
+      "kind": "references",
+      "category": "aircraft",
+      "title": "F-2A · Akamywek 参考原作",
+      "readme": "references/aircraft/f2a-akamywek/README.md",
+      "variants": [
+        {
+          "vehicle": "f2a",
+          "scene": "previews/f2a-akamywek/variant-0/scene.json",
+          "label": "F-2A · Akamywek 参考原作 · F-2A（标准型）",
+          "triangles": 119128,
+          "nodes": 187,
+          "source_obj_sha256": "fee05a541e996581b37a616d6c367ef89949d34bc1ddd200802e7101cb9bf102",
+          "files": {
+            "model.glb": {
+              "bytes": 8575376,
+              "sha256": "e84d6fed521d37e5662244c24958f246d203e9417b152db8e382b05edfc03691"
+            },
+            "native-color-002.png": {
+              "bytes": 697681,
+              "sha256": "f3b64c017c8f13edc4148340c7fbf4f5c861caf78d948bcf2b74fdf29dae2a0e"
+            },
+            "native-color-003.png": {
+              "bytes": 7067021,
+              "sha256": "f62c657a72414b46985429514fd0bf511c5f3050147545ae984c51cabe231efb"
+            },
+            "native-color-004.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-005.png": {
+              "bytes": 1168,
+              "sha256": "8fbf6f4e60be64c25b664f34dbe6d9c612bc5634bb4fa4241b51e26a6c54c7cc"
+            },
+            "native-color-006.png": {
+              "bytes": 5506,
+              "sha256": "28892437e4df4ba806890c79bed636106ef57135c89c59ad39247cabc3d02780"
+            },
+            "native-color-007.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-008.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-009.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-010.png": {
+              "bytes": 1429,
+              "sha256": "1cbdd503aa49d16c6e88896c5290d6973ce4a62d28231061ee45a1120f695327"
+            },
+            "native-color-011.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-012.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-013.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-014.png": {
+              "bytes": 704129,
+              "sha256": "d7248e6be847567d9a24e03dd4a8fa2dbfaef0bc85d1d39297a7e5efa30e2994"
+            },
+            "native-color-015.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-016.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "scene.json": {
+              "bytes": 18378,
+              "sha256": "802cb4a28f4eadeebaa6259a7c3c2b53cb37787c67bad9d9783532a34a347ae6"
+            }
+          },
+          "config": "F-2A_M4_SOPMOD_II_NA/f_2a.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "jet_flame"
+          ]
+        },
+        {
+          "vehicle": "f2a_adtw",
+          "scene": "previews/f2a-akamywek/variant-1/scene.json",
+          "label": "F-2A · Akamywek 参考原作 · F-2A（ADTW）",
+          "triangles": 119545,
+          "nodes": 188,
+          "source_obj_sha256": "c8ab1d2556df1f30f6c680af9aaea1de31a776e6dd4a9909f2d8d32568c4b509",
+          "files": {
+            "model.glb": {
+              "bytes": 9209256,
+              "sha256": "78e8e1f6e8e18281a06cd5f56227530f4e9a99acfaf17a70b0e0c1e2f32ca724"
+            },
+            "native-color-001.png": {
+              "bytes": 697681,
+              "sha256": "f3b64c017c8f13edc4148340c7fbf4f5c861caf78d948bcf2b74fdf29dae2a0e"
+            },
+            "native-color-002.png": {
+              "bytes": 7067021,
+              "sha256": "f62c657a72414b46985429514fd0bf511c5f3050147545ae984c51cabe231efb"
+            },
+            "native-color-003.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-004.png": {
+              "bytes": 1168,
+              "sha256": "8fbf6f4e60be64c25b664f34dbe6d9c612bc5634bb4fa4241b51e26a6c54c7cc"
+            },
+            "native-color-005.png": {
+              "bytes": 1429,
+              "sha256": "1cbdd503aa49d16c6e88896c5290d6973ce4a62d28231061ee45a1120f695327"
+            },
+            "native-color-006.png": {
+              "bytes": 5506,
+              "sha256": "28892437e4df4ba806890c79bed636106ef57135c89c59ad39247cabc3d02780"
+            },
+            "native-color-007.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-008.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-009.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-010.png": {
+              "bytes": 704129,
+              "sha256": "d7248e6be847567d9a24e03dd4a8fa2dbfaef0bc85d1d39297a7e5efa30e2994"
+            },
+            "native-color-011.png": {
+              "bytes": 212454,
+              "sha256": "51a89f28d1df6ac7cfde17af82585663a996b18b0f1b8713558f5b21c98cae89"
+            },
+            "native-color-012.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-013.png": {
+              "bytes": 406201,
+              "sha256": "fb50fd5ce0f0351f31b27a4b38cded539bfbf69be3a7c8e910b01932ae549597"
+            },
+            "native-color-014.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-016.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "scene.json": {
+              "bytes": 18516,
+              "sha256": "074a6e712647c4e008d5a4a987ca1b5e541711895219a77c3b024864ba2c19ab"
+            }
+          },
+          "config": "F-2A_M4_SOPMOD_II_NA/f_2a_adtw.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "jet_flame"
+          ]
+        }
+      ],
+      "status": "参考原作",
+      "game_input_sha256": "2d61205d8e734143e59c6cfd626d0cd992e6a6dde8106937b10cdc2d8c2cbfa7"
+    },
+    {
+      "id": "leopard2a7v-endfield",
+      "kind": "references",
+      "category": "ground",
+      "title": "豹 2A7V · 终末地参考原作",
+      "readme": "references/ground/leopard2a7v-endfield/README.md",
+      "variants": [
+        {
+          "vehicle": "leopard_2a7v",
+          "scene": "previews/leopard2a7v-endfield/variant-0/scene.json",
+          "label": "豹 2A7V · 终末地参考原作",
+          "triangles": 125760,
+          "nodes": 138,
+          "source_obj_sha256": "a25d78e4337bff020b78a2b8fa788e9cb3fce998e3d7b2deed9f212ef4260539",
+          "files": {
+            "model.glb": {
+              "bytes": 10143292,
+              "sha256": "dcc9eba6f621dcf1fc0d735529b3d8db9b5db04bdb8dd6f93ce8941e856a5aab"
+            },
+            "native-color-000.png": {
+              "bytes": 8306373,
+              "sha256": "cbe1d2a8b8c11234d5ccd6282bc571ef0e59add2dd5d54685dbb6efebcb2a63e"
+            },
+            "native-color-001.png": {
+              "bytes": 55993,
+              "sha256": "075b6f2bc47189f457f508cc621033dbc820063e69053927c5092e81842f436c"
+            },
+            "native-color-002.png": {
+              "bytes": 39288,
+              "sha256": "c157262883ed1aa329f3c7fb5a910c9e1f5324b8c33955f997468e9ed9dc9507"
+            },
+            "native-color-003.png": {
+              "bytes": 1595,
+              "sha256": "d5bf2b3a56fcd5bd79412e7b193d1cb5b5724f81463e19b8df4bd5e912468df9"
+            },
+            "native-color-004.png": {
+              "bytes": 6702216,
+              "sha256": "15aaabbc6491309a3cf6bba7d3c8be5a47ae435f52442cd42263e72611e9c6c3"
+            },
+            "native-color-005.png": {
+              "bytes": 3011079,
+              "sha256": "f31d1ba658739c8fb16707c205cda6919873dfa8d17ae27f49a4d05a53d4c0ba"
+            },
+            "native-color-006.png": {
+              "bytes": 827,
+              "sha256": "e25ef77fbad50cc94a3ea609279bce6e019b447492f6ccc60dee27970d9892cc"
+            },
+            "native-color-007.png": {
+              "bytes": 237725,
+              "sha256": "f640dfd5235048b1a9cdc225e263aa25d723ceb9a7b286243cd028491400d1a7"
+            },
+            "native-color-008.png": {
+              "bytes": 1578,
+              "sha256": "f80e0fedc1fee0ab1906bb2dcbf72b331cf012e5462abef3f33d9f3802e283b4"
+            },
+            "native-color-009.png": {
+              "bytes": 98280,
+              "sha256": "6187a8903286512e39e21e19e50df2bb56308f799101c7455de746db8f935dd6"
+            },
+            "native-color-010.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-011.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-012.png": {
+              "bytes": 2690,
+              "sha256": "e2b22c9c6919f6fb7ad2b01ca1c74ff7306dbbe9dff249d3ed901ce02316cef0"
+            },
+            "native-color-013.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "native-color-014.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "scene.json": {
+              "bytes": 16437,
+              "sha256": "1e51a03e422ddda7cdd06684aaca8f178b425c49472f92a205dc467a4951db18"
+            }
+          },
+          "config": "Leopard_2a7v_ENDFIELDver.2/germ_leopard_2a7v.blk",
+          "hidden_effect_nodes": []
+        }
+      ],
+      "status": "参考原作",
+      "game_input_sha256": "e1cc23b473a1707573e60c4d9776657d41421318ab48a5052b34f4758bfb2f10"
+    },
+    {
+      "id": "f2a-akamywek-replica",
+      "kind": "works",
+      "category": "aircraft",
+      "title": "F-2A · Akamywek 原作临摹",
+      "readme": "works/aircraft/f2a-akamywek-replica/README.md",
+      "variants": [
+        {
+          "vehicle": "f2a",
+          "scene": "previews/f2a-akamywek-replica/variant-0/scene.json",
+          "label": "F-2A · Akamywek 原作临摹 · F-2A（标准型）",
+          "triangles": 119128,
+          "nodes": 187,
+          "source_obj_sha256": "fee05a541e996581b37a616d6c367ef89949d34bc1ddd200802e7101cb9bf102",
+          "files": {
+            "model.glb": {
+              "bytes": 8519396,
+              "sha256": "228826e128584203eb7f1df32161084b4f6434db097b8199b692753c3d2e3522"
+            },
+            "native-color-002.png": {
+              "bytes": 697681,
+              "sha256": "f3b64c017c8f13edc4148340c7fbf4f5c861caf78d948bcf2b74fdf29dae2a0e"
+            },
+            "native-color-003.png": {
+              "bytes": 6785306,
+              "sha256": "f9a7c2adeecf6447aa0e3eae2d2ac95344db5718541b0ec217f697d6133fcf74"
+            },
+            "native-color-004.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-005.png": {
+              "bytes": 1168,
+              "sha256": "8fbf6f4e60be64c25b664f34dbe6d9c612bc5634bb4fa4241b51e26a6c54c7cc"
+            },
+            "native-color-006.png": {
+              "bytes": 5506,
+              "sha256": "28892437e4df4ba806890c79bed636106ef57135c89c59ad39247cabc3d02780"
+            },
+            "native-color-007.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-008.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-009.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-010.png": {
+              "bytes": 1429,
+              "sha256": "1cbdd503aa49d16c6e88896c5290d6973ce4a62d28231061ee45a1120f695327"
+            },
+            "native-color-011.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-012.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-013.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-014.png": {
+              "bytes": 704129,
+              "sha256": "d7248e6be847567d9a24e03dd4a8fa2dbfaef0bc85d1d39297a7e5efa30e2994"
+            },
+            "native-color-015.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-016.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "scene.json": {
+              "bytes": 18378,
+              "sha256": "cd0d77cbe5e1ca46bf7f5c1fb25742f53d7d715120b1f649ca7b0f78140f37ba"
+            }
+          },
+          "config": "f2a-akamywek-replica/f_2a.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "jet_flame"
+          ]
+        },
+        {
+          "vehicle": "f2a_adtw",
+          "scene": "previews/f2a-akamywek-replica/variant-1/scene.json",
+          "label": "F-2A · Akamywek 原作临摹 · F-2A（ADTW）",
+          "triangles": 119545,
+          "nodes": 188,
+          "source_obj_sha256": "c8ab1d2556df1f30f6c680af9aaea1de31a776e6dd4a9909f2d8d32568c4b509",
+          "files": {
+            "model.glb": {
+              "bytes": 9153276,
+              "sha256": "3b2d0fdd013d46c7dc650a3d6aafefa7e42462bbcf3b131eb41258c5d9176381"
+            },
+            "native-color-001.png": {
+              "bytes": 697681,
+              "sha256": "f3b64c017c8f13edc4148340c7fbf4f5c861caf78d948bcf2b74fdf29dae2a0e"
+            },
+            "native-color-002.png": {
+              "bytes": 6785306,
+              "sha256": "f9a7c2adeecf6447aa0e3eae2d2ac95344db5718541b0ec217f697d6133fcf74"
+            },
+            "native-color-003.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-004.png": {
+              "bytes": 1168,
+              "sha256": "8fbf6f4e60be64c25b664f34dbe6d9c612bc5634bb4fa4241b51e26a6c54c7cc"
+            },
+            "native-color-005.png": {
+              "bytes": 1429,
+              "sha256": "1cbdd503aa49d16c6e88896c5290d6973ce4a62d28231061ee45a1120f695327"
+            },
+            "native-color-006.png": {
+              "bytes": 5506,
+              "sha256": "28892437e4df4ba806890c79bed636106ef57135c89c59ad39247cabc3d02780"
+            },
+            "native-color-007.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-008.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-009.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-010.png": {
+              "bytes": 704129,
+              "sha256": "d7248e6be847567d9a24e03dd4a8fa2dbfaef0bc85d1d39297a7e5efa30e2994"
+            },
+            "native-color-011.png": {
+              "bytes": 212454,
+              "sha256": "51a89f28d1df6ac7cfde17af82585663a996b18b0f1b8713558f5b21c98cae89"
+            },
+            "native-color-012.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-013.png": {
+              "bytes": 406201,
+              "sha256": "fb50fd5ce0f0351f31b27a4b38cded539bfbf69be3a7c8e910b01932ae549597"
+            },
+            "native-color-014.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-016.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "scene.json": {
+              "bytes": 18516,
+              "sha256": "6a577f3121be37838625ac66eeaa829aa84752ad9d9e09a1dcdaf5cacd5dc854"
+            }
+          },
+          "config": "f2a-akamywek-replica/f_2a_adtw.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "jet_flame"
+          ]
+        }
+      ],
+      "status": "待评价",
+      "game_input_sha256": "5daa01ee6fb63528e5a32c25848fc5b7f5d4cc1b7af861267c9375e19f36cf30"
+    },
+    {
+      "id": "j10c-chen-qianyu-repaired",
+      "kind": "works",
+      "category": "aircraft",
+      "title": "J-10C 陈千语 · 重修版",
+      "readme": "works/aircraft/j10c-chen-qianyu-repaired/README.md",
+      "variants": [
+        {
+          "vehicle": "j_10c",
+          "scene": "previews/j10c-chen-qianyu-repaired/variant-0/scene.json",
+          "label": "J-10C 陈千语 · 重修版",
+          "triangles": 181677,
+          "nodes": 344,
+          "source_obj_sha256": "277d8995982ab3a3ed22d71de22c4f41f518fe174f4f4570d05e850818557f2d",
+          "files": {
+            "model.glb": {
+              "bytes": 17791488,
+              "sha256": "659955055283f6f1a20569ca88983211a5fc30ef6def8e29f20cd52915c4dce0"
+            },
+            "native-color-002.png": {
+              "bytes": 4815415,
+              "sha256": "e655a9b83a8a1b4c8ed1b360f368076771518db30fe4e193adf8d9c215b84579"
+            },
+            "native-color-003.png": {
+              "bytes": 637316,
+              "sha256": "b84b3e622407afd0a4877bd5529915cb570c9b938ec338c7dc4a15df52c5947c"
+            },
+            "native-color-004.png": {
+              "bytes": 813369,
+              "sha256": "6caba2f2c25fa5277554e932bec9dfecb9463210f354887683c189475c6ad535"
+            },
+            "native-color-005.png": {
+              "bytes": 2488,
+              "sha256": "c097e9e0c83278d399ebaa303beeb1a52e4be55bf06571ace7a075027e481610"
+            },
+            "native-color-006.png": {
+              "bytes": 4864,
+              "sha256": "8a1437eb2f1feb7eb23d5a1963412e088e80309b02486e5e7ff84a34460d61e9"
+            },
+            "native-color-007.png": {
+              "bytes": 1585,
+              "sha256": "1f54f7026b14e87a1d88a4d2ea2e0a74443efd95e386d05b12e51a53d2c1808d"
+            },
+            "native-color-008.png": {
+              "bytes": 5128,
+              "sha256": "fe3408d3199e5c24ccff546d13327d51efcfe34327158ef4e5ee2f43ea2a7e31"
+            },
+            "native-color-009.png": {
+              "bytes": 331544,
+              "sha256": "7da21aed83871eea0ccdc3eba6f9766a0e4cdab22405a05fc7aa5348f6a2aa5a"
+            },
+            "native-color-010.png": {
+              "bytes": 163423,
+              "sha256": "666e1f6dd4a9077c4f3c33d3fa62139415c68ebae8eaba483552154528457756"
+            },
+            "native-color-011.png": {
+              "bytes": 2819,
+              "sha256": "d6df5b0cade67585d9403bce4a49d8335bbfadedc63e84f56dd00f2e099576b7"
+            },
+            "native-color-012.png": {
+              "bytes": 677701,
+              "sha256": "6c424bd29fd7d0d7375dc6083bb3b75f3e892a604c19979f7f98945176a5942c"
+            },
+            "native-color-013.png": {
+              "bytes": 358508,
+              "sha256": "70a0d065b62119d6f821fe7b73e48b5ed0ec83e272db311a7bd74685adbac9a4"
+            },
+            "native-color-014.png": {
+              "bytes": 260042,
+              "sha256": "dc08b24ce4e8bddcbd501b278c53df7fb761f6fcf0de00f49b46d24f69360cac"
+            },
+            "native-color-015.png": {
+              "bytes": 4936,
+              "sha256": "07ac8bd7d40d45217c3889cd93b80cdb167187d88c40d38ddeee69d80fd83876"
+            },
+            "native-color-016.png": {
+              "bytes": 141290,
+              "sha256": "b51a4b82211dabf56ba6d8be2b6b1116fbf281fd34b234c80bc8d35de3e30e51"
+            },
+            "native-color-017.png": {
+              "bytes": 722464,
+              "sha256": "ad3a4e2622d5f06443fa7732b02418d630dd0586d2762d38d62a8e14291371d4"
+            },
+            "native-color-018.png": {
+              "bytes": 703997,
+              "sha256": "2d403f0d0abd9adf25de2998ba71b2c7d5029a60861f1813261000cf0d5f34d5"
+            },
+            "native-color-019.png": {
+              "bytes": 827174,
+              "sha256": "48117f81f0b9937136fb18dd8658bc7a1005e561d96da5ca7deee04fadcb17d0"
+            },
+            "native-color-020.png": {
+              "bytes": 680602,
+              "sha256": "31b5e7ee214c18a655b0809653df453db1dcbb6cacaf09db4b2f74a35c6bb4a3"
+            },
+            "native-color-021.png": {
+              "bytes": 393315,
+              "sha256": "e0e031b349875653647f28ffe9ed64a8ad6273e513be0f41afe264b300178c1a"
+            },
+            "native-color-022.png": {
+              "bytes": 318983,
+              "sha256": "ff7db7e4c9440c4b64a8b2dbf3c27f4bdce47eeb82e711e8b838e18699cd17dc"
+            },
+            "native-color-023.png": {
+              "bytes": 4093981,
+              "sha256": "429ef6fc924c0c7df5479f775929b6b9cc9f69bd8312cbc0ecd38dae67500a98"
+            },
+            "scene.json": {
+              "bytes": 27256,
+              "sha256": "68630a9a1d5d284317a51a3d56c16812225695886ed7e3e6a3bc7a06caed937e"
+            }
+          },
+          "config": "j10c-chen-qianyu-repaired/j_10c.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "flare2",
+            "jet_flame"
+          ]
+        }
+      ],
+      "status": "已否定",
+      "game_input_sha256": "bf1a44a2ede71ce2f4141a9115a2dc9cf77dfda8346f3db5f1db6822b7fdfb77"
+    },
+    {
+      "id": "j10c-jue-grok",
+      "kind": "works",
+      "category": "aircraft",
+      "title": "J-10C 诀 · Grok 版",
+      "readme": "works/aircraft/j10c-jue-grok/README.md",
+      "variants": [
+        {
+          "vehicle": "j_10c",
+          "scene": "previews/j10c-jue-grok/variant-0/scene.json",
+          "label": "J-10C 诀 · Grok 版",
+          "triangles": 181677,
+          "nodes": 344,
+          "source_obj_sha256": "277d8995982ab3a3ed22d71de22c4f41f518fe174f4f4570d05e850818557f2d",
+          "files": {
+            "model.glb": {
+              "bytes": 13672612,
+              "sha256": "9c114bae1bdc1fd40c2aba881ab43bd9c9fe2440699ee257a47580b760dfca43"
+            },
+            "native-color-002.png": {
+              "bytes": 8912334,
+              "sha256": "e7ef7ed9079f29a7946f838923cea8b0ac3448b82db54c1ef367dde074ce0152"
+            },
+            "native-color-003.png": {
+              "bytes": 637316,
+              "sha256": "b84b3e622407afd0a4877bd5529915cb570c9b938ec338c7dc4a15df52c5947c"
+            },
+            "native-color-004.png": {
+              "bytes": 813369,
+              "sha256": "6caba2f2c25fa5277554e932bec9dfecb9463210f354887683c189475c6ad535"
+            },
+            "native-color-005.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-006.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-007.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-008.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-009.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-010.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-011.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-012.png": {
+              "bytes": 677701,
+              "sha256": "6c424bd29fd7d0d7375dc6083bb3b75f3e892a604c19979f7f98945176a5942c"
+            },
+            "native-color-013.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-014.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-015.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-016.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-017.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-018.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-019.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-020.png": {
+              "bytes": 680602,
+              "sha256": "31b5e7ee214c18a655b0809653df453db1dcbb6cacaf09db4b2f74a35c6bb4a3"
+            },
+            "native-color-021.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-022.png": {
+              "bytes": 318983,
+              "sha256": "ff7db7e4c9440c4b64a8b2dbf3c27f4bdce47eeb82e711e8b838e18699cd17dc"
+            },
+            "native-color-023.png": {
+              "bytes": 16914,
+              "sha256": "3b77a39a83041e60f67f7d33e4edc8542f33f45acff3481208bbeaf255996056"
+            },
+            "scene.json": {
+              "bytes": 27249,
+              "sha256": "13cc1eaec923422b84892f779dcab6c8f7564706d5a99710c335407741244f7c"
+            }
+          },
+          "config": "j10c-jue-grok/j_10c.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "flare2",
+            "jet_flame"
+          ]
+        }
+      ],
+      "status": "已认可",
+      "game_input_sha256": "68842df2efd43cf5cf0491dd7d2838c2258a2f8b9effd64d3a5fae0ac0bb45ee"
+    },
+    {
+      "id": "j10c-jue-repaired",
+      "kind": "works",
+      "category": "aircraft",
+      "title": "J-10C 诀 · 重修版",
+      "readme": "works/aircraft/j10c-jue-repaired/README.md",
+      "variants": [
+        {
+          "vehicle": "j_10c",
+          "scene": "previews/j10c-jue-repaired/variant-0/scene.json",
+          "label": "J-10C 诀 · 重修版",
+          "triangles": 181677,
+          "nodes": 344,
+          "source_obj_sha256": "277d8995982ab3a3ed22d71de22c4f41f518fe174f4f4570d05e850818557f2d",
+          "files": {
+            "model.glb": {
+              "bytes": 17726864,
+              "sha256": "b6bc3334afb7ef836da152e9f66f51a2da085a34f18ffc31c7cf11acfd5e15d3"
+            },
+            "native-color-002.png": {
+              "bytes": 4514042,
+              "sha256": "7385f9dedde4d9256bb158f460241bca8aaf53c266811add8fd2d9779cea6bf6"
+            },
+            "native-color-003.png": {
+              "bytes": 637316,
+              "sha256": "b84b3e622407afd0a4877bd5529915cb570c9b938ec338c7dc4a15df52c5947c"
+            },
+            "native-color-004.png": {
+              "bytes": 813369,
+              "sha256": "6caba2f2c25fa5277554e932bec9dfecb9463210f354887683c189475c6ad535"
+            },
+            "native-color-005.png": {
+              "bytes": 2488,
+              "sha256": "c097e9e0c83278d399ebaa303beeb1a52e4be55bf06571ace7a075027e481610"
+            },
+            "native-color-006.png": {
+              "bytes": 4864,
+              "sha256": "8a1437eb2f1feb7eb23d5a1963412e088e80309b02486e5e7ff84a34460d61e9"
+            },
+            "native-color-007.png": {
+              "bytes": 1585,
+              "sha256": "1f54f7026b14e87a1d88a4d2ea2e0a74443efd95e386d05b12e51a53d2c1808d"
+            },
+            "native-color-008.png": {
+              "bytes": 5128,
+              "sha256": "fe3408d3199e5c24ccff546d13327d51efcfe34327158ef4e5ee2f43ea2a7e31"
+            },
+            "native-color-009.png": {
+              "bytes": 331544,
+              "sha256": "7da21aed83871eea0ccdc3eba6f9766a0e4cdab22405a05fc7aa5348f6a2aa5a"
+            },
+            "native-color-010.png": {
+              "bytes": 163423,
+              "sha256": "666e1f6dd4a9077c4f3c33d3fa62139415c68ebae8eaba483552154528457756"
+            },
+            "native-color-011.png": {
+              "bytes": 2819,
+              "sha256": "d6df5b0cade67585d9403bce4a49d8335bbfadedc63e84f56dd00f2e099576b7"
+            },
+            "native-color-012.png": {
+              "bytes": 677701,
+              "sha256": "6c424bd29fd7d0d7375dc6083bb3b75f3e892a604c19979f7f98945176a5942c"
+            },
+            "native-color-013.png": {
+              "bytes": 358508,
+              "sha256": "70a0d065b62119d6f821fe7b73e48b5ed0ec83e272db311a7bd74685adbac9a4"
+            },
+            "native-color-014.png": {
+              "bytes": 260042,
+              "sha256": "dc08b24ce4e8bddcbd501b278c53df7fb761f6fcf0de00f49b46d24f69360cac"
+            },
+            "native-color-015.png": {
+              "bytes": 4936,
+              "sha256": "07ac8bd7d40d45217c3889cd93b80cdb167187d88c40d38ddeee69d80fd83876"
+            },
+            "native-color-016.png": {
+              "bytes": 141290,
+              "sha256": "b51a4b82211dabf56ba6d8be2b6b1116fbf281fd34b234c80bc8d35de3e30e51"
+            },
+            "native-color-017.png": {
+              "bytes": 722464,
+              "sha256": "ad3a4e2622d5f06443fa7732b02418d630dd0586d2762d38d62a8e14291371d4"
+            },
+            "native-color-018.png": {
+              "bytes": 703997,
+              "sha256": "2d403f0d0abd9adf25de2998ba71b2c7d5029a60861f1813261000cf0d5f34d5"
+            },
+            "native-color-019.png": {
+              "bytes": 827174,
+              "sha256": "48117f81f0b9937136fb18dd8658bc7a1005e561d96da5ca7deee04fadcb17d0"
+            },
+            "native-color-020.png": {
+              "bytes": 680602,
+              "sha256": "31b5e7ee214c18a655b0809653df453db1dcbb6cacaf09db4b2f74a35c6bb4a3"
+            },
+            "native-color-021.png": {
+              "bytes": 393315,
+              "sha256": "e0e031b349875653647f28ffe9ed64a8ad6273e513be0f41afe264b300178c1a"
+            },
+            "native-color-022.png": {
+              "bytes": 318983,
+              "sha256": "ff7db7e4c9440c4b64a8b2dbf3c27f4bdce47eeb82e711e8b838e18699cd17dc"
+            },
+            "native-color-023.png": {
+              "bytes": 3957704,
+              "sha256": "1a0c88b510b18be8ce337eebf2dc3af341dec199d2cf2643ae944f1f9b7e39ba"
+            },
+            "scene.json": {
+              "bytes": 27250,
+              "sha256": "bc319cbee86bfaf38000629b290931ab5f3ae8ebd14dc0ebff87ed02e492f7f7"
+            }
+          },
+          "config": "j10c-jue-repaired/j_10c.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "flare2",
+            "jet_flame"
+          ]
+        }
+      ],
+      "status": "已否定",
+      "game_input_sha256": "9d7f3b895674a4a46e88c6f860e0439947d2e1abd27f37c6df8bf767dee02b4f"
+    },
+    {
+      "id": "j10c-laevatain-akamywek",
+      "kind": "works",
+      "category": "aircraft",
+      "title": "J-10C 莱万汀 · 黑白红方案",
+      "readme": "works/aircraft/j10c-laevatain-akamywek/README.md",
+      "variants": [
+        {
+          "vehicle": "j_10c",
+          "scene": "previews/j10c-laevatain-akamywek/variant-0/scene.json",
+          "label": "J-10C 莱万汀 · 黑白红方案",
+          "triangles": 181677,
+          "nodes": 344,
+          "source_obj_sha256": "277d8995982ab3a3ed22d71de22c4f41f518fe174f4f4570d05e850818557f2d",
+          "files": {
+            "model.glb": {
+              "bytes": 17396504,
+              "sha256": "56c2e7efd2c55e06763d133dc266ad28f3a68bcdfddad32798063d3e0bdc91b1"
+            },
+            "native-color-002.png": {
+              "bytes": 6201539,
+              "sha256": "22d948788453b853b9914119ccaf764c60ef12c750ea19f29506d72a4db7f174"
+            },
+            "native-color-003.png": {
+              "bytes": 637316,
+              "sha256": "b84b3e622407afd0a4877bd5529915cb570c9b938ec338c7dc4a15df52c5947c"
+            },
+            "native-color-004.png": {
+              "bytes": 813369,
+              "sha256": "6caba2f2c25fa5277554e932bec9dfecb9463210f354887683c189475c6ad535"
+            },
+            "native-color-005.png": {
+              "bytes": 2488,
+              "sha256": "c097e9e0c83278d399ebaa303beeb1a52e4be55bf06571ace7a075027e481610"
+            },
+            "native-color-006.png": {
+              "bytes": 4864,
+              "sha256": "8a1437eb2f1feb7eb23d5a1963412e088e80309b02486e5e7ff84a34460d61e9"
+            },
+            "native-color-007.png": {
+              "bytes": 1585,
+              "sha256": "1f54f7026b14e87a1d88a4d2ea2e0a74443efd95e386d05b12e51a53d2c1808d"
+            },
+            "native-color-008.png": {
+              "bytes": 5128,
+              "sha256": "fe3408d3199e5c24ccff546d13327d51efcfe34327158ef4e5ee2f43ea2a7e31"
+            },
+            "native-color-009.png": {
+              "bytes": 331544,
+              "sha256": "7da21aed83871eea0ccdc3eba6f9766a0e4cdab22405a05fc7aa5348f6a2aa5a"
+            },
+            "native-color-010.png": {
+              "bytes": 163423,
+              "sha256": "666e1f6dd4a9077c4f3c33d3fa62139415c68ebae8eaba483552154528457756"
+            },
+            "native-color-011.png": {
+              "bytes": 2819,
+              "sha256": "d6df5b0cade67585d9403bce4a49d8335bbfadedc63e84f56dd00f2e099576b7"
+            },
+            "native-color-012.png": {
+              "bytes": 677701,
+              "sha256": "6c424bd29fd7d0d7375dc6083bb3b75f3e892a604c19979f7f98945176a5942c"
+            },
+            "native-color-013.png": {
+              "bytes": 358508,
+              "sha256": "70a0d065b62119d6f821fe7b73e48b5ed0ec83e272db311a7bd74685adbac9a4"
+            },
+            "native-color-014.png": {
+              "bytes": 260042,
+              "sha256": "dc08b24ce4e8bddcbd501b278c53df7fb761f6fcf0de00f49b46d24f69360cac"
+            },
+            "native-color-015.png": {
+              "bytes": 4936,
+              "sha256": "07ac8bd7d40d45217c3889cd93b80cdb167187d88c40d38ddeee69d80fd83876"
+            },
+            "native-color-016.png": {
+              "bytes": 141290,
+              "sha256": "b51a4b82211dabf56ba6d8be2b6b1116fbf281fd34b234c80bc8d35de3e30e51"
+            },
+            "native-color-017.png": {
+              "bytes": 722464,
+              "sha256": "ad3a4e2622d5f06443fa7732b02418d630dd0586d2762d38d62a8e14291371d4"
+            },
+            "native-color-018.png": {
+              "bytes": 703997,
+              "sha256": "2d403f0d0abd9adf25de2998ba71b2c7d5029a60861f1813261000cf0d5f34d5"
+            },
+            "native-color-019.png": {
+              "bytes": 827174,
+              "sha256": "48117f81f0b9937136fb18dd8658bc7a1005e561d96da5ca7deee04fadcb17d0"
+            },
+            "native-color-020.png": {
+              "bytes": 680602,
+              "sha256": "31b5e7ee214c18a655b0809653df453db1dcbb6cacaf09db4b2f74a35c6bb4a3"
+            },
+            "native-color-021.png": {
+              "bytes": 393315,
+              "sha256": "e0e031b349875653647f28ffe9ed64a8ad6273e513be0f41afe264b300178c1a"
+            },
+            "native-color-022.png": {
+              "bytes": 318983,
+              "sha256": "ff7db7e4c9440c4b64a8b2dbf3c27f4bdce47eeb82e711e8b838e18699cd17dc"
+            },
+            "native-color-023.png": {
+              "bytes": 289867,
+              "sha256": "979b39c0095dbcab8d5a7ed394d472971b1a825d8a91b23a7da0faedeec2dabb"
+            },
+            "scene.json": {
+              "bytes": 27262,
+              "sha256": "f8e31465e5c8d82e925e97e98185ff36e813bb05b6f288d4d20e1923434cfe30"
+            }
+          },
+          "config": "j10c-laevatain-akamywek/j_10c.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "flare2",
+            "jet_flame"
+          ]
+        }
+      ],
+      "status": "已否定",
+      "game_input_sha256": "82bc3142eb12d0664e3510f3efed1c4343005e2bae5b1a28ce2641cb3cb237a4"
+    },
+    {
+      "id": "j10c-zhuang-fangyi-akamywek",
+      "kind": "works",
+      "category": "aircraft",
+      "title": "J-10C 庄方宜 · Akamywek 风格",
+      "readme": "works/aircraft/j10c-zhuang-fangyi-akamywek/README.md",
+      "variants": [
+        {
+          "vehicle": "j_10c",
+          "scene": "previews/j10c-zhuang-fangyi-akamywek/variant-0/scene.json",
+          "label": "J-10C 庄方宜 · Akamywek 风格",
+          "triangles": 181677,
+          "nodes": 344,
+          "source_obj_sha256": "277d8995982ab3a3ed22d71de22c4f41f518fe174f4f4570d05e850818557f2d",
+          "files": {
+            "model.glb": {
+              "bytes": 17919752,
+              "sha256": "16f82c11e19bf177f5e208f640a3b72a378f8137753dd3815434976b85972cd3"
+            },
+            "native-color-002.png": {
+              "bytes": 11343109,
+              "sha256": "81195c6b30655e44f6a218ee95b050248d225ae1a908793ab3aaf90dc3d71269"
+            },
+            "native-color-003.png": {
+              "bytes": 637316,
+              "sha256": "b84b3e622407afd0a4877bd5529915cb570c9b938ec338c7dc4a15df52c5947c"
+            },
+            "native-color-004.png": {
+              "bytes": 813369,
+              "sha256": "6caba2f2c25fa5277554e932bec9dfecb9463210f354887683c189475c6ad535"
+            },
+            "native-color-005.png": {
+              "bytes": 2488,
+              "sha256": "c097e9e0c83278d399ebaa303beeb1a52e4be55bf06571ace7a075027e481610"
+            },
+            "native-color-006.png": {
+              "bytes": 4864,
+              "sha256": "8a1437eb2f1feb7eb23d5a1963412e088e80309b02486e5e7ff84a34460d61e9"
+            },
+            "native-color-007.png": {
+              "bytes": 1585,
+              "sha256": "1f54f7026b14e87a1d88a4d2ea2e0a74443efd95e386d05b12e51a53d2c1808d"
+            },
+            "native-color-008.png": {
+              "bytes": 5128,
+              "sha256": "fe3408d3199e5c24ccff546d13327d51efcfe34327158ef4e5ee2f43ea2a7e31"
+            },
+            "native-color-009.png": {
+              "bytes": 331544,
+              "sha256": "7da21aed83871eea0ccdc3eba6f9766a0e4cdab22405a05fc7aa5348f6a2aa5a"
+            },
+            "native-color-010.png": {
+              "bytes": 163423,
+              "sha256": "666e1f6dd4a9077c4f3c33d3fa62139415c68ebae8eaba483552154528457756"
+            },
+            "native-color-011.png": {
+              "bytes": 2819,
+              "sha256": "d6df5b0cade67585d9403bce4a49d8335bbfadedc63e84f56dd00f2e099576b7"
+            },
+            "native-color-012.png": {
+              "bytes": 677701,
+              "sha256": "6c424bd29fd7d0d7375dc6083bb3b75f3e892a604c19979f7f98945176a5942c"
+            },
+            "native-color-013.png": {
+              "bytes": 358508,
+              "sha256": "70a0d065b62119d6f821fe7b73e48b5ed0ec83e272db311a7bd74685adbac9a4"
+            },
+            "native-color-014.png": {
+              "bytes": 260042,
+              "sha256": "dc08b24ce4e8bddcbd501b278c53df7fb761f6fcf0de00f49b46d24f69360cac"
+            },
+            "native-color-015.png": {
+              "bytes": 4936,
+              "sha256": "07ac8bd7d40d45217c3889cd93b80cdb167187d88c40d38ddeee69d80fd83876"
+            },
+            "native-color-016.png": {
+              "bytes": 141290,
+              "sha256": "b51a4b82211dabf56ba6d8be2b6b1116fbf281fd34b234c80bc8d35de3e30e51"
+            },
+            "native-color-017.png": {
+              "bytes": 722464,
+              "sha256": "ad3a4e2622d5f06443fa7732b02418d630dd0586d2762d38d62a8e14291371d4"
+            },
+            "native-color-018.png": {
+              "bytes": 703997,
+              "sha256": "2d403f0d0abd9adf25de2998ba71b2c7d5029a60861f1813261000cf0d5f34d5"
+            },
+            "native-color-019.png": {
+              "bytes": 827174,
+              "sha256": "48117f81f0b9937136fb18dd8658bc7a1005e561d96da5ca7deee04fadcb17d0"
+            },
+            "native-color-020.png": {
+              "bytes": 680602,
+              "sha256": "31b5e7ee214c18a655b0809653df453db1dcbb6cacaf09db4b2f74a35c6bb4a3"
+            },
+            "native-color-021.png": {
+              "bytes": 393315,
+              "sha256": "e0e031b349875653647f28ffe9ed64a8ad6273e513be0f41afe264b300178c1a"
+            },
+            "native-color-022.png": {
+              "bytes": 318983,
+              "sha256": "ff7db7e4c9440c4b64a8b2dbf3c27f4bdce47eeb82e711e8b838e18699cd17dc"
+            },
+            "native-color-023.png": {
+              "bytes": 2158738,
+              "sha256": "014bd49ecfdf7afb942b2473f5338d7ac66e67a21e06082042e31ee2a5d42a6f"
+            },
+            "scene.json": {
+              "bytes": 27262,
+              "sha256": "e760707b335356f0b09c05c048ea8e83ea9b09c905c6aeb80cf096b65b1c4521"
+            }
+          },
+          "config": "j10c-zhuang-fangyi-akamywek/j_10c.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "flare2",
+            "jet_flame"
+          ]
+        }
+      ],
+      "status": "部分认可",
+      "game_input_sha256": "552f77e9ce847f99523db662687af124febe67e0b730bf50328aa33416d17233"
+    },
+    {
+      "id": "j16-chen-qianyu",
+      "kind": "works",
+      "category": "aircraft",
+      "title": "J-16 陈千语 · 早期版",
+      "readme": "works/aircraft/j16-chen-qianyu/README.md",
+      "variants": [
+        {
+          "vehicle": "j_16",
+          "scene": "previews/j16-chen-qianyu/variant-0/scene.json",
+          "label": "J-16 陈千语 · 早期版",
+          "triangles": 228476,
+          "nodes": 498,
+          "source_obj_sha256": "36819c9054f0c1f7691263608d135988cc0fb81d6c5cb259518be9783d2e9f84",
+          "files": {
+            "model.glb": {
+              "bytes": 19567064,
+              "sha256": "672014d7b13822cc3f1372bbbccc2ac474b3d3e04a0bac37e5d0a9912abb50b5"
+            },
+            "native-color-000.png": {
+              "bytes": 1817702,
+              "sha256": "1dc07a4773d7c06c2501cc22db9c15ee041128e498b60cc4c52e9e4cc27523f2"
+            },
+            "native-color-003.png": {
+              "bytes": 2498,
+              "sha256": "36ba1ca49ab8d3bdb9ee9fb1a8e76ddfeeeb6fd4d4f9442c736f77f28816c166"
+            },
+            "native-color-004.png": {
+              "bytes": 331544,
+              "sha256": "7da21aed83871eea0ccdc3eba6f9766a0e4cdab22405a05fc7aa5348f6a2aa5a"
+            },
+            "native-color-005.png": {
+              "bytes": 5128,
+              "sha256": "fe3408d3199e5c24ccff546d13327d51efcfe34327158ef4e5ee2f43ea2a7e31"
+            },
+            "native-color-006.png": {
+              "bytes": 827174,
+              "sha256": "48117f81f0b9937136fb18dd8658bc7a1005e561d96da5ca7deee04fadcb17d0"
+            },
+            "native-color-007.png": {
+              "bytes": 393315,
+              "sha256": "e0e031b349875653647f28ffe9ed64a8ad6273e513be0f41afe264b300178c1a"
+            },
+            "native-color-008.png": {
+              "bytes": 318983,
+              "sha256": "ff7db7e4c9440c4b64a8b2dbf3c27f4bdce47eeb82e711e8b838e18699cd17dc"
+            },
+            "native-color-009.png": {
+              "bytes": 453583,
+              "sha256": "3d4a69c5356cafb655a7e18396fd7d5d724294868729899a6d746c60f91e3675"
+            },
+            "native-color-010.png": {
+              "bytes": 911232,
+              "sha256": "32ebbe2e87d5122e0500eb74feeca9f26451ee6ea7d6e13d32576c9ce749e77e"
+            },
+            "native-color-011.png": {
+              "bytes": 234911,
+              "sha256": "d2e777da2a5897457ad59f2448ab7c161f1debc091e4989102b18994bba1e916"
+            },
+            "native-color-012.png": {
+              "bytes": 722464,
+              "sha256": "ad3a4e2622d5f06443fa7732b02418d630dd0586d2762d38d62a8e14291371d4"
+            },
+            "native-color-013.png": {
+              "bytes": 4130,
+              "sha256": "8d62b2cfbe0de14f4b812b8ea4be2a839e239b81a9d674adb631155e5d970726"
+            },
+            "native-color-014.png": {
+              "bytes": 2524,
+              "sha256": "4cd91dfe770c997a945ba87d82bf33ce4fe0bd57761c43effe855d30407a98d1"
+            },
+            "native-color-015.png": {
+              "bytes": 680602,
+              "sha256": "31b5e7ee214c18a655b0809653df453db1dcbb6cacaf09db4b2f74a35c6bb4a3"
+            },
+            "native-color-016.png": {
+              "bytes": 4772,
+              "sha256": "9502cdd0d8d92426167251c60ebb7eb3df4e15269c153b5ff3128f9af739b010"
+            },
+            "native-color-017.png": {
+              "bytes": 240099,
+              "sha256": "b1b1d9796cfa3d6c50704cc34cb95bdf6a0a7363fcf026949b3e5c33e4c2bfec"
+            },
+            "native-color-018.png": {
+              "bytes": 5339,
+              "sha256": "28428516a9e1410b4f928c0101078fbcdbdf1e2856754466d092da343a4d6d0c"
+            },
+            "native-color-019.png": {
+              "bytes": 780669,
+              "sha256": "7262c6400aa0b85d1aa19af348cf9a4de69a51707119a591836e32097aaa75fa"
+            },
+            "native-color-020.png": {
+              "bytes": 2055,
+              "sha256": "d50bb864727d59734d264775d1af8ac7d60286155e316f3af9f94e239b476718"
+            },
+            "native-color-021.png": {
+              "bytes": 6112,
+              "sha256": "4dcefc1d0ac3d38232e594ba3a9eeab6f9b30a95e610ad7d4c8eac2e644066b1"
+            },
+            "native-color-022.png": {
+              "bytes": 329251,
+              "sha256": "6b63c51d07802fc1eca0543b653f8eb6232423fb46b0c66167be807ef9f4163b"
+            },
+            "native-color-023.png": {
+              "bytes": 368081,
+              "sha256": "bf027cc0aebd8e4ccc3139391119cd88ca113d39f168e177d6feb940128dbf65"
+            },
+            "native-color-024.png": {
+              "bytes": 170395,
+              "sha256": "03e5920651e9d4e8651c5e976c9aeb9bec94a4fb2ada4c8ea7190e935a62e7e5"
+            },
+            "native-color-025.png": {
+              "bytes": 5089,
+              "sha256": "75386b778fac2f480b3fe78ade436883ec9676897f9b297a3e773b23f7eb8e3c"
+            },
+            "native-color-026.png": {
+              "bytes": 449213,
+              "sha256": "3c14c5ab2743548d104b1464c6a520963fc9cc4804db727eb79d6a7a39b88bbc"
+            },
+            "scene.json": {
+              "bytes": 30709,
+              "sha256": "9058172723fef0a581b2e22654b0433c956794ed2d6fefb50315d0533f528abd"
+            }
+          },
+          "config": "j16-chen-qianyu/j_16.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "jet_flame",
+            "jet_flame1"
+          ]
+        }
+      ],
+      "status": "已否定",
+      "game_input_sha256": "f76f62cd96199600ce845db45f52e6e80bb34a0bb5efeb0cee370c7a0f6c62fa"
+    },
+    {
+      "id": "j16-chen-qianyu-akamywek",
+      "kind": "works",
+      "category": "aircraft",
+      "title": "J-16 陈千语 · Akamywek 风格",
+      "readme": "works/aircraft/j16-chen-qianyu-akamywek/README.md",
+      "variants": [
+        {
+          "vehicle": "j_16",
+          "scene": "previews/j16-chen-qianyu-akamywek/variant-0/scene.json",
+          "label": "J-16 陈千语 · Akamywek 风格",
+          "triangles": 228476,
+          "nodes": 498,
+          "source_obj_sha256": "36819c9054f0c1f7691263608d135988cc0fb81d6c5cb259518be9783d2e9f84",
+          "files": {
+            "model.glb": {
+              "bytes": 20745360,
+              "sha256": "7ef00f9d59611d8c6372525525ee300e0c5dd60c0fd6f311aa53151fb2735078"
+            },
+            "native-color-000.png": {
+              "bytes": 4776788,
+              "sha256": "5ec22167b539e43dbdf9a03a395413c268c8bc4b8e13e4d90d24b6613d61557b"
+            },
+            "native-color-003.png": {
+              "bytes": 2498,
+              "sha256": "36ba1ca49ab8d3bdb9ee9fb1a8e76ddfeeeb6fd4d4f9442c736f77f28816c166"
+            },
+            "native-color-004.png": {
+              "bytes": 331544,
+              "sha256": "7da21aed83871eea0ccdc3eba6f9766a0e4cdab22405a05fc7aa5348f6a2aa5a"
+            },
+            "native-color-005.png": {
+              "bytes": 5128,
+              "sha256": "fe3408d3199e5c24ccff546d13327d51efcfe34327158ef4e5ee2f43ea2a7e31"
+            },
+            "native-color-006.png": {
+              "bytes": 827174,
+              "sha256": "48117f81f0b9937136fb18dd8658bc7a1005e561d96da5ca7deee04fadcb17d0"
+            },
+            "native-color-007.png": {
+              "bytes": 393315,
+              "sha256": "e0e031b349875653647f28ffe9ed64a8ad6273e513be0f41afe264b300178c1a"
+            },
+            "native-color-008.png": {
+              "bytes": 318983,
+              "sha256": "ff7db7e4c9440c4b64a8b2dbf3c27f4bdce47eeb82e711e8b838e18699cd17dc"
+            },
+            "native-color-009.png": {
+              "bytes": 453583,
+              "sha256": "3d4a69c5356cafb655a7e18396fd7d5d724294868729899a6d746c60f91e3675"
+            },
+            "native-color-010.png": {
+              "bytes": 911232,
+              "sha256": "32ebbe2e87d5122e0500eb74feeca9f26451ee6ea7d6e13d32576c9ce749e77e"
+            },
+            "native-color-011.png": {
+              "bytes": 234911,
+              "sha256": "d2e777da2a5897457ad59f2448ab7c161f1debc091e4989102b18994bba1e916"
+            },
+            "native-color-012.png": {
+              "bytes": 722464,
+              "sha256": "ad3a4e2622d5f06443fa7732b02418d630dd0586d2762d38d62a8e14291371d4"
+            },
+            "native-color-013.png": {
+              "bytes": 4130,
+              "sha256": "8d62b2cfbe0de14f4b812b8ea4be2a839e239b81a9d674adb631155e5d970726"
+            },
+            "native-color-014.png": {
+              "bytes": 2524,
+              "sha256": "4cd91dfe770c997a945ba87d82bf33ce4fe0bd57761c43effe855d30407a98d1"
+            },
+            "native-color-015.png": {
+              "bytes": 680602,
+              "sha256": "31b5e7ee214c18a655b0809653df453db1dcbb6cacaf09db4b2f74a35c6bb4a3"
+            },
+            "native-color-016.png": {
+              "bytes": 4772,
+              "sha256": "9502cdd0d8d92426167251c60ebb7eb3df4e15269c153b5ff3128f9af739b010"
+            },
+            "native-color-017.png": {
+              "bytes": 240099,
+              "sha256": "b1b1d9796cfa3d6c50704cc34cb95bdf6a0a7363fcf026949b3e5c33e4c2bfec"
+            },
+            "native-color-018.png": {
+              "bytes": 667821,
+              "sha256": "1e995a539e1d01699558b0a8b264567160486a9b46fd1f7166029449da7d3e2b"
+            },
+            "native-color-019.png": {
+              "bytes": 780669,
+              "sha256": "7262c6400aa0b85d1aa19af348cf9a4de69a51707119a591836e32097aaa75fa"
+            },
+            "native-color-020.png": {
+              "bytes": 2055,
+              "sha256": "d50bb864727d59734d264775d1af8ac7d60286155e316f3af9f94e239b476718"
+            },
+            "native-color-021.png": {
+              "bytes": 6112,
+              "sha256": "4dcefc1d0ac3d38232e594ba3a9eeab6f9b30a95e610ad7d4c8eac2e644066b1"
+            },
+            "native-color-022.png": {
+              "bytes": 329251,
+              "sha256": "6b63c51d07802fc1eca0543b653f8eb6232423fb46b0c66167be807ef9f4163b"
+            },
+            "native-color-023.png": {
+              "bytes": 368081,
+              "sha256": "bf027cc0aebd8e4ccc3139391119cd88ca113d39f168e177d6feb940128dbf65"
+            },
+            "native-color-024.png": {
+              "bytes": 170395,
+              "sha256": "03e5920651e9d4e8651c5e976c9aeb9bec94a4fb2ada4c8ea7190e935a62e7e5"
+            },
+            "native-color-025.png": {
+              "bytes": 5089,
+              "sha256": "75386b778fac2f480b3fe78ade436883ec9676897f9b297a3e773b23f7eb8e3c"
+            },
+            "native-color-026.png": {
+              "bytes": 449213,
+              "sha256": "3c14c5ab2743548d104b1464c6a520963fc9cc4804db727eb79d6a7a39b88bbc"
+            },
+            "scene.json": {
+              "bytes": 30715,
+              "sha256": "e80680ccfa0816b15814f4dd392e5fa8b7ab4a8a5aaf2ee17bc34cc9064050ad"
+            }
+          },
+          "config": "j16-chen-qianyu-akamywek/j_16.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "jet_flame",
+            "jet_flame1"
+          ]
+        }
+      ],
+      "status": "已认可",
+      "game_input_sha256": "3e5d9afc067b5abe305563ae132db07d126c8fc26e2c3d5d6a302a7d4bae94e3"
+    },
+    {
+      "id": "j16-rossi",
+      "kind": "works",
+      "category": "aircraft",
+      "title": "J-16 Rossi · 早期版",
+      "readme": "works/aircraft/j16-rossi/README.md",
+      "variants": [
+        {
+          "vehicle": "j_16",
+          "scene": "previews/j16-rossi/variant-0/scene.json",
+          "label": "J-16 Rossi · 早期版",
+          "triangles": 228476,
+          "nodes": 498,
+          "source_obj_sha256": "36819c9054f0c1f7691263608d135988cc0fb81d6c5cb259518be9783d2e9f84",
+          "files": {
+            "model.glb": {
+              "bytes": 21218144,
+              "sha256": "64b27cd5126b71016ac17dd31a94c48492679aa021949c877c36bada9276bea9"
+            },
+            "native-color-000.png": {
+              "bytes": 3205255,
+              "sha256": "c590eb3a3449664bbf165fdf579683ae466331b541545a0a5d8638a356a8c98a"
+            },
+            "native-color-003.png": {
+              "bytes": 2498,
+              "sha256": "36ba1ca49ab8d3bdb9ee9fb1a8e76ddfeeeb6fd4d4f9442c736f77f28816c166"
+            },
+            "native-color-004.png": {
+              "bytes": 331544,
+              "sha256": "7da21aed83871eea0ccdc3eba6f9766a0e4cdab22405a05fc7aa5348f6a2aa5a"
+            },
+            "native-color-005.png": {
+              "bytes": 5128,
+              "sha256": "fe3408d3199e5c24ccff546d13327d51efcfe34327158ef4e5ee2f43ea2a7e31"
+            },
+            "native-color-006.png": {
+              "bytes": 827174,
+              "sha256": "48117f81f0b9937136fb18dd8658bc7a1005e561d96da5ca7deee04fadcb17d0"
+            },
+            "native-color-007.png": {
+              "bytes": 393315,
+              "sha256": "e0e031b349875653647f28ffe9ed64a8ad6273e513be0f41afe264b300178c1a"
+            },
+            "native-color-008.png": {
+              "bytes": 318983,
+              "sha256": "ff7db7e4c9440c4b64a8b2dbf3c27f4bdce47eeb82e711e8b838e18699cd17dc"
+            },
+            "native-color-009.png": {
+              "bytes": 453583,
+              "sha256": "3d4a69c5356cafb655a7e18396fd7d5d724294868729899a6d746c60f91e3675"
+            },
+            "native-color-010.png": {
+              "bytes": 911232,
+              "sha256": "32ebbe2e87d5122e0500eb74feeca9f26451ee6ea7d6e13d32576c9ce749e77e"
+            },
+            "native-color-011.png": {
+              "bytes": 234911,
+              "sha256": "d2e777da2a5897457ad59f2448ab7c161f1debc091e4989102b18994bba1e916"
+            },
+            "native-color-012.png": {
+              "bytes": 722464,
+              "sha256": "ad3a4e2622d5f06443fa7732b02418d630dd0586d2762d38d62a8e14291371d4"
+            },
+            "native-color-013.png": {
+              "bytes": 4130,
+              "sha256": "8d62b2cfbe0de14f4b812b8ea4be2a839e239b81a9d674adb631155e5d970726"
+            },
+            "native-color-014.png": {
+              "bytes": 2524,
+              "sha256": "4cd91dfe770c997a945ba87d82bf33ce4fe0bd57761c43effe855d30407a98d1"
+            },
+            "native-color-015.png": {
+              "bytes": 680602,
+              "sha256": "31b5e7ee214c18a655b0809653df453db1dcbb6cacaf09db4b2f74a35c6bb4a3"
+            },
+            "native-color-016.png": {
+              "bytes": 4772,
+              "sha256": "9502cdd0d8d92426167251c60ebb7eb3df4e15269c153b5ff3128f9af739b010"
+            },
+            "native-color-017.png": {
+              "bytes": 240099,
+              "sha256": "b1b1d9796cfa3d6c50704cc34cb95bdf6a0a7363fcf026949b3e5c33e4c2bfec"
+            },
+            "native-color-018.png": {
+              "bytes": 547185,
+              "sha256": "86917ad06985aedf1ccdf01c97c215c4f2762f7a755bb73fb4efe288cfcabf0c"
+            },
+            "native-color-019.png": {
+              "bytes": 780669,
+              "sha256": "7262c6400aa0b85d1aa19af348cf9a4de69a51707119a591836e32097aaa75fa"
+            },
+            "native-color-020.png": {
+              "bytes": 2055,
+              "sha256": "d50bb864727d59734d264775d1af8ac7d60286155e316f3af9f94e239b476718"
+            },
+            "native-color-021.png": {
+              "bytes": 6112,
+              "sha256": "4dcefc1d0ac3d38232e594ba3a9eeab6f9b30a95e610ad7d4c8eac2e644066b1"
+            },
+            "native-color-022.png": {
+              "bytes": 329251,
+              "sha256": "6b63c51d07802fc1eca0543b653f8eb6232423fb46b0c66167be807ef9f4163b"
+            },
+            "native-color-023.png": {
+              "bytes": 368081,
+              "sha256": "bf027cc0aebd8e4ccc3139391119cd88ca113d39f168e177d6feb940128dbf65"
+            },
+            "native-color-024.png": {
+              "bytes": 170395,
+              "sha256": "03e5920651e9d4e8651c5e976c9aeb9bec94a4fb2ada4c8ea7190e935a62e7e5"
+            },
+            "native-color-025.png": {
+              "bytes": 5089,
+              "sha256": "75386b778fac2f480b3fe78ade436883ec9676897f9b297a3e773b23f7eb8e3c"
+            },
+            "native-color-026.png": {
+              "bytes": 449213,
+              "sha256": "3c14c5ab2743548d104b1464c6a520963fc9cc4804db727eb79d6a7a39b88bbc"
+            },
+            "scene.json": {
+              "bytes": 30705,
+              "sha256": "edb06ad274daee2d3dee6885c87327a33dc9825b3c26d0108a91d7694b97abc0"
+            }
+          },
+          "config": "j16-rossi/j_16.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "jet_flame",
+            "jet_flame1"
+          ]
+        }
+      ],
+      "status": "已否定",
+      "game_input_sha256": "61f9ea2f05c2ca886b43198a2beba19b9ab20f188a412a260744349236074374"
+    },
+    {
+      "id": "j16-tangtang-repaired",
+      "kind": "works",
+      "category": "aircraft",
+      "title": "J-16 汤汤 · 重修版",
+      "readme": "works/aircraft/j16-tangtang-repaired/README.md",
+      "variants": [
+        {
+          "vehicle": "j_16",
+          "scene": "previews/j16-tangtang-repaired/variant-0/scene.json",
+          "label": "J-16 汤汤 · 重修版",
+          "triangles": 228476,
+          "nodes": 498,
+          "source_obj_sha256": "36819c9054f0c1f7691263608d135988cc0fb81d6c5cb259518be9783d2e9f84",
+          "files": {
+            "model.glb": {
+              "bytes": 20681460,
+              "sha256": "2f0f722199a6612986468a567a82db132fa71211825da3a4873dd33b5dcd43a2"
+            },
+            "native-color-000.png": {
+              "bytes": 4570356,
+              "sha256": "1ce9f18ec897c7808e4dbb067c03110c11336423c2f82a22c7628ee5c077cd47"
+            },
+            "native-color-003.png": {
+              "bytes": 2498,
+              "sha256": "36ba1ca49ab8d3bdb9ee9fb1a8e76ddfeeeb6fd4d4f9442c736f77f28816c166"
+            },
+            "native-color-004.png": {
+              "bytes": 331544,
+              "sha256": "7da21aed83871eea0ccdc3eba6f9766a0e4cdab22405a05fc7aa5348f6a2aa5a"
+            },
+            "native-color-005.png": {
+              "bytes": 5128,
+              "sha256": "fe3408d3199e5c24ccff546d13327d51efcfe34327158ef4e5ee2f43ea2a7e31"
+            },
+            "native-color-006.png": {
+              "bytes": 827174,
+              "sha256": "48117f81f0b9937136fb18dd8658bc7a1005e561d96da5ca7deee04fadcb17d0"
+            },
+            "native-color-007.png": {
+              "bytes": 393315,
+              "sha256": "e0e031b349875653647f28ffe9ed64a8ad6273e513be0f41afe264b300178c1a"
+            },
+            "native-color-008.png": {
+              "bytes": 318983,
+              "sha256": "ff7db7e4c9440c4b64a8b2dbf3c27f4bdce47eeb82e711e8b838e18699cd17dc"
+            },
+            "native-color-009.png": {
+              "bytes": 453583,
+              "sha256": "3d4a69c5356cafb655a7e18396fd7d5d724294868729899a6d746c60f91e3675"
+            },
+            "native-color-010.png": {
+              "bytes": 911232,
+              "sha256": "32ebbe2e87d5122e0500eb74feeca9f26451ee6ea7d6e13d32576c9ce749e77e"
+            },
+            "native-color-011.png": {
+              "bytes": 234911,
+              "sha256": "d2e777da2a5897457ad59f2448ab7c161f1debc091e4989102b18994bba1e916"
+            },
+            "native-color-012.png": {
+              "bytes": 722464,
+              "sha256": "ad3a4e2622d5f06443fa7732b02418d630dd0586d2762d38d62a8e14291371d4"
+            },
+            "native-color-013.png": {
+              "bytes": 4130,
+              "sha256": "8d62b2cfbe0de14f4b812b8ea4be2a839e239b81a9d674adb631155e5d970726"
+            },
+            "native-color-014.png": {
+              "bytes": 2524,
+              "sha256": "4cd91dfe770c997a945ba87d82bf33ce4fe0bd57761c43effe855d30407a98d1"
+            },
+            "native-color-015.png": {
+              "bytes": 680602,
+              "sha256": "31b5e7ee214c18a655b0809653df453db1dcbb6cacaf09db4b2f74a35c6bb4a3"
+            },
+            "native-color-016.png": {
+              "bytes": 4772,
+              "sha256": "9502cdd0d8d92426167251c60ebb7eb3df4e15269c153b5ff3128f9af739b010"
+            },
+            "native-color-017.png": {
+              "bytes": 240099,
+              "sha256": "b1b1d9796cfa3d6c50704cc34cb95bdf6a0a7363fcf026949b3e5c33e4c2bfec"
+            },
+            "native-color-018.png": {
+              "bytes": 667821,
+              "sha256": "1e995a539e1d01699558b0a8b264567160486a9b46fd1f7166029449da7d3e2b"
+            },
+            "native-color-019.png": {
+              "bytes": 780669,
+              "sha256": "7262c6400aa0b85d1aa19af348cf9a4de69a51707119a591836e32097aaa75fa"
+            },
+            "native-color-020.png": {
+              "bytes": 2055,
+              "sha256": "d50bb864727d59734d264775d1af8ac7d60286155e316f3af9f94e239b476718"
+            },
+            "native-color-021.png": {
+              "bytes": 6112,
+              "sha256": "4dcefc1d0ac3d38232e594ba3a9eeab6f9b30a95e610ad7d4c8eac2e644066b1"
+            },
+            "native-color-022.png": {
+              "bytes": 329251,
+              "sha256": "6b63c51d07802fc1eca0543b653f8eb6232423fb46b0c66167be807ef9f4163b"
+            },
+            "native-color-023.png": {
+              "bytes": 368081,
+              "sha256": "bf027cc0aebd8e4ccc3139391119cd88ca113d39f168e177d6feb940128dbf65"
+            },
+            "native-color-024.png": {
+              "bytes": 170395,
+              "sha256": "03e5920651e9d4e8651c5e976c9aeb9bec94a4fb2ada4c8ea7190e935a62e7e5"
+            },
+            "native-color-025.png": {
+              "bytes": 5089,
+              "sha256": "75386b778fac2f480b3fe78ade436883ec9676897f9b297a3e773b23f7eb8e3c"
+            },
+            "native-color-026.png": {
+              "bytes": 449213,
+              "sha256": "3c14c5ab2743548d104b1464c6a520963fc9cc4804db727eb79d6a7a39b88bbc"
+            },
+            "scene.json": {
+              "bytes": 30706,
+              "sha256": "b5c41fa206dc27c5018dfe0c5fb09baa448b25e63a2e8950e589c06525d9a9cb"
+            }
+          },
+          "config": "j16-tangtang-repaired/j_16.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "jet_flame",
+            "jet_flame1"
+          ]
+        }
+      ],
+      "status": "部分认可",
+      "game_input_sha256": "e06c0c5eacbddca26ea03e6b68f0989491d94f290b2aca867dea920410aa54e1"
+    },
+    {
+      "id": "su30mkk-lilya-arbalest-grok",
+      "kind": "works",
+      "category": "aircraft",
+      "title": "Su-30MKK 红弩箭 · Grok 版",
+      "readme": "works/aircraft/su30mkk-lilya-arbalest-grok/README.md",
+      "variants": [
+        {
+          "vehicle": "su_30mkk",
+          "scene": "previews/su30mkk-lilya-arbalest-grok/variant-0/scene.json",
+          "label": "Su-30MKK 红弩箭 · Grok 版",
+          "triangles": 224833,
+          "nodes": 566,
+          "source_obj_sha256": "e3819581b18888cb442c7cd47d282f9fc94e5b10383789106ebf297a641a64dc",
+          "files": {
+            "model.glb": {
+              "bytes": 19478808,
+              "sha256": "8abb7f3067081e0a39594b02890ae1221d75007b7d7a79c2b3fbf876e236c687"
+            },
+            "native-color-000.png": {
+              "bytes": 6913264,
+              "sha256": "ecee08d245004ad4e7a135aa1bbe50591f568328ad2189f5d70092b275c7f31e"
+            },
+            "native-color-001.png": {
+              "bytes": 995506,
+              "sha256": "f7695946c081ddc9dbe12386768e9e689a355b0bb1119d974ebcdc07f5191590"
+            },
+            "native-color-002.png": {
+              "bytes": 5296,
+              "sha256": "4786dfb3e1ef4812a5524b83b5ed61bdff7f54aaa900afb7414427e7622cfe01"
+            },
+            "native-color-005.png": {
+              "bytes": 2055,
+              "sha256": "d50bb864727d59734d264775d1af8ac7d60286155e316f3af9f94e239b476718"
+            },
+            "native-color-006.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-007.png": {
+              "bytes": 3649,
+              "sha256": "12474c26fa8ffd35e99f746aaa652177eefde75720082ff867ea0aeefaade9a6"
+            },
+            "native-color-008.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-009.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-010.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-011.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-012.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-013.png": {
+              "bytes": 453583,
+              "sha256": "3d4a69c5356cafb655a7e18396fd7d5d724294868729899a6d746c60f91e3675"
+            },
+            "native-color-014.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-015.png": {
+              "bytes": 956919,
+              "sha256": "8642bbebd48c3ca1599a7e16f878245c38d190d483c59c5d8d9aecf9b2298545"
+            },
+            "native-color-016.png": {
+              "bytes": 244579,
+              "sha256": "4c0ce6429fa49322ff624d8d3f6292d09e82610633aa88245f331ad8fda85605"
+            },
+            "native-color-017.png": {
+              "bytes": 911232,
+              "sha256": "32ebbe2e87d5122e0500eb74feeca9f26451ee6ea7d6e13d32576c9ce749e77e"
+            },
+            "native-color-018.png": {
+              "bytes": 234911,
+              "sha256": "d2e777da2a5897457ad59f2448ab7c161f1debc091e4989102b18994bba1e916"
+            },
+            "native-color-019.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-020.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-021.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-022.png": {
+              "bytes": 731693,
+              "sha256": "2217a37e0d7f65e829825c6e25a718270801d7808f23e6666b8dc6615bcb6a98"
+            },
+            "native-color-023.png": {
+              "bytes": 131403,
+              "sha256": "1bc4c0ba03c6ab96891e8777480f07747f05806f80240bfee18b2a864c801014"
+            },
+            "native-color-024.png": {
+              "bytes": 655233,
+              "sha256": "f9cafa38893cfc20cb9045b3d3195aba6e674769c45da650fb7bf7c36c6c1101"
+            },
+            "native-color-025.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-026.png": {
+              "bytes": 6112,
+              "sha256": "4dcefc1d0ac3d38232e594ba3a9eeab6f9b30a95e610ad7d4c8eac2e644066b1"
+            },
+            "native-color-027.png": {
+              "bytes": 988566,
+              "sha256": "c43d87d2d97944a13e68b370d467ad4a308c0385070ea6906dd42a3dcf6dcade"
+            },
+            "native-color-028.png": {
+              "bytes": 984,
+              "sha256": "89c249afac3c72c61c7b306ae1b3aa1ef9980b67182c27c63dbcad65c13ec94b"
+            },
+            "native-color-029.png": {
+              "bytes": 4130,
+              "sha256": "8d62b2cfbe0de14f4b812b8ea4be2a839e239b81a9d674adb631155e5d970726"
+            },
+            "native-color-030.png": {
+              "bytes": 404999,
+              "sha256": "5d4c806fd52975bde057a12aa82fc575761a921b821c2e9863be044d53d54c9c"
+            },
+            "scene.json": {
+              "bytes": 33161,
+              "sha256": "a2e15e8b5e8fceddea6709ecf4b14e7d007965dc3e8767cee9c1f5c13c6b0428"
+            }
+          },
+          "config": "su30mkk-lilya-arbalest-grok/su_30mkk.blk",
+          "hidden_effect_nodes": [
+            "flare1",
+            "jet_flame",
+            "jet_flame1"
+          ]
+        }
+      ],
+      "status": "已认可",
+      "game_input_sha256": "0f116469f19b5a14a75e51b7aa5b249fead4b9953f6aa89ff3e0ce057ec5dc41"
+    },
+    {
+      "id": "embt-endfield",
+      "kind": "works",
+      "category": "ground",
+      "title": "EMBT · 终末地｜德国／法国",
+      "readme": "works/ground/embt-endfield/README.md",
+      "variants": [
+        {
+          "vehicle": "embt",
+          "scene": "previews/embt-endfield/variant-0/scene.json",
+          "label": "EMBT · 终末地｜德国／法国 · 法国",
+          "triangles": 94228,
+          "nodes": 135,
+          "source_obj_sha256": "31f61973ab881df80e9986d4cdc59589389ccc69c96e5456051a7ae0d362a2d4",
+          "files": {
+            "model.glb": {
+              "bytes": 8461632,
+              "sha256": "b7e89b28fef223e99e3ea6578c8f926c9aa072c14ae1238aed07455f00e9bd50"
+            },
+            "native-color-000.png": {
+              "bytes": 7744258,
+              "sha256": "fc60e71afa991f74ddae2fecb3563d94bf0f8e8cc75bb10ccd8bb3fcf2e2368b"
+            },
+            "native-color-001.png": {
+              "bytes": 7744258,
+              "sha256": "fc60e71afa991f74ddae2fecb3563d94bf0f8e8cc75bb10ccd8bb3fcf2e2368b"
+            },
+            "native-color-002.png": {
+              "bytes": 1184023,
+              "sha256": "52550225a35bb0689206d334bdcc9264b5bf73e9ffe555cc9f4550a263589661"
+            },
+            "native-color-003.png": {
+              "bytes": 55993,
+              "sha256": "075b6f2bc47189f457f508cc621033dbc820063e69053927c5092e81842f436c"
+            },
+            "native-color-004.png": {
+              "bytes": 1534968,
+              "sha256": "f61e29e3f3fc94dacf623b99cecb04dd9f5b8b41678a03c4be987cb185a00c43"
+            },
+            "native-color-005.png": {
+              "bytes": 672647,
+              "sha256": "a7ef9f8d5d2c5fa435f9824bf8123c883334a8cbad3697dab4061a3a93bd9d0e"
+            },
+            "native-color-006.png": {
+              "bytes": 827,
+              "sha256": "e25ef77fbad50cc94a3ea609279bce6e019b447492f6ccc60dee27970d9892cc"
+            },
+            "native-color-007.png": {
+              "bytes": 1614,
+              "sha256": "88565c45c603bb63c9516b88aa10c8cacc967c863a3eb7190b6c650ba2545251"
+            },
+            "native-color-008.png": {
+              "bytes": 94748,
+              "sha256": "66dc1b832332580e2925cafd541e71a4aa64a5bd0b2b23323beec07a99374fdd"
+            },
+            "native-color-009.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-010.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-011.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "native-color-012.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "scene.json": {
+              "bytes": 14743,
+              "sha256": "6a0be814d3eb31ac484ef41810b3456c76045bf774cc4f85ad0f3f2b61f1d9cc"
+            }
+          },
+          "config": "EMBT_ENDFIELD/fr_embt.blk",
+          "hidden_effect_nodes": []
+        },
+        {
+          "vehicle": "embt",
+          "scene": "previews/embt-endfield/variant-1/scene.json",
+          "label": "EMBT · 终末地｜德国／法国 · 德国",
+          "triangles": 94228,
+          "nodes": 135,
+          "source_obj_sha256": "31f61973ab881df80e9986d4cdc59589389ccc69c96e5456051a7ae0d362a2d4",
+          "files": {
+            "model.glb": {
+              "bytes": 8464644,
+              "sha256": "f86d98f1eff7123519b7cb6985da1939c8116685a0813894f965ee800648aacb"
+            },
+            "native-color-000.png": {
+              "bytes": 6735890,
+              "sha256": "a4729da309171100837f4e110fe7fb6d70373a4001eeb4e9e726b66e7a170d65"
+            },
+            "native-color-001.png": {
+              "bytes": 6735890,
+              "sha256": "a4729da309171100837f4e110fe7fb6d70373a4001eeb4e9e726b66e7a170d65"
+            },
+            "native-color-002.png": {
+              "bytes": 900275,
+              "sha256": "08459718a6e942ccc0894fe68cd016e009e67157720ca23e9aa0a15c3423d8b4"
+            },
+            "native-color-003.png": {
+              "bytes": 55993,
+              "sha256": "075b6f2bc47189f457f508cc621033dbc820063e69053927c5092e81842f436c"
+            },
+            "native-color-004.png": {
+              "bytes": 1313695,
+              "sha256": "8c9ad01485e3b8fda5af6f660324523abf35a79d0e454f93f03c49789411936b"
+            },
+            "native-color-005.png": {
+              "bytes": 672647,
+              "sha256": "a7ef9f8d5d2c5fa435f9824bf8123c883334a8cbad3697dab4061a3a93bd9d0e"
+            },
+            "native-color-006.png": {
+              "bytes": 827,
+              "sha256": "e25ef77fbad50cc94a3ea609279bce6e019b447492f6ccc60dee27970d9892cc"
+            },
+            "native-color-007.png": {
+              "bytes": 1614,
+              "sha256": "88565c45c603bb63c9516b88aa10c8cacc967c863a3eb7190b6c650ba2545251"
+            },
+            "native-color-008.png": {
+              "bytes": 94748,
+              "sha256": "66dc1b832332580e2925cafd541e71a4aa64a5bd0b2b23323beec07a99374fdd"
+            },
+            "native-color-009.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-010.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-011.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "native-color-012.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "scene.json": {
+              "bytes": 14743,
+              "sha256": "a9211bcc08a0048a77e4523b38aaf14ef6293486a0b8e976e10b875157055c84"
+            }
+          },
+          "config": "EMBT_ENDFIELD/germ_embt.blk",
+          "hidden_effect_nodes": []
+        }
+      ],
+      "status": "已认可",
+      "game_input_sha256": "fb22b092c4a921ad29949c8c5be6d86b3ff6e277d41b9b0eaadb52c905e64d8c"
+    },
+    {
+      "id": "leclerc-azur-endfield",
+      "kind": "works",
+      "category": "ground",
+      "title": "勒克莱尔 AZUR · 终末地「边界测绘」",
+      "readme": "works/ground/leclerc-azur-endfield/README.md",
+      "variants": [
+        {
+          "vehicle": "leclerc_azur",
+          "scene": "previews/leclerc-azur-endfield/variant-0/scene.json",
+          "label": "勒克莱尔 AZUR · 终末地「边界测绘」",
+          "triangles": 98908,
+          "nodes": 145,
+          "source_obj_sha256": "5e2eb2a7ca60ad767d106534ac49bf4baf7ba36a78f29230eeb5926655deca9b",
+          "files": {
+            "model.glb": {
+              "bytes": 8428244,
+              "sha256": "302f37abc3835c2d523804997f7feff4036ac83f1ab99301b3860ea3a40fc455"
+            },
+            "native-color-000.png": {
+              "bytes": 559776,
+              "sha256": "a48fafa95eba69d4f1f421cc3570abfa89aeb74ad2061edbab7be8e39234e9ab"
+            },
+            "native-color-001.png": {
+              "bytes": 55993,
+              "sha256": "075b6f2bc47189f457f508cc621033dbc820063e69053927c5092e81842f436c"
+            },
+            "native-color-002.png": {
+              "bytes": 473212,
+              "sha256": "6b886e180689dffbdd805103e951fbb3e5888c61723ddb3f72399fdd1ae47123"
+            },
+            "native-color-003.png": {
+              "bytes": 422272,
+              "sha256": "3aa7bafd8c62802e94c35d9b29802253367c8d92cdfc006f3df610fc32f926d7"
+            },
+            "native-color-004.png": {
+              "bytes": 144110,
+              "sha256": "8bbbbdc320320cb8323fd17abb1ae0f82ab367a3966dd700a67af36cac67be6f"
+            },
+            "native-color-005.png": {
+              "bytes": 1614,
+              "sha256": "88565c45c603bb63c9516b88aa10c8cacc967c863a3eb7190b6c650ba2545251"
+            },
+            "native-color-006.png": {
+              "bytes": 827,
+              "sha256": "e25ef77fbad50cc94a3ea609279bce6e019b447492f6ccc60dee27970d9892cc"
+            },
+            "native-color-007.png": {
+              "bytes": 79636,
+              "sha256": "9efb91b0bb58c7008eabb22588b233adc78c613868d0eb5678edead849720d30"
+            },
+            "native-color-008.png": {
+              "bytes": 5588,
+              "sha256": "86120b9cc625da19e92b843a033d4fa27bffa7063b1f3e447ec64bc29e564883"
+            },
+            "native-color-009.png": {
+              "bytes": 195202,
+              "sha256": "5912e567cd33ee05f89d581fd0548237c07bb324c5c61decd29035ea91476920"
+            },
+            "native-color-010.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-011.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-012.png": {
+              "bytes": 74578,
+              "sha256": "7621722a5dbc66dd658ceaf5298390804d4e860560915ed1ee778285a14e0e49"
+            },
+            "native-color-013.png": {
+              "bytes": 2939,
+              "sha256": "02cb015a8c020227ff5576ebba4dd7f247c2b3ed01125007beda3fd4224bdcac"
+            },
+            "native-color-014.png": {
+              "bytes": 301330,
+              "sha256": "51020911a9319a608d94a16f3e0f19513a2d2a2a18f823a4767809277cb80f07"
+            },
+            "native-color-015.png": {
+              "bytes": 301330,
+              "sha256": "51020911a9319a608d94a16f3e0f19513a2d2a2a18f823a4767809277cb80f07"
+            },
+            "scene.json": {
+              "bytes": 17981,
+              "sha256": "7cab1d62ddc7b6bf7354288b7c38e5110094f5f53133afd655bc54c2771d85d9"
+            }
+          },
+          "config": "Leclerc_AZUR_Endfield/fr_leclerc_azur.blk",
+          "hidden_effect_nodes": []
+        }
+      ],
+      "status": "初步成果 · 30分钟一轮直出",
+      "game_input_sha256": "83add61a6145e8f2ad79881702c6c2c55c87d9d75a8352e17d9a742cd23f5285"
+    },
+    {
+      "id": "leclerc-azur-spectre42",
+      "kind": "works",
+      "category": "ground",
+      "title": "勒克莱尔 AZUR · SPECTRE42",
+      "readme": "works/ground/leclerc-azur-spectre42/README.md",
+      "variants": [
+        {
+          "vehicle": "leclerc_azur",
+          "scene": "previews/leclerc-azur-spectre42/variant-0/scene.json",
+          "label": "勒克莱尔 AZUR · SPECTRE42",
+          "triangles": 98908,
+          "nodes": 145,
+          "source_obj_sha256": "5e2eb2a7ca60ad767d106534ac49bf4baf7ba36a78f29230eeb5926655deca9b",
+          "files": {
+            "model.glb": {
+              "bytes": 9384696,
+              "sha256": "40b856be5981ba992a941ab2b5060e78e5cf12103232370d210e788f08af263c"
+            },
+            "native-color-000.png": {
+              "bytes": 5767714,
+              "sha256": "6e318d7a6de5c6bd4ba95aeec10ede63706f371077bd14bdf25971363011ceff"
+            },
+            "native-color-001.png": {
+              "bytes": 55993,
+              "sha256": "075b6f2bc47189f457f508cc621033dbc820063e69053927c5092e81842f436c"
+            },
+            "native-color-002.png": {
+              "bytes": 4783186,
+              "sha256": "261cee89b4fb0e4751cf55b46f2b0d9c1316d2a70ddb33add3c6be246b880db1"
+            },
+            "native-color-003.png": {
+              "bytes": 5556419,
+              "sha256": "f78f637284933da411a94579685e7758bffd146d1992a9637883f4df06faa9fb"
+            },
+            "native-color-004.png": {
+              "bytes": 637224,
+              "sha256": "74cbafe13c467047aaa44ee028986dc48fde4a13d82ad03c35df86634d56ca43"
+            },
+            "native-color-005.png": {
+              "bytes": 1614,
+              "sha256": "88565c45c603bb63c9516b88aa10c8cacc967c863a3eb7190b6c650ba2545251"
+            },
+            "native-color-006.png": {
+              "bytes": 827,
+              "sha256": "e25ef77fbad50cc94a3ea609279bce6e019b447492f6ccc60dee27970d9892cc"
+            },
+            "native-color-007.png": {
+              "bytes": 79636,
+              "sha256": "9efb91b0bb58c7008eabb22588b233adc78c613868d0eb5678edead849720d30"
+            },
+            "native-color-008.png": {
+              "bytes": 5588,
+              "sha256": "86120b9cc625da19e92b843a033d4fa27bffa7063b1f3e447ec64bc29e564883"
+            },
+            "native-color-009.png": {
+              "bytes": 1321882,
+              "sha256": "655d3622719ac8f353ab1913b38252c1f83a1109efa6dee5c4683101647d620d"
+            },
+            "native-color-010.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-011.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-012.png": {
+              "bytes": 74578,
+              "sha256": "7621722a5dbc66dd658ceaf5298390804d4e860560915ed1ee778285a14e0e49"
+            },
+            "native-color-013.png": {
+              "bytes": 2939,
+              "sha256": "02cb015a8c020227ff5576ebba4dd7f247c2b3ed01125007beda3fd4224bdcac"
+            },
+            "native-color-014.png": {
+              "bytes": 301330,
+              "sha256": "51020911a9319a608d94a16f3e0f19513a2d2a2a18f823a4767809277cb80f07"
+            },
+            "native-color-015.png": {
+              "bytes": 301330,
+              "sha256": "51020911a9319a608d94a16f3e0f19513a2d2a2a18f823a4767809277cb80f07"
+            },
+            "scene.json": {
+              "bytes": 17963,
+              "sha256": "3f73ff7f6580f1271e6630f59208b559c13b3b7649e1e8e5e753d088faadcf1b"
+            }
+          },
+          "config": "Leclerc_AZUR_SPECTRE42/fr_leclerc_azur.blk",
+          "hidden_effect_nodes": []
+        }
+      ],
+      "status": "修订中",
+      "game_input_sha256": "4f9e0ab2572ea2f47cd868f076fa1babfd0ef19c6f2870871ca26fbe27bc2d3e"
+    },
+    {
+      "id": "leopard2a6hel-spectre42",
+      "kind": "works",
+      "category": "ground",
+      "title": "豹 2A6HEL · SPECTRE42「炭灰钢装」",
+      "readme": "works/ground/leopard2a6hel-spectre42/README.md",
+      "variants": [
+        {
+          "vehicle": "leopard_2a6_hel",
+          "scene": "previews/leopard2a6hel-spectre42/variant-0/scene.json",
+          "label": "豹 2A6HEL · SPECTRE42「炭灰钢装」",
+          "triangles": 127989,
+          "nodes": 149,
+          "source_obj_sha256": "7ce2c791ca6a06ed109f1b4f8c51317d47e58e10a5a24beb48fc09f19f19118e",
+          "files": {
+            "model.glb": {
+              "bytes": 18342464,
+              "sha256": "c28d55a922944fd16eb8de4dcc1cbc79e349922437821d4092852769360806e9"
+            },
+            "native-color-000.png": {
+              "bytes": 3965951,
+              "sha256": "1232d6dbb85536a42b25cefaa1c456b29c3401a3cbc2f4b12bffdffbb0a304be"
+            },
+            "native-color-001.png": {
+              "bytes": 55993,
+              "sha256": "075b6f2bc47189f457f508cc621033dbc820063e69053927c5092e81842f436c"
+            },
+            "native-color-002.png": {
+              "bytes": 29760,
+              "sha256": "abf1c4bad3f4321d0b1ba1414fe71c48185f673f025e5afcac8903669d5168b8"
+            },
+            "native-color-003.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-004.png": {
+              "bytes": 4941667,
+              "sha256": "d30ecaf1a47851357d8cc3da0aa396970d0392fb2fe513f70056f3b72807616e"
+            },
+            "native-color-005.png": {
+              "bytes": 534087,
+              "sha256": "9acfa852c4575850f2aab80cd1b4486749c4193076724f68f096c1b14de7d44c"
+            },
+            "native-color-006.png": {
+              "bytes": 1899,
+              "sha256": "399d41a7fec93235d75aea8ffc57a573d2f1058418a159e466ae7ab7715498e2"
+            },
+            "native-color-007.png": {
+              "bytes": 39288,
+              "sha256": "c157262883ed1aa329f3c7fb5a910c9e1f5324b8c33955f997468e9ed9dc9507"
+            },
+            "native-color-008.png": {
+              "bytes": 2669378,
+              "sha256": "b05b9e79b2fe2ea0257792d7f22b9f7a9b180825cba47e6c8cd8fd46df83102b"
+            },
+            "native-color-009.png": {
+              "bytes": 2390717,
+              "sha256": "d6555dfad2f80806e95ec3a6165e40aa37e93462c41343012acfd239c0cc769e"
+            },
+            "native-color-010.png": {
+              "bytes": 1280014,
+              "sha256": "29b8196fc10e3a3f16ee75ad7e3a38acb2f0eaa88bfe386127369451eea819f4"
+            },
+            "native-color-011.png": {
+              "bytes": 827,
+              "sha256": "e25ef77fbad50cc94a3ea609279bce6e019b447492f6ccc60dee27970d9892cc"
+            },
+            "native-color-012.png": {
+              "bytes": 80531,
+              "sha256": "ba2a8f95507231e31d86be767dd5e5a972b9623865847af6a5d446c20ccb090d"
+            },
+            "native-color-013.png": {
+              "bytes": 71869,
+              "sha256": "967916c2cd325a42be4f6b9967730ba89372acfbedfb48f40615476006d9311a"
+            },
+            "native-color-014.png": {
+              "bytes": 111363,
+              "sha256": "61f8360f37e13e8e7c5921b6b780aaad27cae4e8470d7abbc679ebe5235f2c1c"
+            },
+            "native-color-015.png": {
+              "bytes": 98280,
+              "sha256": "6187a8903286512e39e21e19e50df2bb56308f799101c7455de746db8f935dd6"
+            },
+            "native-color-016.png": {
+              "bytes": 2690,
+              "sha256": "e2b22c9c6919f6fb7ad2b01ca1c74ff7306dbbe9dff249d3ed901ce02316cef0"
+            },
+            "native-color-017.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "native-color-018.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "scene.json": {
+              "bytes": 21147,
+              "sha256": "fac1e92f6595c8639b56578e27b3be3afd39c080ab7ffe2025b8da99aaec5bef"
+            }
+          },
+          "config": "Leopard2A6HEL_SPECTRE42_Charcoal/il_leopard_2a6_hel.blk",
+          "hidden_effect_nodes": []
+        }
+      ],
+      "status": "已确认可发布",
+      "game_input_sha256": "d6551358bcc91f9fdc3d0645dcaa05b2020ea92a83c7b827da64a9fadebbad8b"
+    },
+    {
+      "id": "leopard2a7hu-endfield",
+      "kind": "works",
+      "category": "ground",
+      "title": "豹 2A7HU · 终末地",
+      "readme": "works/ground/leopard2a7hu-endfield/README.md",
+      "variants": [
+        {
+          "vehicle": "leopard_2a7hu",
+          "scene": "previews/leopard2a7hu-endfield/variant-0/scene.json",
+          "label": "豹 2A7HU · 终末地",
+          "triangles": 130968,
+          "nodes": 143,
+          "source_obj_sha256": "b784fa590b50226998dd5689e1d68e820ca79f12606b78b327674471efc56eac",
+          "files": {
+            "model.glb": {
+              "bytes": 11461160,
+              "sha256": "9a2e727d4f5967c9b562309be24d6a134da6f85947c8406b8584cd9ee04f60aa"
+            },
+            "native-color-000.png": {
+              "bytes": 8307008,
+              "sha256": "53a6db91cba62b9438b3361aa1f58f4f097cf49c57b49fcb589f57be00826689"
+            },
+            "native-color-001.png": {
+              "bytes": 869014,
+              "sha256": "91e9455b8a3dcc7f6de16707f0f0d58a83b237c7a48462b31cd71ab58f355dde"
+            },
+            "native-color-002.png": {
+              "bytes": 55993,
+              "sha256": "075b6f2bc47189f457f508cc621033dbc820063e69053927c5092e81842f436c"
+            },
+            "native-color-003.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-004.png": {
+              "bytes": 39288,
+              "sha256": "c157262883ed1aa329f3c7fb5a910c9e1f5324b8c33955f997468e9ed9dc9507"
+            },
+            "native-color-005.png": {
+              "bytes": 6993810,
+              "sha256": "5da6810c23716ddb4464ea192613429da254bcaf06587771e3be77af5d023b49"
+            },
+            "native-color-006.png": {
+              "bytes": 6993810,
+              "sha256": "5da6810c23716ddb4464ea192613429da254bcaf06587771e3be77af5d023b49"
+            },
+            "native-color-007.png": {
+              "bytes": 1899,
+              "sha256": "399d41a7fec93235d75aea8ffc57a573d2f1058418a159e466ae7ab7715498e2"
+            },
+            "native-color-008.png": {
+              "bytes": 3011079,
+              "sha256": "f31d1ba658739c8fb16707c205cda6919873dfa8d17ae27f49a4d05a53d4c0ba"
+            },
+            "native-color-009.png": {
+              "bytes": 827,
+              "sha256": "e25ef77fbad50cc94a3ea609279bce6e019b447492f6ccc60dee27970d9892cc"
+            },
+            "native-color-010.png": {
+              "bytes": 1614,
+              "sha256": "88565c45c603bb63c9516b88aa10c8cacc967c863a3eb7190b6c650ba2545251"
+            },
+            "native-color-011.png": {
+              "bytes": 39288,
+              "sha256": "c157262883ed1aa329f3c7fb5a910c9e1f5324b8c33955f997468e9ed9dc9507"
+            },
+            "native-color-012.png": {
+              "bytes": 57854,
+              "sha256": "ab839c5c1ea868591f6c7ab2b4e57c09573b020c5b3838db43ea24e8c0509f48"
+            },
+            "native-color-013.png": {
+              "bytes": 98280,
+              "sha256": "6187a8903286512e39e21e19e50df2bb56308f799101c7455de746db8f935dd6"
+            },
+            "native-color-014.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-015.png": {
+              "bytes": 1595,
+              "sha256": "d5bf2b3a56fcd5bd79412e7b193d1cb5b5724f81463e19b8df4bd5e912468df9"
+            },
+            "native-color-016.png": {
+              "bytes": 2690,
+              "sha256": "e2b22c9c6919f6fb7ad2b01ca1c74ff7306dbbe9dff249d3ed901ce02316cef0"
+            },
+            "native-color-017.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "native-color-018.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "scene.json": {
+              "bytes": 20566,
+              "sha256": "188b22b86b4f190d68872096e46dd3433c2ee53211e21da33360aa391994c6b3"
+            }
+          },
+          "config": "leopard2a7hu-endfield/it_leopard_2a7_hungary.blk",
+          "hidden_effect_nodes": []
+        }
+      ],
+      "status": "已认可",
+      "game_input_sha256": "b8fe013e1aff0ed6bc7637ae9a996a88326053b3dff07c9e2f93230a7325a446"
+    },
+    {
+      "id": "leopard2a7v-endfield-clean-pilot",
+      "kind": "works",
+      "category": "ground",
+      "title": "豹 2A7V · 终末地干净试作",
+      "readme": "works/ground/leopard2a7v-endfield-clean-pilot/README.md",
+      "variants": [
+        {
+          "vehicle": "leopard_2a7v",
+          "scene": "previews/leopard2a7v-endfield-clean-pilot/variant-0/scene.json",
+          "label": "豹 2A7V · 终末地干净试作",
+          "triangles": 125760,
+          "nodes": 138,
+          "source_obj_sha256": "a25d78e4337bff020b78a2b8fa788e9cb3fce998e3d7b2deed9f212ef4260539",
+          "files": {
+            "model.glb": {
+              "bytes": 9090544,
+              "sha256": "f7c7cc1449ec67543b5e1c8987083024a01c018a05593f99d04fba1e047ee73f"
+            },
+            "native-color-000.png": {
+              "bytes": 4124751,
+              "sha256": "821f3aa0df7d4afd93c619dfef5a68c163385f7ff4e596a09014899d352b1504"
+            },
+            "native-color-001.png": {
+              "bytes": 55993,
+              "sha256": "075b6f2bc47189f457f508cc621033dbc820063e69053927c5092e81842f436c"
+            },
+            "native-color-002.png": {
+              "bytes": 39288,
+              "sha256": "c157262883ed1aa329f3c7fb5a910c9e1f5324b8c33955f997468e9ed9dc9507"
+            },
+            "native-color-003.png": {
+              "bytes": 1595,
+              "sha256": "d5bf2b3a56fcd5bd79412e7b193d1cb5b5724f81463e19b8df4bd5e912468df9"
+            },
+            "native-color-004.png": {
+              "bytes": 2541062,
+              "sha256": "e1d3dcfc32ea69d8921f13169ad5eeae8c9237deb40f0df50c13c170b5b0cb1f"
+            },
+            "native-color-005.png": {
+              "bytes": 754308,
+              "sha256": "13bf768f822568022dbe52e1c12d634f745958f8af979124f68de1d67f8abc96"
+            },
+            "native-color-006.png": {
+              "bytes": 827,
+              "sha256": "e25ef77fbad50cc94a3ea609279bce6e019b447492f6ccc60dee27970d9892cc"
+            },
+            "native-color-007.png": {
+              "bytes": 103375,
+              "sha256": "3bf82ee51ce1e00e9e90862de804e9d8f3977c8750e7542c8ab785ba8eb669dd"
+            },
+            "native-color-008.png": {
+              "bytes": 1578,
+              "sha256": "f80e0fedc1fee0ab1906bb2dcbf72b331cf012e5462abef3f33d9f3802e283b4"
+            },
+            "native-color-009.png": {
+              "bytes": 98280,
+              "sha256": "6187a8903286512e39e21e19e50df2bb56308f799101c7455de746db8f935dd6"
+            },
+            "native-color-010.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-011.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-012.png": {
+              "bytes": 2690,
+              "sha256": "e2b22c9c6919f6fb7ad2b01ca1c74ff7306dbbe9dff249d3ed901ce02316cef0"
+            },
+            "native-color-013.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "native-color-014.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "scene.json": {
+              "bytes": 16436,
+              "sha256": "2b12c71cdf8c34b2b67989dba5c1eda627b5585c2d486b96e64e5959c72a55b8"
+            }
+          },
+          "config": "leopard2a7v-endfield-clean-pilot/germ_leopard_2a7v.blk",
+          "hidden_effect_nodes": []
+        }
+      ],
+      "status": "待评价",
+      "game_input_sha256": "0011062d8f7cfddcda1629fa93ba965bf1ff34f263a72150296cf8a1102f16e8"
+    },
+    {
+      "id": "leopard2a7v-endfield-handdrawn",
+      "kind": "works",
+      "category": "ground",
+      "title": "豹 2A7V · 终末地手绘临摹",
+      "readme": "works/ground/leopard2a7v-endfield-handdrawn/README.md",
+      "variants": [
+        {
+          "vehicle": "leopard_2a7v",
+          "scene": "previews/leopard2a7v-endfield-handdrawn/variant-0/scene.json",
+          "label": "豹 2A7V · 终末地手绘临摹",
+          "triangles": 125760,
+          "nodes": 138,
+          "source_obj_sha256": "a25d78e4337bff020b78a2b8fa788e9cb3fce998e3d7b2deed9f212ef4260539",
+          "files": {
+            "model.glb": {
+              "bytes": 10828320,
+              "sha256": "6778cb1588b7aa4e8257512e2fe26ceaba3eb927b00db40b160bb4e16977c401"
+            },
+            "native-color-000.png": {
+              "bytes": 7890008,
+              "sha256": "e5812d0a878dd88429d5fb70f9943ead018173e1cdf931163fa33e92552e3bf9"
+            },
+            "native-color-001.png": {
+              "bytes": 55993,
+              "sha256": "075b6f2bc47189f457f508cc621033dbc820063e69053927c5092e81842f436c"
+            },
+            "native-color-002.png": {
+              "bytes": 39288,
+              "sha256": "c157262883ed1aa329f3c7fb5a910c9e1f5324b8c33955f997468e9ed9dc9507"
+            },
+            "native-color-003.png": {
+              "bytes": 1595,
+              "sha256": "d5bf2b3a56fcd5bd79412e7b193d1cb5b5724f81463e19b8df4bd5e912468df9"
+            },
+            "native-color-004.png": {
+              "bytes": 5534060,
+              "sha256": "2f78ad2eafb494464cd772ab3bc5f7e41d932353ad95d9ee5a2616f37e793d82"
+            },
+            "native-color-005.png": {
+              "bytes": 1875786,
+              "sha256": "cd4183be6286f5c4082fe637998d7dae3e9cafff8640064df3730cde9f21fc91"
+            },
+            "native-color-006.png": {
+              "bytes": 827,
+              "sha256": "e25ef77fbad50cc94a3ea609279bce6e019b447492f6ccc60dee27970d9892cc"
+            },
+            "native-color-007.png": {
+              "bytes": 120978,
+              "sha256": "325527de690ca321eccc7b524b599338da44810d3494520cdf432202bbf7c34d"
+            },
+            "native-color-008.png": {
+              "bytes": 1578,
+              "sha256": "f80e0fedc1fee0ab1906bb2dcbf72b331cf012e5462abef3f33d9f3802e283b4"
+            },
+            "native-color-009.png": {
+              "bytes": 98280,
+              "sha256": "6187a8903286512e39e21e19e50df2bb56308f799101c7455de746db8f935dd6"
+            },
+            "native-color-010.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-011.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-012.png": {
+              "bytes": 2690,
+              "sha256": "e2b22c9c6919f6fb7ad2b01ca1c74ff7306dbbe9dff249d3ed901ce02316cef0"
+            },
+            "native-color-013.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "native-color-014.png": {
+              "bytes": 222497,
+              "sha256": "23564a21ca9df43b8c00f02d612691c6029747cdcd738b8dc07eb4de31d93ab0"
+            },
+            "scene.json": {
+              "bytes": 16437,
+              "sha256": "be7529cb1e520b8fe9010f85cd054cd8edbef39d7db3b2bfc543caf0f1835d94"
+            }
+          },
+          "config": "leopard2a7v-endfield-handdrawn/germ_leopard_2a7v.blk",
+          "hidden_effect_nodes": []
+        }
+      ],
+      "status": "待评价",
+      "game_input_sha256": "d07a15c695f6ff40cd84f624309683f2b5154702ebd055932a3d358137ee7750"
+    }
+  ],
+  "bundle_sha256": "15c0e18531a8d27526f4ed40fadfc89179068c8eecd2bc555608f37ad2cc4c51",
+  "asset_id": 673290133,
+  "bundle_bytes": 525659284,
+  "release_url": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/web-preview-assets/v1"
+}

@@ -1,5 +1,13 @@
 # F-2A · Akamywek 原作临摹
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/f2a-akamywek-replica/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：待评价**
 
 颜色图按原作测量重建，材质与挂载贴图沿用原包。源资料含 36 组设计 JSON、颜色图和离线场景，整套自动重建命令尚未整理。

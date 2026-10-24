@@ -1,5 +1,13 @@
 # 勒克莱尔 AZUR · 终末地「边界测绘」
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/leclerc-azur-endfield/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：初步成果**
 
 30分钟一轮直出。当前作为初步成果保存，保留后续继续制作和修订的空间。

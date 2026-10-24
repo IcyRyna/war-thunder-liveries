@@ -1,5 +1,13 @@
 # J-10C 庄方宜 · Akamywek 风格
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/j10c-zhuang-fangyi-akamywek/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：部分认可**
 
 当前仍保留原机法线，机腹有细白线；材质和白线尚需修订。

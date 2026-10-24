@@ -1,0 +1,56 @@
+name: Deploy per-livery interactive introductions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'works/**/README.md'
+      - 'references/**/README.md'
+      - '.github/workflows/livery-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: livery-introduction-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/checkout@v6
+        with:
+          repository: IcyRyna/war-thunder-skin-skills
+          ref: a6476b08effe96aa1c52d01ec26710c2b49f5704
+          path: .viewer-source
+          sparse-checkout: toolkits/web-preview/web
+      - name: Download and verify matched preview assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python -B site/download_assets.py
+      - name: Build all introductions with inline 3D viewers
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python -B site/build.py --out _site --archive previews.zip --viewer .viewer-source/toolkits/web-preview/web
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

@@ -1,5 +1,13 @@
 # EMBT · 终末地｜德国／法国
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/embt-endfield/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：已认可**
 
 炮塔正面采用工业徽记与 EF-10 铭文，车顶和车身保留黑白黄分区。德国、法国版本通用；当前美术方案已认可，游戏内视觉复检未运行。

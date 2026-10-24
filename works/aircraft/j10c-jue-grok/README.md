@@ -1,5 +1,13 @@
 # J-10C 诀 · Grok 版
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/j10c-jue-grok/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：已认可**
 
 Grok 制作的独立方案，与“诀·重修版”分别保存。现有 8K DDS 和 4K TGA 两种游戏包，未找到可编辑制作源。

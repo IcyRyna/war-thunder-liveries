@@ -1,5 +1,13 @@
 # J-10C 莱万汀 · 黑白红方案
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/j10c-laevatain-akamywek/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：已否定**
 
 当前方案已否定，保留为历史方案。采用非金属亮漆；现存设计源与游戏包的材质存在差异，以游戏包为准。人物素材包含参考官方图的生成重绘。

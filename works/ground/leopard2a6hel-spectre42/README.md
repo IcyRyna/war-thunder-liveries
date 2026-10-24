@@ -1,5 +1,13 @@
 # 豹 2A6HEL · SPECTRE42「炭灰钢装」
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/leopard2a6hel-spectre42/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 炭灰与枪灰金属、侧面蜂窝、首上大面积几何分区，以及克制的青橙识别标记。炮塔与车体使用不同强度的金属反光，火控区压低明度，炮管和炮根与炮塔衔接。
 
 **状态：当前方案已确认可发布。**

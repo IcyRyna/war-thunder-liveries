@@ -1,5 +1,13 @@
 # Su-30MKK 红弩箭 · Grok 版
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/su30mkk-lilya-arbalest-grok/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：已认可**
 
 8K DDS 原包。现存文件为游戏包，未找到可编辑制作源。文字排版仍需修订。

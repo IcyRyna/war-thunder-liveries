@@ -1,5 +1,13 @@
 # 豹 2A7V · 终末地干净试作
 
+<!-- interactive-preview:start -->
+
+**[打开本套涂装的介绍与交互式 3D 预览](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7v-endfield-clean-pilot/)**
+
+打开即载入本套模型与涂装，可拖动旋转和切换视角。
+
+<!-- interactive-preview:end -->
+
 **状态：待评价**
 
 保留现有原生 UV 试作工程和游戏包；本次同步不代表整套美术认可或 Skill 更新。
