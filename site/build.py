@@ -10,7 +10,7 @@ import shutil
 import subprocess
 from urllib.parse import quote,urljoin
 import zipfile
-from pack_glb import externalize_images
+from pack_glb import externalize_images, prepare_viewer
 
 REPO=Path(__file__).resolve().parents[1]
 
@@ -114,6 +114,7 @@ def build(out,viewer,previews_dir=None,archive=None):
         if extra.get('externalize_embedded_images'):
             externalize_images(out/extra['target_prefix']/'model.glb',shared)
     shutil.copytree(viewer,out/'viewer')
+    prepare_viewer(out/'viewer/preview.js')
     for name in ['site.css','site.js']:shutil.copyfile(REPO/'site'/name,out/name)
     rendered=dict(zip([w['id'] for w in data['works']],ThreadPoolExecutor(max_workers=4).map(markdown,data['works'])))
     sections={r["id"]:r for r in data["sections"]}

@@ -60,5 +60,17 @@ def externalize_images(path, shared):
     path.write_bytes(output)
     manifest=path.with_name('scene.json');scene=json.loads(manifest.read_bytes())
     scene.update(glb_sha256=hashlib.sha256(output).hexdigest(),glb_bytes=len(output))
+    scene['glb_external_images']=sorted({image['uri'] for image in selected})
     manifest.write_text(json.dumps(scene,ensure_ascii=False,indent=2),encoding='utf-8')
     return {'model':path.name,'images':len(selected),'GLB_bytes_before':len(data),'GLB_bytes_after':len(output),'pixel_bytes_preserved':True}
+
+
+def prepare_viewer(script):
+    """Allow only this verified scene's explicitly listed, hashed shared PNGs."""
+    source=script.read_text(encoding='utf-8')
+    old="const manager=new THREE.LoadingManager();manager.setURLModifier(url=>{if(!url.startsWith('blob:')&&!url.startsWith('data:'))throw new Error('展示模型只能使用内嵌资源');return url;});"
+    new="""const allowedImages=new Set((manifest.glb_external_images??[]).map(name=>{if(!/^\\.\\.\\/\\.\\.\\/shared\\/[a-f0-9]{64}\\.png$/.test(name))throw new Error('共享图片路径无效');return new URL(name,modelURL).href;}));
+  const manager=new THREE.LoadingManager();manager.setURLModifier(url=>{if(url.startsWith('blob:')||url.startsWith('data:'))return url;const resolved=new URL(url,modelURL).href;if(allowedImages.has(resolved))return resolved;throw new Error('图片不在本场景的共享资源清单中');});"""
+    if source.count(old)!=1 or source.count("parseAsync(data,'')")!=1:raise ValueError('Pinned renderer resource contract changed')
+    source=source.replace(old,new).replace("parseAsync(data,'')","parseAsync(data,new URL('./',modelURL).href)")
+    script.write_text(source,encoding='utf-8')
