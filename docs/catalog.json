@@ -677,6 +677,72 @@
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leclerc-azur-endfield/current/leclerc-azur-endfield-source.zip"
         }
       ]
+    },
+    {
+      "id": "type10-xuantie-s42",
+      "title": "10式「玄铁」· S42",
+      "category": "ground",
+      "status": "已获准发布",
+      "note": "原生模型与UV；19个运行文件与Steam安装逐文件校验一致。细磨砂、炮塔与侧裙蜂窝、纵向泄压警示和首下字标；七视图及三张整车大图独立提供。",
+      "page": "works/ground/type10-xuantie-s42/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/type10-xuantie-s42/current",
+      "current": true,
+      "preview": "works/ground/type10-xuantie-s42/preview.png",
+      "assets": [
+        {
+          "name": "type10-xuantie-s42-game.zip",
+          "role": "game-skin",
+          "sha256": "b3b61024f77b897c93eacb1a71bd272cc2934e700ec856b628e286b99d87b144",
+          "size": 93361103,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/type10-xuantie-s42/current/type10-xuantie-s42-game.zip"
+        },
+        {
+          "name": "type10-xuantie-s42-source.zip",
+          "role": "editable-source",
+          "sha256": "80d1953f8309de4f9bf987f6112789d72dddd0f7128c586e70730242084e74f1",
+          "size": 417359532,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/type10-xuantie-s42/current/type10-xuantie-s42-source.zip"
+        },
+        {
+          "name": "type10-xuantie-s42-showcase.zip",
+          "role": "showcase",
+          "sha256": "eddb4ccd82109bf1c730ba1f9643a8d608c2cdbacece11b1795f7a09b5de7fe6",
+          "size": 11757524,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/type10-xuantie-s42/current/type10-xuantie-s42-showcase.zip"
+        },
+        {
+          "name": "type10-xuantie-s42-seven-views.png",
+          "role": "seven-view",
+          "sha256": "1bc3d27835a01ff869e0ad6fde4aad20f65ed1c3055c878cbedf3fea487a079a",
+          "size": 6145237,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/type10-xuantie-s42/current/type10-xuantie-s42-seven-views.png"
+        },
+        {
+          "name": "type10-xuantie-s42-hero-front.png",
+          "role": "hero-image",
+          "sha256": "0667e7406b12eebae1f1a33f8ae234bc9c3f5e8a0267519b548c3410789606a3",
+          "size": 1677525,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/type10-xuantie-s42/current/type10-xuantie-s42-hero-front.png"
+        },
+        {
+          "name": "type10-xuantie-s42-hero-opposite.png",
+          "role": "hero-image",
+          "sha256": "1addeca037e6a0151712a2a305236413260f1f8a3cec9c27af1b5cc4ff6051d0",
+          "size": 1965951,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/type10-xuantie-s42/current/type10-xuantie-s42-hero-opposite.png"
+        },
+        {
+          "name": "type10-xuantie-s42-hero-overview.png",
+          "role": "hero-image",
+          "sha256": "46e3cf717ded7670350ba3af16b1662ff3bfe2e6364a803c6f570616da5dee58",
+          "size": 2010633,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/type10-xuantie-s42/current/type10-xuantie-s42-hero-overview.png"
+        }
+      ],
+      "supported_vehicles": [
+        "jp_type_10"
+      ],
+      "immutable_release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/type10-xuantie-s42/v21"
     }
   ],
   "references": [
