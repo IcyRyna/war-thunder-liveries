@@ -8,6 +8,8 @@
 
 <!-- interactive-preview:end -->
 
+车尾两只外置油桶已排除，网页、七视图和三张整车图与配套运行模型保持一致。
+
 这套 ZTZ99A 专用涂装以炭灰与相近灰阶分块构成主体，侧裙连续细密蜂窝、炮塔局部较大蜂窝和 FY-4 ERA 图形标注形成层次。顶部采用小尺寸低对比深色细线，板面与舱盖增强金属光泽，同时保留细磨砂、结构缝和 AO；后部两侧以克制的橙黑短条呼应。
 
 **状态：已获准发布。配套原生模型、最终 DDS、全部 mip 与独立重建已核验；游戏内视觉仍待实际客户端复核。**
@@ -16,12 +18,12 @@
 
 ## 下载
 
-- [游戏涂装与配套 WTG 模型组件 ZIP](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v55/ztz99a-spectre42-game.zip)
-- [完整可编辑工程与源码 ZIP](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v55/ztz99a-spectre42-source.zip)
-- [七视图原尺寸 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v55/ztz99a-spectre42-seven-views.png)
-- [斜前整车大图 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v55/ztz99a-spectre42-hero-front.png)
-- [另一侧整车大图 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v55/ztz99a-spectre42-hero-opposite.png)
-- [顶部整车大图 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v55/ztz99a-spectre42-hero-overview.png)
+- [游戏涂装与配套 WTG 模型组件 ZIP](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v56/ztz99a-spectre42-game.zip)
+- [完整可编辑工程与源码 ZIP](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v56/ztz99a-spectre42-source.zip)
+- [七视图原尺寸 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v56/ztz99a-spectre42-seven-views.png)
+- [斜前整车大图 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v56/ztz99a-spectre42-hero-front.png)
+- [另一侧整车大图 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v56/ztz99a-spectre42-hero-opposite.png)
+- [顶部整车大图 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/ztz99a-spectre42/v56/ztz99a-spectre42-hero-overview.png)
 
 图片独立提供，游戏 ZIP 只含运行所需配置、纹理和匹配模型组件。源码提供 Composa 分层工程、完整 PNG、原生 UV、可独立打开的 GLB 和逐字节重建脚本。
 
