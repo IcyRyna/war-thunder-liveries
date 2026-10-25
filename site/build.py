@@ -10,6 +10,7 @@ import shutil
 import subprocess
 from urllib.parse import quote,urljoin
 import zipfile
+from pack_glb import externalize_images
 
 REPO=Path(__file__).resolve().parents[1]
 
@@ -109,6 +110,9 @@ def build(out,viewer,previews_dir=None,archive=None):
             if native_names!=expected:raise ValueError('Unexpected native output files')
             for name in expected:(folder/name).unlink()
             manifest.write_text(json.dumps(document,ensure_ascii=False,indent=2),encoding='utf-8')
+    for extra in data.get('supplementary_archives',[]):
+        if extra.get('externalize_embedded_images'):
+            externalize_images(out/extra['target_prefix']/'model.glb',shared)
     shutil.copytree(viewer,out/'viewer')
     for name in ['site.css','site.js']:shutil.copyfile(REPO/'site'/name,out/name)
     rendered=dict(zip([w['id'] for w in data['works']],ThreadPoolExecutor(max_workers=4).map(markdown,data['works'])))

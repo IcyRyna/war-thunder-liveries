@@ -5176,6 +5176,108 @@
       "status": "参考原作",
       "game_input_sha256": "2d61205d8e734143e59c6cfd626d0cd992e6a6dde8106937b10cdc2d8c2cbfa7",
       "section": "references"
+    },
+    {
+      "id": "ztz99a-spectre42",
+      "kind": "works",
+      "category": "ground",
+      "section": "ground",
+      "title": "ZTZ99A · SPECTRE42「磨砂炭灰」",
+      "readme": "works/ground/ztz99a-spectre42/README.md",
+      "status": "已确认可发布",
+      "game_input_sha256": "1d5818aa760d1120ef7c9063df8cab354377d0517271888c2b5764221659a6c9",
+      "variants": [
+        {
+          "vehicle": "ztz_99a",
+          "scene": "previews/ztz99a-spectre42/variant-0/scene.json",
+          "label": "ZTZ99A · 炭灰磨砂金属",
+          "triangles": 120439,
+          "nodes": 197,
+          "source_obj_sha256": "69e8cd164a96fa979b7c7359cd188ba10c341f801922d56fa97fff2fe5358e84",
+          "files": {
+            "model.glb": {
+              "bytes": 39115284,
+              "sha256": "ae375b3bafc53202efe1244e416e81479b3731562dd7758610e6b9e480da4294"
+            },
+            "scene.json": {
+              "bytes": 16213,
+              "sha256": "8ffc69ee3726a6d1d11bf8fc4c05541f5cd4a596eb7b5dda1d19e4fe73e54818"
+            },
+            "native-color-000.png": {
+              "bytes": 6592640,
+              "sha256": "be337ec45b222840fa8ac49bf2ab3b60801a1503ddac5943a202a1ead806572e"
+            },
+            "native-color-001.png": {
+              "bytes": 342132,
+              "sha256": "db8e3837b0e245b50ebbc0fad5277144ec3cb669be2975d8b43e36e374d69284"
+            },
+            "native-color-002.png": {
+              "bytes": 827,
+              "sha256": "e25ef77fbad50cc94a3ea609279bce6e019b447492f6ccc60dee27970d9892cc"
+            },
+            "native-color-003.png": {
+              "bytes": 406373,
+              "sha256": "50f6ec3614c7259a9da37f8f79095aeba02eea1b13574210fd0d31853dbd4ae9"
+            },
+            "native-color-004.png": {
+              "bytes": 2711,
+              "sha256": "8a2383c5b4fc56bbf3dc7cf1f9151c388f0c2112632ad25bed8d21f77ae4831c"
+            },
+            "native-color-005.png": {
+              "bytes": 112349,
+              "sha256": "c1cae7af073acf5239c565a38bfa511c603b70aabd3735901dae6902f5ca465b"
+            },
+            "native-color-006.png": {
+              "bytes": 39808,
+              "sha256": "ad01d54c316792923188c79d7f5c33ead127388f9cc7b30130557307c2d496a2"
+            },
+            "native-color-007.png": {
+              "bytes": 4118411,
+              "sha256": "f9d7a2b9d7fcde30f36b557ee98e082a42eeaf69b65c9f5a3f5d1fbe0c403474"
+            },
+            "native-color-008.png": {
+              "bytes": 39288,
+              "sha256": "c157262883ed1aa329f3c7fb5a910c9e1f5324b8c33955f997468e9ed9dc9507"
+            },
+            "native-color-009.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-010.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-011.png": {
+              "bytes": 152524,
+              "sha256": "3d7f6c8319765ab0dcd08f445ca04c4eb75369893ef9ad177be03a96e61b6926"
+            },
+            "native-color-012.png": {
+              "bytes": 286200,
+              "sha256": "ca715de276bac96becbfb4798f624de46207c79e1dd8e7b43565a7e11d41881b"
+            },
+            "native-color-013.png": {
+              "bytes": 286200,
+              "sha256": "ca715de276bac96becbfb4798f624de46207c79e1dd8e7b43565a7e11d41881b"
+            },
+            "native-normal-000.png": {
+              "bytes": 6043602,
+              "sha256": "cdde382e1462c3846cf534aba3bccc13dfbe41514c034dc44b6eca7ece8582ea"
+            },
+            "native-normal-007.png": {
+              "bytes": 2775207,
+              "sha256": "222a78c52fbe6fcc1423d5fa109b26008639b7bda24f0f1f3207e6fd67ae43a0"
+            },
+            "native-orm-000.png": {
+              "bytes": 3496762,
+              "sha256": "85040bb983e706e35f77b0afc5df367f303893204c4802a115d38b610a369218"
+            },
+            "native-orm-007.png": {
+              "bytes": 1680070,
+              "sha256": "c7b9707971443dc2a16c10e10364019238935a74e35ec2db11bda6d0933d3cde"
+            }
+          }
+        }
+      ]
     }
   ],
   "bundle_sha256": "7c2db1f772d2d7eb25f85751b8f5b69ae907947902a23905a76214e96f670f43",
@@ -5202,6 +5304,37 @@
     {
       "id": "references",
       "title": "参考原作"
+    }
+  ],
+  "supplementary_archives": [
+    {
+      "filename": "ztz99a-spectre42-source.zip",
+      "sha256": "194270bf8d0964b12dcb861090b8d01e5bb962d0622d3ad2da13f21af98c5938",
+      "target_prefix": "previews/ztz99a-spectre42/variant-0/",
+      "members": {
+        "model/model.glb": "model.glb",
+        "model/scene.json": "scene.json",
+        "model/native-color-000.png": "native-color-000.png",
+        "model/native-color-001.png": "native-color-001.png",
+        "model/native-color-002.png": "native-color-002.png",
+        "model/native-color-003.png": "native-color-003.png",
+        "model/native-color-004.png": "native-color-004.png",
+        "model/native-color-005.png": "native-color-005.png",
+        "model/native-color-006.png": "native-color-006.png",
+        "model/native-color-007.png": "native-color-007.png",
+        "model/native-color-008.png": "native-color-008.png",
+        "model/native-color-009.png": "native-color-009.png",
+        "model/native-color-010.png": "native-color-010.png",
+        "model/native-color-011.png": "native-color-011.png",
+        "model/native-color-012.png": "native-color-012.png",
+        "model/native-color-013.png": "native-color-013.png",
+        "model/native-normal-000.png": "native-normal-000.png",
+        "model/native-normal-007.png": "native-normal-007.png",
+        "model/native-orm-000.png": "native-orm-000.png",
+        "model/native-orm-007.png": "native-orm-007.png"
+      },
+      "asset_id": 673707623,
+      "externalize_embedded_images": true
     }
   ]
 }
