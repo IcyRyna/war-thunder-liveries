@@ -36,7 +36,7 @@ def markdown(work):
 
 def page(title,content,depth=0):
     root='../'*depth
-    return f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)} · 涂装作品集</title><link rel="icon" href="data:,"><link rel="stylesheet" href="{root}site.css"></head><body><header><a href="{root}index.html">战争雷霆 · 涂装作品集</a><a href="https://github.com/IcyRyna/war-thunder-liveries">GitHub 仓库</a></header><main>{content}</main><footer>原生 UV · 反射与凹凸为 PBR 近似预览，完整材质以游戏内为准</footer><script src="{root}site.js" defer></script></body></html>'''
+    return f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)} · 涂装作品集</title><link rel="icon" href="data:,"><link rel="stylesheet" href="{root}site.css"></head><body><header><a href="{root}index.html">战争雷霆 · 涂装作品集</a><nav aria-label="下载与源码"><a href="https://github.com/IcyRyna/war-thunder-skin-skills/releases/tag/wt-paint-workbench/v1.0.0">下载本地工作台</a><a href="https://github.com/IcyRyna/war-thunder-liveries">GitHub 仓库</a></nav></header><main>{content}</main><footer>原生 UV · 反射与凹凸为 PBR 近似预览，完整材质以游戏内为准</footer><script src="{root}site.js" defer></script></body></html>'''
 
 def build(out,viewer,previews_dir=None,archive=None):
     data=json.loads((REPO/'site/previews.json').read_text(encoding='utf-8'))

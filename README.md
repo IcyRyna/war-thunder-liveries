@@ -4,6 +4,8 @@
 
 点击下方任一作品标题，进入内嵌对应模型和涂装的介绍页；下载与原有评价保留。
 
+**[下载 Windows 本地涂装工作台](https://github.com/IcyRyna/war-thunder-skin-skills/releases/tag/wt-paint-workbench/v1.0.0)**：完整解压，双击启动；无需预装 Python、Git 或 Blender，首次联网自动准备依赖。制作前请先告诉 AI 可以使用此工作台预览和检查涂装，并提供工具解压路径。编辑功能在本地，线上保留纯 3D 预览。
+
 
 飞机与地面载具的游戏涂装、可编辑工程和完整展示。
 选一件作品，先看整车效果，再下载对应的游戏包或分层源码。
