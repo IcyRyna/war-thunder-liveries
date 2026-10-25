@@ -110,9 +110,14 @@ def build(out,viewer,previews_dir=None,archive=None):
             if native_names!=expected:raise ValueError('Unexpected native output files')
             for name in expected:(folder/name).unlink()
             manifest.write_text(json.dumps(document,ensure_ascii=False,indent=2),encoding='utf-8')
-    for extra in data.get('supplementary_archives',[]):
-        if extra.get('externalize_embedded_images'):
-            externalize_images(out/extra['target_prefix']/'model.glb',shared)
+    # Share byte-identical embedded PNGs across every presentation model.
+    # The model's geometry, UVs, materials and image pixels remain unchanged.
+    packed=[]
+    for work in data['works']:
+        for variant in work['variants']:
+            result=externalize_images((out/variant['scene']).with_name('model.glb'),shared)
+            packed.append({'work':work['id'],**result})
+    print(json.dumps({'lossless_model_packing':packed}))
     shutil.copytree(viewer,out/'viewer')
     prepare_viewer(out/'viewer/preview.js')
     for name in ['site.css','site.js']:shutil.copyfile(REPO/'site'/name,out/name)

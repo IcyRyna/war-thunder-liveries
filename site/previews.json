@@ -2,6 +2,160 @@
   "schema_version": 1,
   "works": [
     {
+      "id": "type10-xuantie-s42",
+      "kind": "works",
+      "category": "ground",
+      "section": "ground",
+      "title": "10式「玄铁」· S42",
+      "readme": "works/ground/type10-xuantie-s42/README.md",
+      "status": "已获准发布",
+      "game_input_sha256": "b3b61024f77b897c93eacb1a71bd272cc2934e700ec856b628e286b99d87b144",
+      "variants": [
+        {
+          "vehicle": "jp_type_10",
+          "scene": "previews/type10-xuantie-s42/variant-0/scene.json",
+          "label": "10式「玄铁」· S42",
+          "triangles": 156951,
+          "nodes": 85,
+          "source_obj_sha256": "ceecc85b151dc9652cad026b1fef3359e688170b90e1fda1d27e92f11e8bcfbf",
+          "files": {
+            "model.glb": {
+              "bytes": 16952160,
+              "sha256": "ba3698d853d772598b1a9434ecfcc69d08e4c91feb441bb1cf0e3f3616d6329a"
+            },
+            "native-color-000.png": {
+              "bytes": 6506791,
+              "sha256": "ab4f91fa9808c4ff41da635b107bb91f40b02620cdc3e9888feb2f678e9240c2"
+            },
+            "native-color-001.png": {
+              "bytes": 12080,
+              "sha256": "2953d313509588b4ccab2cfa2d8708c2eac08786a8707a5eb83834524fe59c4e"
+            },
+            "native-color-002.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-003.png": {
+              "bytes": 13934938,
+              "sha256": "efc2a3b2c096e0f0d17158c06b2d44d02a454bce03b1562355bae3e1a6dc8715"
+            },
+            "native-color-004.png": {
+              "bytes": 39288,
+              "sha256": "c157262883ed1aa329f3c7fb5a910c9e1f5324b8c33955f997468e9ed9dc9507"
+            },
+            "native-color-005.png": {
+              "bytes": 968674,
+              "sha256": "48d0f902c67441fd7e6959304c0ebf31a44dc128791dbb10562e48cef55524f0"
+            },
+            "native-color-006.png": {
+              "bytes": 3038,
+              "sha256": "d700baab6e7f42b83e1a28ed44c25f3fe3e077f5b1824c475828a364ba9b785e"
+            },
+            "native-color-007.png": {
+              "bytes": 848068,
+              "sha256": "d2855f189a848b4558ae882137680f92948cea0ec7de765e0cc7be99aab82e4d"
+            },
+            "native-color-008.png": {
+              "bytes": 670628,
+              "sha256": "6e8c70f1642f8e2130b18dc26fb316449119c49b5088522cec3ce0de020868e1"
+            },
+            "native-color-009.png": {
+              "bytes": 15541,
+              "sha256": "dcc0c1fedcade64fcfbff166ee5b2c39e0fdb7ec66c9280cfcf56a4ebc884c00"
+            },
+            "native-color-010.png": {
+              "bytes": 82847,
+              "sha256": "491d0766a868fabb61a49fec3a6a999a8e035bcdd6ce95455093ec552369863c"
+            },
+            "native-color-011.png": {
+              "bytes": 21185,
+              "sha256": "c9912b822397eb0fafa5466fe81d9c29086b7bfc1cb09f0bc34f32074da9ee5d"
+            },
+            "native-color-012.png": {
+              "bytes": 248515,
+              "sha256": "7faf2692b2ec53020d1e32c3ae6b17bdf233d05ca5cb24ab3910ab1a8ed7904d"
+            },
+            "native-normal-000.png": {
+              "bytes": 13730926,
+              "sha256": "a0c1e5639c5666af1fe46764a6fa66f7b2680bf319cfe9928b1505aa8cb15b0f"
+            },
+            "native-normal-001.png": {
+              "bytes": 7517607,
+              "sha256": "ffe04ca246d6eef7853435b05c8f9603368355892c560e43888d773a5f4ea661"
+            },
+            "native-normal-002.png": {
+              "bytes": 464413,
+              "sha256": "f7b772d229df06b68f81966489e20335f0107cd44779ae9a9f99d72502e1356d"
+            },
+            "native-normal-003.png": {
+              "bytes": 3255,
+              "sha256": "b0b272e3b3323974db3f19f0c896fe5ced08ae490de81e22b16dbf9203897799"
+            },
+            "native-normal-004.png": {
+              "bytes": 954669,
+              "sha256": "988d69ce81760aa607bda5e97d81aaf4963b0b7e396092ef20af114d51df6654"
+            },
+            "native-normal-005.png": {
+              "bytes": 266711,
+              "sha256": "961f24b8bd0d50ea295166fe9e7813aac8ea55ec3c922028fa0302b57275b4a0"
+            },
+            "native-normal-006.png": {
+              "bytes": 17035,
+              "sha256": "4875ca13ce786e8de7ddeebffd8c4d73a5cd377aac1205a9646cbe230f52f532"
+            },
+            "native-normal-007.png": {
+              "bytes": 162262,
+              "sha256": "7943ee8edfed2b09c5ee176deb5ec078a5245b9926e96c80d733c22b5b1a6957"
+            },
+            "native-normal-008.png": {
+              "bytes": 378131,
+              "sha256": "0fe5e5e483a067b17c1f22e84e2576e0f3611522b3ac0da1b8d2c218d12d94be"
+            },
+            "native-orm-000.png": {
+              "bytes": 2113228,
+              "sha256": "d9fb1f372115fdd0bd0b0ebb3a6e534eec2a7873c49ea7fc1d3b9db3327b07fb"
+            },
+            "native-orm-001.png": {
+              "bytes": 4531910,
+              "sha256": "3bc55e0f85ff867d3bdece7733417f333c8edb057eba268e9e54974d9976c840"
+            },
+            "native-orm-002.png": {
+              "bytes": 396178,
+              "sha256": "a176da0a3c6ccd703b49edc70af436ea047ed9971649b528dccc3b7dfa2824d6"
+            },
+            "native-orm-003.png": {
+              "bytes": 472,
+              "sha256": "8ab898c53f555cfdc02c7cfe5320b219edac373b55900edaaa34a4fccead2d71"
+            },
+            "native-orm-004.png": {
+              "bytes": 820668,
+              "sha256": "a66f0def3e4faaf45ddf432510561ed7b20e6a9835897d45c001c2abe2b97bf9"
+            },
+            "native-orm-005.png": {
+              "bytes": 1880,
+              "sha256": "f42e1b4dd2809ad6526174063be404c131ea95373b8d50bb6f815e99fe9a3092"
+            },
+            "native-orm-006.png": {
+              "bytes": 1102,
+              "sha256": "356a6929981d032faabdf6279748794bcaa1ac92cc007c570fc15c648134172c"
+            },
+            "native-orm-007.png": {
+              "bytes": 25943,
+              "sha256": "05af3018109351e98b423551b6978bc9d25ae8c055f9aae6953dc4dc36aa63c7"
+            },
+            "native-orm-008.png": {
+              "bytes": 285791,
+              "sha256": "028d8647caa7c8ecd2f528d27181558b04feb2e791f0deda1306f106bda613bd"
+            },
+            "scene.json": {
+              "bytes": 26292,
+              "sha256": "24ea3f1657a1fa0a69539456ab1f1210dd47c2fcc6c7418db7172ff3dec73fbf"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "leopard2a6hel-spectre42",
       "kind": "works",
       "category": "ground",
@@ -5334,6 +5488,48 @@
         "model/native-orm-007.png": "native-orm-007.png"
       },
       "asset_id": 673707623,
+      "externalize_embedded_images": true
+    },
+    {
+      "filename": "type10-xuantie-s42-web-preview.zip",
+      "sha256": "e1578116abf8d38de1632aef74ad04e8dfa5d1f6b83bda1510f319527b1069fb",
+      "target_prefix": "previews/type10-xuantie-s42/variant-0/",
+      "members": {
+        "model/model.glb": "model.glb",
+        "model/native-color-000.png": "native-color-000.png",
+        "model/native-color-001.png": "native-color-001.png",
+        "model/native-color-002.png": "native-color-002.png",
+        "model/native-color-003.png": "native-color-003.png",
+        "model/native-color-004.png": "native-color-004.png",
+        "model/native-color-005.png": "native-color-005.png",
+        "model/native-color-006.png": "native-color-006.png",
+        "model/native-color-007.png": "native-color-007.png",
+        "model/native-color-008.png": "native-color-008.png",
+        "model/native-color-009.png": "native-color-009.png",
+        "model/native-color-010.png": "native-color-010.png",
+        "model/native-color-011.png": "native-color-011.png",
+        "model/native-color-012.png": "native-color-012.png",
+        "model/native-normal-000.png": "native-normal-000.png",
+        "model/native-normal-001.png": "native-normal-001.png",
+        "model/native-normal-002.png": "native-normal-002.png",
+        "model/native-normal-003.png": "native-normal-003.png",
+        "model/native-normal-004.png": "native-normal-004.png",
+        "model/native-normal-005.png": "native-normal-005.png",
+        "model/native-normal-006.png": "native-normal-006.png",
+        "model/native-normal-007.png": "native-normal-007.png",
+        "model/native-normal-008.png": "native-normal-008.png",
+        "model/native-orm-000.png": "native-orm-000.png",
+        "model/native-orm-001.png": "native-orm-001.png",
+        "model/native-orm-002.png": "native-orm-002.png",
+        "model/native-orm-003.png": "native-orm-003.png",
+        "model/native-orm-004.png": "native-orm-004.png",
+        "model/native-orm-005.png": "native-orm-005.png",
+        "model/native-orm-006.png": "native-orm-006.png",
+        "model/native-orm-007.png": "native-orm-007.png",
+        "model/native-orm-008.png": "native-orm-008.png",
+        "model/scene.json": "scene.json"
+      },
+      "asset_id": 676124160,
       "externalize_embedded_images": true
     }
   ]
