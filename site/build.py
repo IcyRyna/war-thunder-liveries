@@ -53,6 +53,24 @@ def build(out,viewer,previews_dir=None,archive=None):
                 if path.is_absolute() or '..' in path.parts or '\\' in name or not name.startswith('previews/'):raise ValueError('Unsafe preview archive member')
             z.extractall(out)
     else:shutil.copytree(Path(previews_dir)/'previews',out/'previews')
+    # Reuse a new work's verified editable-source ZIP without replacing the pinned bundle.
+    for extra in data.get('supplementary_archives',[]):
+        filename=extra['filename'];prefix=extra['target_prefix'];members=extra['members']
+        if Path(filename).name!=filename or not filename.endswith('.zip'):raise ValueError('Invalid supplementary archive filename')
+        if not re.fullmatch(r'previews/[a-z0-9-]+/variant-[0-9]+/',prefix):raise ValueError('Invalid supplementary target prefix')
+        if not 0<len(members)<=200 or len(set(members.values()))!=len(members):raise ValueError('Invalid supplementary member map')
+        source=REPO/filename
+        if digest(source)!=extra['sha256']:raise ValueError('Supplementary archive SHA-256 changed')
+        with zipfile.ZipFile(source) as z:
+            if len(z.namelist())!=len(set(z.namelist())):raise ValueError('Duplicate supplementary archive members')
+            if sum(z.getinfo(name).file_size for name in members)>256*1024**2:raise ValueError('Supplementary models exceed the size limit')
+            for name,basename in members.items():
+                path=Path(name)
+                if not name.startswith('model/') or path.is_absolute() or '..' in path.parts or '\\' in name:raise ValueError('Unsafe supplementary source member')
+                if Path(basename).name!=basename or Path(basename).suffix.lower() not in ('.glb','.png','.json'):raise ValueError('Unsafe supplementary target member')
+                target=out/prefix/basename;target.parent.mkdir(parents=True,exist_ok=True)
+                if not target.resolve().is_relative_to(out.resolve()):raise ValueError('Supplementary output escaped the build')
+                with z.open(name) as original,target.open('xb') as output:shutil.copyfileobj(original,output)
     files=0
     for work in data['works']:
         for variant in work['variants']:

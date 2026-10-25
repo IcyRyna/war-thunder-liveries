@@ -18,11 +18,14 @@
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
+| [ZTZ99A · SPECTRE42「磨砂炭灰」](https://icyryna.github.io/war-thunder-liveries/works/ztz99a-spectre42/) | 已确认可发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/ztz99a-spectre42/current) |
 | [豹 2A6HEL · SPECTRE42「炭灰钢装」](https://icyryna.github.io/war-thunder-liveries/works/leopard2a6hel-spectre42/) | 已确认可发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a6hel-spectre42/current) |
 | [勒克莱尔 AZUR · SPECTRE42](https://icyryna.github.io/war-thunder-liveries/works/leclerc-azur-spectre42/) | 修订中 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-spectre42/current) |
 | [EMBT · 终末地｜德国／法国](https://icyryna.github.io/war-thunder-liveries/works/embt-endfield/) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/embt-endfield/current) |
 | [豹 2A7HU · 终末地](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7hu-endfield/) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-endfield/current) |
 | [勒克莱尔 AZUR · 终末地「边界测绘」](https://icyryna.github.io/war-thunder-liveries/works/leclerc-azur-endfield/) | 初步成果 · 30分钟一轮直出 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-endfield/current) |
+
+99A 包含配套 WTG 原生模型组件，安装方式以作品页为准。
 
 EMBT 适配德国与法国两个版本；豹 2A7HU 包含专属炮塔与车长机枪塔；勒克莱尔 AZUR 当前保留为初步成果。
 
