@@ -2,7 +2,7 @@
 
 **[在线作品集与各套涂装的 3D 预览](https://icyryna.github.io/war-thunder-liveries/)**
 
-点击下方任一作品标题，进入内嵌对应模型和涂装的介绍页；下载与原有评价保留。
+点击下方作品标题查看介绍、展示与下载；部分作品另提供交互式 3D 预览。
 
 **[下载 Windows 本地涂装工作台](https://github.com/IcyRyna/war-thunder-skin-skills/releases/tag/wt-paint-workbench/v1.0.0)**：完整解压，双击启动；无需预装 Python、Git 或 Blender，首次联网自动准备依赖。制作前请先告诉 AI 可以使用此工作台预览和检查涂装，并提供工具解压路径。编辑功能在本地，线上保留纯 3D 预览。
 
@@ -20,6 +20,7 @@
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
+| [梅卡瓦 Mk.4M「玄岩」· S42](works/ground/merkava4m-xuanyan-s42/README.md) | 已获准发布 · 最新调整待游戏内复核 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/merkava4m-xuanyan-s42/current) |
 | [豹 2A7V · SPECTRE42「炭灰分区」](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7v-spectre42/) | 已获准发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-spectre42/current) |
 | [10式「玄铁」· S42](https://icyryna.github.io/war-thunder-liveries/works/type10-xuantie-s42/) | 已获准发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/type10-xuantie-s42/current) |
 | [ZTZ99A · SPECTRE42「磨砂炭灰」](https://icyryna.github.io/war-thunder-liveries/works/ztz99a-spectre42/) | 已确认可发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/ztz99a-spectre42/current) |

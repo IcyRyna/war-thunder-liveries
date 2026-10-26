@@ -2,6 +2,68 @@
   "schema_version": 2,
   "works": [
     {
+      "id": "merkava4m-xuanyan-s42",
+      "title": "梅卡瓦 Mk.4M「玄岩」· S42",
+      "category": "ground",
+      "status": "已获准发布；最近调整待游戏内复核",
+      "note": "配套 WTG 原生模型；七视图采用柔和棚光与漫射辅助展示数码。",
+      "page": "works/ground/merkava4m-xuanyan-s42/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/merkava4m-xuanyan-s42/current",
+      "current": true,
+      "preview": "works/ground/merkava4m-xuanyan-s42/preview.png",
+      "assets": [
+        {
+          "name": "merkava4m-xuanyan-s42-game.zip",
+          "size": 342091724,
+          "sha256": "d3c9b905f33561fc497adf2cd9d3ca7edd489c0e0b1f9a04f9a520e7d7e92e87",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-game.zip"
+        },
+        {
+          "name": "merkava4m-xuanyan-s42-source.zip",
+          "size": 1472099905,
+          "sha256": "a76fa9add0d35dd03a72f058cdf76f1f4f1f767709cda7561d46544412881850",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-source.zip"
+        },
+        {
+          "name": "merkava4m-xuanyan-s42-showcase.zip",
+          "size": 13869441,
+          "sha256": "0a86ea382cf631b0b300dbe8ff0ca4f1a8f4167c4e17facb595e4a4246b87841",
+          "role": "showcase",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-showcase.zip"
+        },
+        {
+          "name": "merkava4m-xuanyan-s42-seven-views.png",
+          "size": 7560524,
+          "sha256": "4603bc8691a288fba60d5426ab51533252b4f49fd70c82dae3e6a4a36ec7529d",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-seven-views.png"
+        },
+        {
+          "name": "merkava4m-xuanyan-s42-hero-front.png",
+          "size": 2038213,
+          "sha256": "a5f53e1d723521007b9bb531678b02096e2c65627b350857573b5bcd75523911",
+          "role": "showcase-front",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-hero-front.png"
+        },
+        {
+          "name": "merkava4m-xuanyan-s42-hero-opposite.png",
+          "size": 2452118,
+          "sha256": "27441386f5208c765be30ceccfefccf2672a671145cb7d23072d92e431eedadb",
+          "role": "showcase-opposite",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-hero-opposite.png"
+        },
+        {
+          "name": "merkava4m-xuanyan-s42-hero-overview.png",
+          "size": 1856059,
+          "sha256": "836a54915423de412a585eadf0b580c84df87a9b22fce455c023941ec0141cad",
+          "role": "showcase-top",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-hero-overview.png"
+        }
+      ]
+    },
+    {
       "id": "leopard2a7v-spectre42",
       "title": "豹 2A7V · SPECTRE42「炭灰分区」",
       "category": "ground",
