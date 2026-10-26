@@ -2,6 +2,82 @@
   "schema_version": 2,
   "works": [
     {
+      "id": "leopard2a7v-spectre42",
+      "title": "豹 2A7V · SPECTRE42「炭灰分区」",
+      "category": "ground",
+      "status": "已获准发布",
+      "note": "A6HEL炭灰工业设计适配A7V原生UV；七视图、完整源码和历史工程已备份。",
+      "page": "works/ground/leopard2a7v-spectre42/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-spectre42/current",
+      "current": true,
+      "preview": "works/ground/leopard2a7v-spectre42/preview.png",
+      "assets": [
+        {
+          "name": "leopard2a7v-spectre42-skin.zip",
+          "size": 30933559,
+          "sha256": "616487596d8ebf59099b3b29cfa8fb6d2a0347af61f9163ed3fd239e61894ce1",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-spectre42/current/leopard2a7v-spectre42-skin.zip"
+        },
+        {
+          "name": "leopard2a7v-spectre42-source.zip",
+          "size": 221951789,
+          "sha256": "9f9da8f73b7f3345267e435a392f195604c46527d22df871923385eb7c3f7321",
+          "role": "editable-source",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-spectre42/current/leopard2a7v-spectre42-source.zip"
+        },
+        {
+          "name": "leopard2a7v-spectre42-showcase.zip",
+          "size": 10361155,
+          "sha256": "15b87c2415a4c7457f488a247f86ed8a7d0d1f1a9a103e539e51deba5902767e",
+          "role": "showcase",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-spectre42/current/leopard2a7v-spectre42-showcase.zip"
+        },
+        {
+          "name": "leopard2a7v-spectre42-seven-views.png",
+          "size": 5283761,
+          "sha256": "504ad38d4d6b5c0ad299d2c014c1b15b14ccf5146486b7acfe92e5b1353edac1",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-spectre42/current/leopard2a7v-spectre42-seven-views.png"
+        },
+        {
+          "name": "leopard2a7v-spectre42-hero-front.png",
+          "size": 1426678,
+          "sha256": "d9e0dab2c6c61840596b0576aca07688831d0bc9ada2736ee0234fa678964df6",
+          "role": "showcase-front",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-spectre42/current/leopard2a7v-spectre42-hero-front.png"
+        },
+        {
+          "name": "leopard2a7v-spectre42-hero-opposite.png",
+          "size": 1709420,
+          "sha256": "0d30a4eff7c2d5683cbe8d030ab22f12d5213580074f8a3f9be7f61466445192",
+          "role": "showcase-opposite",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-spectre42/current/leopard2a7v-spectre42-hero-opposite.png"
+        },
+        {
+          "name": "leopard2a7v-spectre42-hero-overview.png",
+          "size": 1985539,
+          "sha256": "b28c6dfce530b90721dcd1d77db18e2e9bfcfbfa57f3d398d117ac8711b3adbd",
+          "role": "showcase-top",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-spectre42/current/leopard2a7v-spectre42-hero-overview.png"
+        },
+        {
+          "name": "leopard2a7v-spectre42-web-preview.zip",
+          "size": 82891588,
+          "sha256": "1fb244966dc4f353d2f3df5247b10da32d220935037a3e2c5229b197ac6fe91c",
+          "role": "interactive-preview",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-spectre42/current/leopard2a7v-spectre42-web-preview.zip"
+        },
+        {
+          "name": "leopard2a7v-spectre42-production-backup.zip",
+          "size": 1294315548,
+          "sha256": "ee67c793b1d8afe951dd8da3c6585d853439a3477627aab2fbfbeab38623e98d",
+          "role": "source-history",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7v-spectre42/current/leopard2a7v-spectre42-production-backup.zip"
+        }
+      ]
+    },
+    {
       "id": "j16-rossi",
       "title": "J-16 Rossi · 早期版",
       "category": "aircraft",

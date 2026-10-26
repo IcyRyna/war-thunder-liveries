@@ -2,6 +2,7 @@
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
+| [豹 2A7V · SPECTRE42「炭灰分区」](leopard2a7v-spectre42/README.md) | 已获准发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-spectre42/current) |
 | [ZTZ99A · SPECTRE42「磨砂炭灰」](ztz99a-spectre42/README.md) | 已确认可发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/ztz99a-spectre42/current) |
 | [豹 2A6HEL · SPECTRE42「炭灰钢装」](leopard2a6hel-spectre42/README.md) | 已确认可发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a6hel-spectre42/current) |
 | [勒克莱尔 AZUR · SPECTRE42](leclerc-azur-spectre42/README.md) | 修订中 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leclerc-azur-spectre42/current) |
