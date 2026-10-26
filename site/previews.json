@@ -2,6 +2,160 @@
   "schema_version": 1,
   "works": [
     {
+      "id": "leopard2a7v-spectre42",
+      "kind": "works",
+      "category": "ground",
+      "section": "ground",
+      "title": "豹 2A7V · SPECTRE42「炭灰分区」",
+      "readme": "works/ground/leopard2a7v-spectre42/README.md",
+      "status": "已获准发布",
+      "game_input_sha256": "616487596d8ebf59099b3b29cfa8fb6d2a0347af61f9163ed3fd239e61894ce1",
+      "variants": [
+        {
+          "vehicle": "leopard_2a7v",
+          "scene": "previews/leopard2a7v-spectre42/variant-0/scene.json",
+          "label": "豹 2A7V · SPECTRE42 炭灰分区",
+          "triangles": 249228,
+          "nodes": 140,
+          "source_obj_sha256": "4f540b9211a68c0a1546557c2785793babcf5e53d5124e276baa86d599b3bb7f",
+          "files": {
+            "model.glb": {
+              "bytes": 67916944,
+              "sha256": "d513ffcbddf0c5ea01b193301a7034699067843d8a645e83ef4a874ed7d12254"
+            },
+            "native-color-000.png": {
+              "bytes": 3511494,
+              "sha256": "7cb2545801fd4e033eb44e2ec803322ee2bea7044e99614c814b6fb92f7384df"
+            },
+            "native-color-001.png": {
+              "bytes": 12294,
+              "sha256": "d29451b3b054bee7c7acad6416d41f2f367a3534b8a3271b9d46b4438ad2ec44"
+            },
+            "native-color-002.png": {
+              "bytes": 39288,
+              "sha256": "c157262883ed1aa329f3c7fb5a910c9e1f5324b8c33955f997468e9ed9dc9507"
+            },
+            "native-color-003.png": {
+              "bytes": 61273,
+              "sha256": "6083140a13c14f1c0df2d9c610a2eb4f991c3750309f595635c3ca7010ec7797"
+            },
+            "native-color-004.png": {
+              "bytes": 111363,
+              "sha256": "61f8360f37e13e8e7c5921b6b780aaad27cae4e8470d7abbc679ebe5235f2c1c"
+            },
+            "native-color-005.png": {
+              "bytes": 3557209,
+              "sha256": "8ccb05f4776a7aecf7e1b7cd688b3f041dbbc550357b9bbe226542cf1ae3a6a9"
+            },
+            "native-color-006.png": {
+              "bytes": 358795,
+              "sha256": "f5204fbf3b54a1abbb923c1d0a960451c8c40805bd23c64fc657b4e61dd4f847"
+            },
+            "native-color-007.png": {
+              "bytes": 827,
+              "sha256": "e25ef77fbad50cc94a3ea609279bce6e019b447492f6ccc60dee27970d9892cc"
+            },
+            "native-color-008.png": {
+              "bytes": 47295,
+              "sha256": "1dc6a44c91ed95487a06d8696711ea0ac883aabd5ace91dd428f959b3aa2a976"
+            },
+            "native-color-009.png": {
+              "bytes": 60785,
+              "sha256": "d1a60792cf7ecc245c65aa44b8f9c156a821fb68e358437ff347d1e3461e2f4a"
+            },
+            "native-color-010.png": {
+              "bytes": 25896,
+              "sha256": "c70ff1047a07805e492c34d7585851259f6f804bac8bb79bfc5996c26a03041a"
+            },
+            "native-color-011.png": {
+              "bytes": 197806,
+              "sha256": "f075bc744b8bc66fe6e2b60c989bc02f4c325f5c270f20858e590118a301ecbd"
+            },
+            "native-color-012.png": {
+              "bytes": 2049,
+              "sha256": "0b9041c5c3fd0e715ef5eae009a1f88df2a4bfe8a6547446d56b611746aa54a9"
+            },
+            "native-normal-000.png": {
+              "bytes": 6386939,
+              "sha256": "88314949999e6485ebfcb84c1b7e116507f31815314915ce9f75ed94c63f9d55"
+            },
+            "native-normal-001.png": {
+              "bytes": 218676,
+              "sha256": "230f7bd8ec6d45fda211413b84e1b96a016cf01db2df9294f57e006e870c78a9"
+            },
+            "native-normal-002.png": {
+              "bytes": 5691201,
+              "sha256": "a0467fdac9d5ff59ced0e3ea6cac696d83924010beb66687949e711ce034520a"
+            },
+            "native-normal-003.png": {
+              "bytes": 449020,
+              "sha256": "247f1ee9076041e04aea101156730479cc9d6f60768bfaf86900a7adb0ab9d65"
+            },
+            "native-normal-004.png": {
+              "bytes": 385,
+              "sha256": "e445c3768dfb5fadfc56a30d6e330fd5a95ba503294a8882167dc6010ea813fa"
+            },
+            "native-normal-005.png": {
+              "bytes": 130406,
+              "sha256": "4716bf74e4ebd451ec1200b622f12acf11f88f1cd95e016768f3ef18b8630273"
+            },
+            "native-normal-006.png": {
+              "bytes": 225350,
+              "sha256": "e6e0d52f2db406de0f96445e2e8085c1905396c6512a1c303cc9c9bdb76944f5"
+            },
+            "native-normal-007.png": {
+              "bytes": 904,
+              "sha256": "8861eae26edb1a73ac067f8da2cb45768a17367ebe693165dc7e547f1e2b890b"
+            },
+            "native-normal-008.png": {
+              "bytes": 428090,
+              "sha256": "4e06a83160641d2b1efb8f1e58977f08bb9a36c2786ffbce34e26cf04c7f97a1"
+            },
+            "native-orm-000.png": {
+              "bytes": 309977,
+              "sha256": "4af3392d483915bd6395d61d42972b817001be17eb93dcf56cc5f7868b1c8365"
+            },
+            "native-orm-001.png": {
+              "bytes": 97231,
+              "sha256": "759bd5b5a7ad856ad9a8f510636434ebbaab7a95b6a3020d596b93170beacdd9"
+            },
+            "native-orm-002.png": {
+              "bytes": 275388,
+              "sha256": "523db87722ee5c3ce89007a233a0652f6afe69862ee67b82fccadb43be41b700"
+            },
+            "native-orm-003.png": {
+              "bytes": 24647,
+              "sha256": "8e10408645ddb5cccda5e8816ad87324feaffe0d5335d16c35ae4bbcb272a49b"
+            },
+            "native-orm-004.png": {
+              "bytes": 1001,
+              "sha256": "e7eb5fb29c5775aae1be75104087652aa94536ed33a793e5e80aa9c4839e78e5"
+            },
+            "native-orm-005.png": {
+              "bytes": 21200,
+              "sha256": "1f4f954559573f90def19fede7137a71b283ec9acc5877d820e918a7e96e0c6c"
+            },
+            "native-orm-006.png": {
+              "bytes": 96912,
+              "sha256": "e496d8b1219f6f0c40de04a892946652bde2dfe5c6e77272f79c332b7a96f4bc"
+            },
+            "native-orm-007.png": {
+              "bytes": 1705,
+              "sha256": "216b0d895f733d1db28e568d14b6a0ef2d73b93b97619cc428768d7c92b9a929"
+            },
+            "native-orm-008.png": {
+              "bytes": 252376,
+              "sha256": "3c71d139976c81307caa3f0255fdbf9611ebf2c23b2496a7802d7c3f5c803803"
+            },
+            "scene.json": {
+              "bytes": 22239,
+              "sha256": "7adeb5cc2a587f6c1bc08b89ae03c1d64d6466bee046cf6a31222cb0266a6059"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "type10-xuantie-s42",
       "kind": "works",
       "category": "ground",
@@ -5530,6 +5684,48 @@
         "model/scene.json": "scene.json"
       },
       "asset_id": 676124160,
+      "externalize_embedded_images": true
+    },
+    {
+      "filename": "leopard2a7v-spectre42-web-preview.zip",
+      "sha256": "1fb244966dc4f353d2f3df5247b10da32d220935037a3e2c5229b197ac6fe91c",
+      "target_prefix": "previews/leopard2a7v-spectre42/variant-0/",
+      "members": {
+        "model/model.glb": "model.glb",
+        "model/native-color-000.png": "native-color-000.png",
+        "model/native-color-001.png": "native-color-001.png",
+        "model/native-color-002.png": "native-color-002.png",
+        "model/native-color-003.png": "native-color-003.png",
+        "model/native-color-004.png": "native-color-004.png",
+        "model/native-color-005.png": "native-color-005.png",
+        "model/native-color-006.png": "native-color-006.png",
+        "model/native-color-007.png": "native-color-007.png",
+        "model/native-color-008.png": "native-color-008.png",
+        "model/native-color-009.png": "native-color-009.png",
+        "model/native-color-010.png": "native-color-010.png",
+        "model/native-color-011.png": "native-color-011.png",
+        "model/native-color-012.png": "native-color-012.png",
+        "model/native-normal-000.png": "native-normal-000.png",
+        "model/native-normal-001.png": "native-normal-001.png",
+        "model/native-normal-002.png": "native-normal-002.png",
+        "model/native-normal-003.png": "native-normal-003.png",
+        "model/native-normal-004.png": "native-normal-004.png",
+        "model/native-normal-005.png": "native-normal-005.png",
+        "model/native-normal-006.png": "native-normal-006.png",
+        "model/native-normal-007.png": "native-normal-007.png",
+        "model/native-normal-008.png": "native-normal-008.png",
+        "model/native-orm-000.png": "native-orm-000.png",
+        "model/native-orm-001.png": "native-orm-001.png",
+        "model/native-orm-002.png": "native-orm-002.png",
+        "model/native-orm-003.png": "native-orm-003.png",
+        "model/native-orm-004.png": "native-orm-004.png",
+        "model/native-orm-005.png": "native-orm-005.png",
+        "model/native-orm-006.png": "native-orm-006.png",
+        "model/native-orm-007.png": "native-orm-007.png",
+        "model/native-orm-008.png": "native-orm-008.png",
+        "model/scene.json": "scene.json"
+      },
+      "asset_id": 677225903,
       "externalize_embedded_images": true
     }
   ]
