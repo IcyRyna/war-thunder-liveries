@@ -20,6 +20,7 @@
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
+| [Strv 122B+「霜钛 / Frost Titanium」· S42](works/ground/strv122bp-shuangtai-s42/README.md) | 已获准发布 · 顶板材质实装确认 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/strv122bp-shuangtai-s42/current) |
 | [梅卡瓦 Mk.4M「玄岩」· S42](works/ground/merkava4m-xuanyan-s42/README.md) | 已获准发布 · 最新调整待游戏内复核 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/merkava4m-xuanyan-s42/current) |
 | [豹 2A7V · SPECTRE42「炭灰分区」](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7v-spectre42/) | 已获准发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-spectre42/current) |
 | [10式「玄铁」· S42](https://icyryna.github.io/war-thunder-liveries/works/type10-xuantie-s42/) | 已获准发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/type10-xuantie-s42/current) |
