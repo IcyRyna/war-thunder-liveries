@@ -8,6 +8,33 @@
 
 Frost Titanium is a silver-gray industrial livery for Sweden’s Strv 122B+ in War Thunder. Semi-matte metal combines with stepped digital blocks, segmented honeycomb panels, vehicle markings, and orange accents. The two turret roof plates and their folded edges use materials transferred from the original Endfield Leopard 2A7V skin; their gloss and metallic response have been confirmed in game. The native model and UV layout remain intact. Extract the folder into UserSkins, refresh the custom camouflage list, and select Strv122Bplus_Shuangtai_S42.
 
+
+<!-- standard-showcase -->
+## 标准七视图 / Standard seven views
+
+斜前、斜后、左侧、右侧、顶部、正前、正后七个方向；统一灰底与标准棚光。
+
+![Strv 122B+ 霜钛 标准七视图](preview.png)
+
+## 整车大图 / Full-vehicle images
+
+三张独立大图均为 2880 × 1700。展示图使用发布包最终 DDS，在原生模型上离线渲染。
+
+Three independent 2880 × 1700 images, rendered offline from the native model with the final published DDS.
+
+![斜前整车 / Front quarter](hero-front.png)
+
+![另一侧整车 / Opposite side](hero-opposite.png)
+
+![顶部整车 / Roof overview](hero-overview.png)
+
+- [标准七视图与三张整车大图 ZIP](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-showcase.zip)
+- [标准七视图 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-seven-views.png)
+- [斜前整车大图 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-hero-front.png)
+- [另一侧整车大图 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-hero-opposite.png)
+- [顶部整车大图 PNG](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-hero-overview.png)
+<!-- /standard-showcase -->
+
 ## 下载 / Download
 
 [游戏涂装 / Game skin ZIP](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-skin.zip) · [发布页 / Release](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/strv122bp-shuangtai-s42/current)

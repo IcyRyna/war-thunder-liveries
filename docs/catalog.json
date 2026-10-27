@@ -2,6 +2,61 @@
   "schema_version": 2,
   "works": [
     {
+      "id": "strv122bp-shuangtai-s42",
+      "title": "Strv 122B+「霜钛 / Frost Titanium」· S42",
+      "category": "ground",
+      "status": "已获准发布；顶板材质实装确认",
+      "current": true,
+      "page": "works/ground/strv122bp-shuangtai-s42/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/strv122bp-shuangtai-s42/current",
+      "assets": [
+        {
+          "name": "strv122bp-shuangtai-s42-skin.zip",
+          "role": "game-skin",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-skin.zip",
+          "size": 88641654,
+          "sha256": "04ba75e19a8bf8e2bb62e9092890b55e1c1b2614bd1e08e1252efa6ba9b37817"
+        },
+        {
+          "name": "strv122bp-shuangtai-s42-showcase.zip",
+          "role": "showcase",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-showcase.zip",
+          "size": 17749163,
+          "sha256": "123312939ef7569c97a322ac3928a76f859f00c314ce6cebfc9782b998816611"
+        },
+        {
+          "name": "strv122bp-shuangtai-s42-seven-views.png",
+          "role": "seven-view",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-seven-views.png",
+          "size": 9257017,
+          "sha256": "b23a86c36e3070a4861f4f0490ef205e22f75c6f5d70f8c833b182b37a75a3dd"
+        },
+        {
+          "name": "strv122bp-shuangtai-s42-hero-front.png",
+          "role": "showcase-front",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-hero-front.png",
+          "size": 2568574,
+          "sha256": "2a71ab78a558b857222eeeeb4989a7c73b3d5580120be5f4db6cb5a1917d4550"
+        },
+        {
+          "name": "strv122bp-shuangtai-s42-hero-opposite.png",
+          "role": "showcase-opposite",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-hero-opposite.png",
+          "size": 2898464,
+          "sha256": "cb9700aae585e1591e4e9bc37e95375117d2e698150f3f317e9f826044214845"
+        },
+        {
+          "name": "strv122bp-shuangtai-s42-hero-overview.png",
+          "role": "showcase-top",
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/strv122bp-shuangtai-s42/current/strv122bp-shuangtai-s42-hero-overview.png",
+          "size": 3055532,
+          "sha256": "be8e37bdfe0d598911406d717ce5cd0286a3c3d3cb728afa51f67fa5711a139f"
+        }
+      ],
+      "preview": "works/ground/strv122bp-shuangtai-s42/preview.png",
+      "note": "标准七视图与三张2880×1700整车大图；发布包最终DDS离线模型渲染。"
+    },
+    {
       "id": "merkava4m-xuanyan-s42",
       "title": "梅卡瓦 Mk.4M「玄岩」· S42",
       "category": "ground",
