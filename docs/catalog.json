@@ -2,6 +2,492 @@
   "schema_version": 2,
   "works": [
     {
+      "id": "j15t-si",
+      "title": "歼-15T · 祀",
+      "category": "aircraft",
+      "status": "已认可",
+      "current": true,
+      "page": "works/aircraft/j15t-si/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j15t-si/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "j15t-si-game.zip",
+          "sha256": "931df2c654cb8c76823d2161eed811b8917d8829871f3d20d451234271509d53",
+          "size": 19697857,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j15t-si/current/j15t-si-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "j15t-si-preview.jpg",
+          "sha256": "2443751eb9a5b2f7820fceee80d1f66935fc1d6ada82fc08e8ca5a40d5b91b09",
+          "size": 141504,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j15t-si/current/j15t-si-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/j15t-si/preview.jpg",
+      "note": "淡翠与金黄沿机翼展开，保留净面进气道、鸭翼前缘与后机背白形。"
+    },
+    {
+      "id": "j11b-si",
+      "title": "歼-11B · 祀",
+      "category": "aircraft",
+      "status": "已认可",
+      "current": true,
+      "page": "works/aircraft/j11b-si/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j11b-si/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "j11b-si-game.zip",
+          "sha256": "f0f67176695df9fcc492e32303aa4a5b20ddf4b29b48bc000a9f44a97cb65144",
+          "size": 29335432,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j11b-si/current/j11b-si-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "j11b-si-preview.jpg",
+          "sha256": "a9134574e101d129f0add61a569b84f0360dae0464f9614e5a10db4129654d5f",
+          "size": 120995,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j11b-si/current/j11b-si-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/j11b-si/preview.jpg",
+      "note": "双翼人物配合青黄色场，缝翼与翼尖条纹沿本机翼缘收边。"
+    },
+    {
+      "id": "j11b-laevatain-astra",
+      "title": "歼-11B · 莱万汀 Astra",
+      "category": "aircraft",
+      "status": "已认可",
+      "current": true,
+      "page": "works/aircraft/j11b-laevatain-astra/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j11b-laevatain-astra/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "j11b-laevatain-astra-game.zip",
+          "sha256": "451152298e74bb8a9a26dffe2fd98a25edb6867b146349e3e6de614b79c2568a",
+          "size": 28763779,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j11b-laevatain-astra/current/j11b-laevatain-astra-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "j11b-laevatain-astra-preview.jpg",
+          "sha256": "50462bfaea8a8e27866224cbb8dc591425e5ddaa8c2feda0163e4c0a4c6c2b7e",
+          "size": 186742,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j11b-laevatain-astra/current/j11b-laevatain-astra-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/j11b-laevatain-astra/preview.jpg",
+      "note": "两幅人物分别占据左右主翼，赤红至橙金的色场呼应炭灰机背与几何垂尾。"
+    },
+    {
+      "id": "j16-si",
+      "title": "歼-16 · 祀",
+      "category": "aircraft",
+      "status": "已认可",
+      "current": true,
+      "page": "works/aircraft/j16-si/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-si/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "j16-si-game.zip",
+          "sha256": "3032d4e37c4cebac42bc466b7fd0b1788898bbc310248f9731621b2a64ee3cc7",
+          "size": 20562590,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-si/current/j16-si-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "j16-si-preview.jpg",
+          "sha256": "a9fbb6da334d373e1fe1cbe83b59dc20d4bcd70f45052cbdcd35bb07090ead5a",
+          "size": 168179,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-si/current/j16-si-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/j16-si/preview.jpg",
+      "note": "两幅人物跨主翼与活动翼面布置，翠绿和金黄色带沿外翼收尖。"
+    },
+    {
+      "id": "j16-cyan",
+      "title": "歼-16 · 青色无人物",
+      "category": "aircraft",
+      "status": "已认可",
+      "current": true,
+      "page": "works/aircraft/j16-cyan/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-cyan/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "j16-cyan-game.zip",
+          "sha256": "3f10bd3bbb67140db8dd51849ece2a21d8112ed3b2fc2b976375c0cdf229d331",
+          "size": 12157298,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-cyan/current/j16-cyan-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "j16-cyan-preview.jpg",
+          "sha256": "a8f02e1174896d12fe7cadf5a9d9f93c7ed403783f3c4f8fe6fcbd0b8d163e58",
+          "size": 154482,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j16-cyan/current/j16-cyan-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/j16-cyan/preview.jpg",
+      "note": "深炭灰、青色三角纹和中轴白形构成主体，后机背细节按左、中、右展开。"
+    },
+    {
+      "id": "j10c-jade-gold",
+      "title": "歼-10C · 青玉金黄无人物",
+      "category": "aircraft",
+      "status": "已认可",
+      "current": true,
+      "page": "works/aircraft/j10c-jade-gold/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jade-gold/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "j10c-jade-gold-game.zip",
+          "sha256": "a3b1265ac64708ca4ac6f6d8bb754343e9728571db520990d82de73a4a28630d",
+          "size": 10401499,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jade-gold/current/j10c-jade-gold-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "j10c-jade-gold-preview.jpg",
+          "sha256": "d1b6df4dca28457a490b0911f2bbfc3b0bf75a2ef6053cd44f2643350e1f6074",
+          "size": 88424,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-jade-gold/current/j10c-jade-gold-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/j10c-jade-gold/preview.jpg",
+      "note": "青玉至明黄渐变覆盖两翼，后机背双侧小飞机机鼻向前、垂尾朝中线。"
+    },
+    {
+      "id": "j10c-si",
+      "title": "歼-10C · 祀",
+      "category": "aircraft",
+      "status": "已认可",
+      "current": true,
+      "page": "works/aircraft/j10c-si/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-si/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "j10c-si-game.zip",
+          "sha256": "e05ce55651d6c437d72b4b604a5f59c4424b9c88b13b9ff7e4bc9628cc5dc84f",
+          "size": 29023506,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-si/current/j10c-si-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "j10c-si-preview.jpg",
+          "sha256": "c7fcc287efb78f4c5ce598f8a74801a982e49247b830814ca55a91817e8c8a86",
+          "size": 143428,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-si/current/j10c-si-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/j10c-si/preview.jpg",
+      "note": "淡翠与金黄围绕双翼清晰人物展开，翼根窄幅过渡，垂尾沿用无人物布局。"
+    },
+    {
+      "id": "j10c-base-layout",
+      "title": "歼-10C · 基础布局",
+      "category": "aircraft",
+      "status": "已认可",
+      "current": true,
+      "page": "works/aircraft/j10c-base-layout/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-base-layout/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "j10c-base-layout-game.zip",
+          "sha256": "92565d0af6aead743366d259df50c94a97eed15989e04a7e92e13f66b2fb2373",
+          "size": 10982771,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-base-layout/current/j10c-base-layout-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "j10c-base-layout-preview.jpg",
+          "sha256": "3df6ac1896a399d3e0f13d7bc14463b7e31423128fb012b19883c77d1c39365e",
+          "size": 62473,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j10c-base-layout/current/j10c-base-layout-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/j10c-base-layout/preview.jpg",
+      "note": "早期无人物基础布局，展示主翼色场、翼尖与机背白形。"
+    },
+    {
+      "id": "su30sm2-base-layout",
+      "title": "Su-30SM2 · 基础布局",
+      "category": "aircraft",
+      "status": "已认可",
+      "current": true,
+      "page": "works/aircraft/su30sm2-base-layout/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30sm2-base-layout/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "su30sm2-base-layout-game.zip",
+          "sha256": "f07ac80dc27fe3b15838fd9b1b4aeb989fa86245a746104e6592c057a4e411b1",
+          "size": 14071177,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/su30sm2-base-layout/current/su30sm2-base-layout-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "su30sm2-base-layout-preview.jpg",
+          "sha256": "b5e6aad89fc33385fc42caa2ee3137a48764699fee458d3b0d6d1e5461777c78",
+          "size": 246357,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/su30sm2-base-layout/current/su30sm2-base-layout-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/su30sm2-base-layout/preview.jpg",
+      "note": "双发机体的无人物基础布局，预览为游戏包中的原色贴图展开。"
+    },
+    {
+      "id": "leopard2a8-charcoal",
+      "title": "豹 2A8 · 炭灰工业",
+      "category": "ground",
+      "status": "已认可",
+      "current": true,
+      "page": "works/ground/leopard2a8-charcoal/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a8-charcoal/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "leopard2a8-charcoal-game.zip",
+          "sha256": "475151cba4c7aaa913f80a915f35080545703d3f70fe7160b8ea35d84da669d0",
+          "size": 47514616,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a8-charcoal/current/leopard2a8-charcoal-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "leopard2a8-charcoal-preview.jpg",
+          "sha256": "8c245b113ca96554692c455c5a04365a91f5260be9ce6f47a0c479648f7bb7c8",
+          "size": 125949,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a8-charcoal/current/leopard2a8-charcoal-preview.jpg"
+        }
+      ],
+      "preview": "works/ground/leopard2a8-charcoal/preview.jpg",
+      "note": "德国车型。深炭灰蜂窝沿侧甲和百叶之间的实板展开，炮塔与车体采用不同的金属质感。"
+    },
+    {
+      "id": "leopard2a8no-charcoal",
+      "title": "豹 2A8NO · 炭灰工业",
+      "category": "ground",
+      "status": "已认可",
+      "current": true,
+      "page": "works/ground/leopard2a8no-charcoal/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a8no-charcoal/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "leopard2a8no-charcoal-game.zip",
+          "sha256": "a7da71d4cdc9b7895e60676b448f401eb5357c6e91982a4e9443ca35a63484a7",
+          "size": 48026677,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a8no-charcoal/current/leopard2a8no-charcoal-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "leopard2a8no-charcoal-preview.jpg",
+          "sha256": "75978c3ef3bc16b96ad06366a4596c785bdf499770cca15db3209831cb606e74",
+          "size": 126445,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a8no-charcoal/current/leopard2a8no-charcoal-preview.jpg"
+        }
+      ],
+      "preview": "works/ground/leopard2a8no-charcoal/preview.jpg",
+      "note": "挪威车型。按本车附件和两侧装甲布置深灰蜂窝，保留百叶开口与雷达表面。"
+    },
+    {
+      "id": "leopard2a7hu-charcoal",
+      "title": "豹 2A7HU · 炭灰工业",
+      "category": "ground",
+      "status": "已认可",
+      "current": true,
+      "page": "works/ground/leopard2a7hu-charcoal/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-charcoal/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "leopard2a7hu-charcoal-game.zip",
+          "sha256": "f7cb7a437098e363c82cae9859d793f3997c0654268ed64592974aea28674b47",
+          "size": 35539914,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-charcoal/current/leopard2a7hu-charcoal-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "leopard2a7hu-charcoal-preview.jpg",
+          "sha256": "a7efeac442c5ebdf0f4f945dc7594684785d735c6d1c7873a9320f6f938f179d",
+          "size": 145412,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-charcoal/current/leopard2a7hu-charcoal-preview.jpg"
+        }
+      ],
+      "preview": "works/ground/leopard2a7hu-charcoal/preview.jpg",
+      "note": "炮塔和车体以炭灰工业分区组织，预览取自本作炮塔颜色贴图。"
+    },
+    {
+      "id": "leopard2a7hu-digital",
+      "title": "豹 2A7HU · 炭灰数码",
+      "category": "ground",
+      "status": "已认可",
+      "current": true,
+      "page": "works/ground/leopard2a7hu-digital/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-digital/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "leopard2a7hu-digital-game.zip",
+          "sha256": "3f7f051f8ee891d0957b2fecabab8d63c633def568427fb07015b8db16ad361a",
+          "size": 33090507,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-digital/current/leopard2a7hu-digital-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "leopard2a7hu-digital-preview.jpg",
+          "sha256": "c597630318e5309b662cc6e0b4d964359b12e04645d19eda314eec902596de17",
+          "size": 251035,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a7hu-digital/current/leopard2a7hu-digital-preview.jpg"
+        }
+      ],
+      "preview": "works/ground/leopard2a7hu-digital/preview.jpg",
+      "note": "以数码块组织炮塔侧面的灰阶，缩小侧面贴纸并避开折面。"
+    },
+    {
+      "id": "m1a2-trophy-endfield",
+      "title": "M1A2 战利品 · 终末地",
+      "category": "ground",
+      "status": "已认可",
+      "current": true,
+      "page": "works/ground/m1a2-trophy-endfield/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/m1a2-trophy-endfield/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "m1a2-trophy-endfield-game.zip",
+          "sha256": "aa2fa6a32e57cc0d7b67d71397eedeb37e16e72be525ef12275b9e7c6adafc29",
+          "size": 64059676,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/m1a2-trophy-endfield/current/m1a2-trophy-endfield-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "m1a2-trophy-endfield-preview.jpg",
+          "sha256": "74d689c6af82840b352a617051aeb63881f74a3468080aa8119f258061d0f473",
+          "size": 295931,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/m1a2-trophy-endfield/current/m1a2-trophy-endfield-preview.jpg"
+        }
+      ],
+      "preview": "works/ground/m1a2-trophy-endfield/preview.jpg",
+      "note": "终末地主题涂装，含车体、炮塔与 Trophy 附件的颜色和材质纹理。"
+    },
+    {
+      "id": "leopard2a6hel-endfield",
+      "title": "豹 2A6HEL · 终末地",
+      "category": "ground",
+      "status": "已认可",
+      "current": true,
+      "page": "works/ground/leopard2a6hel-endfield/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a6hel-endfield/current",
+      "assets": [
+        {
+          "role": "game-skin",
+          "name": "leopard2a6hel-endfield-game.zip",
+          "sha256": "92aeac3584fef4b261a1579a61e96729df53418820badefdd9e15e1435349d5d",
+          "size": 181878382,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a6hel-endfield/current/leopard2a6hel-endfield-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "leopard2a6hel-endfield-preview.jpg",
+          "sha256": "a601169dc63f7e6f7107f08c944805604173e03878f99ba29d1c87f700dcea0e",
+          "size": 271361,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/leopard2a6hel-endfield/current/leopard2a6hel-endfield-preview.jpg"
+        }
+      ],
+      "preview": "works/ground/leopard2a6hel-endfield/preview.jpg",
+      "note": "终末地主题独立游戏涂装，包含车体、炮塔、炮管及附件纹理。"
+    },
+    {
+      "id": "j11b-laevatain-layout",
+      "title": "歼-11B · 莱万汀基础试画",
+      "category": "aircraft",
+      "status": "已认可 · 布局研究",
+      "current": true,
+      "page": "works/aircraft/j11b-laevatain-layout/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j11b-laevatain-layout/current",
+      "assets": [
+        {
+          "role": "layout-texture",
+          "name": "j11b-laevatain-layout-color.png",
+          "sha256": "1cb15a9ca76f268b9dd1d93fe70292425600e36a4f19f1042064d220e38460f0",
+          "size": 6725603,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j11b-laevatain-layout/current/j11b-laevatain-layout-color.png"
+        },
+        {
+          "role": "layout-preview",
+          "name": "j11b-laevatain-layout-preview.jpg",
+          "sha256": "b4404595c5037e8a5c81bab618703acfbd9aadf69fe8ab07a4b115a85bf93748",
+          "size": 75436,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j11b-laevatain-layout/current/j11b-laevatain-layout-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/j11b-laevatain-layout/preview.jpg",
+      "note": "无人物基础试画，展示红色翼面、翼根楔形与机背中轴。"
+    },
+    {
+      "id": "j11b-jue-layout",
+      "title": "歼-11B · 诀基础布局",
+      "category": "aircraft",
+      "status": "已认可 · 布局研究",
+      "current": true,
+      "page": "works/aircraft/j11b-jue-layout/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j11b-jue-layout/current",
+      "assets": [
+        {
+          "role": "layout-texture",
+          "name": "j11b-jue-layout-color.png",
+          "sha256": "5ee63ae6305c19a4834b0afdf4f56f9db61b831f9921ea0b14519832970f9e86",
+          "size": 6065652,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j11b-jue-layout/current/j11b-jue-layout-color.png"
+        },
+        {
+          "role": "layout-preview",
+          "name": "j11b-jue-layout-preview.jpg",
+          "sha256": "a163eef25c0b5c5754ee2b65f872fbd471529d2b5f0c0cab74249f0f25e5db08",
+          "size": 70630,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j11b-jue-layout/current/j11b-jue-layout-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/j11b-jue-layout/preview.jpg",
+      "note": "基础布局修订稿，以实机原生 UV 组织机背白段和侧面色场。"
+    },
+    {
+      "id": "j11b-shoulder-study",
+      "title": "歼-11B · 后肩面板练习",
+      "category": "aircraft",
+      "status": "已认可 · 布局研究",
+      "current": true,
+      "page": "works/aircraft/j11b-shoulder-study/README.md",
+      "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j11b-shoulder-study/current",
+      "assets": [
+        {
+          "role": "layout-texture",
+          "name": "j11b-shoulder-study-color.png",
+          "sha256": "d8038b9d5010c24e845455b107e12d1c256adccba766a42671107a96dafdd62b",
+          "size": 8297760,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j11b-shoulder-study/current/j11b-shoulder-study-color.png"
+        },
+        {
+          "role": "layout-preview",
+          "name": "j11b-shoulder-study-preview.jpg",
+          "sha256": "977dad423ca62ddfb4ec0376ffaf043d41a89c0d43a1140170f48985522635a7",
+          "size": 100305,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/j11b-shoulder-study/current/j11b-shoulder-study-preview.jpg"
+        }
+      ],
+      "preview": "works/aircraft/j11b-shoulder-study/preview.jpg",
+      "note": "以 F-2A 构图为参考的歼-11B 后肩与尾梁布局练习。"
+    },
+    {
       "id": "strv122bp-shuangtai-s42",
       "title": "Strv 122B+「霜钛 / Frost Titanium」· S42",
       "category": "ground",
@@ -61,7 +547,7 @@
       "title": "梅卡瓦 Mk.4M「玄岩」· S42",
       "category": "ground",
       "status": "已获准发布；最近调整待游戏内复核",
-      "note": "配套 WTG 原生模型；七视图采用柔和棚光与漫射辅助展示数码。",
+      "note": "配套 WTG 原生模型；七视图采用柔和棚光与漫射辅助展示数码。 轻量包已认可，包含匹配的 WTG 模型。",
       "page": "works/ground/merkava4m-xuanyan-s42/README.md",
       "release": "https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/merkava4m-xuanyan-s42/current",
       "current": true,
@@ -115,6 +601,20 @@
           "sha256": "836a54915423de412a585eadf0b580c84df87a9b22fce455c023941ec0141cad",
           "role": "showcase-top",
           "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-hero-overview.png"
+        },
+        {
+          "role": "game-skin-light",
+          "name": "merkava4m-xuanyan-s42-light-game.zip",
+          "sha256": "7946d78c5befa04b4637a442db206fe70c85870e58bcb78f999b81e14f13123d",
+          "size": 88266437,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-light-game.zip"
+        },
+        {
+          "role": "skin-preview",
+          "name": "merkava4m-xuanyan-s42-light-preview.jpg",
+          "sha256": "155ab1357cc8a7e0167efc0d53f61dcde3ead198c4a64037fe16a6026be4cf14",
+          "size": 289626,
+          "url": "https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-light-preview.jpg"
         }
       ]
     },

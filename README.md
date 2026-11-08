@@ -16,12 +16,18 @@
 
 ## 地面载具
 
-终末地主题以黑、白、黄构成工业风格；SPECTRE42 采用炭黑哑光与克制的黄青色标。各作品按载具真实表面重新安排图形。作品页提供七视图和独立整车大图。
+终末地主题以黑、白、黄构成工业风格；SPECTRE42 采用炭黑哑光与克制的黄青色标。各作品按载具真实表面重新安排图形。作品页提供对应的模型预览或颜色贴图，部分作品另有七视图和整车大图。
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
+| [豹 2A8 · 炭灰工业](works/ground/leopard2a8-charcoal/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a8-charcoal/current) |
+| [豹 2A8NO · 炭灰工业](works/ground/leopard2a8no-charcoal/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a8no-charcoal/current) |
+| [豹 2A7HU · 炭灰工业](works/ground/leopard2a7hu-charcoal/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-charcoal/current) |
+| [豹 2A7HU · 炭灰数码](works/ground/leopard2a7hu-digital/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7hu-digital/current) |
+| [M1A2 战利品 · 终末地](works/ground/m1a2-trophy-endfield/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/m1a2-trophy-endfield/current) |
+| [豹 2A6HEL · 终末地](works/ground/leopard2a6hel-endfield/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a6hel-endfield/current) |
 | [Strv 122B+「霜钛 / Frost Titanium」· S42](works/ground/strv122bp-shuangtai-s42/README.md) | 已获准发布 · 顶板材质实装确认 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/strv122bp-shuangtai-s42/current) |
-| [梅卡瓦 Mk.4M「玄岩」· S42](works/ground/merkava4m-xuanyan-s42/README.md) | 已获准发布 · 最新调整待游戏内复核 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/merkava4m-xuanyan-s42/current) |
+| [梅卡瓦 Mk.4M「玄岩」· S42](works/ground/merkava4m-xuanyan-s42/README.md) | 标准包与轻量包均可下载 · 轻量版已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/merkava4m-xuanyan-s42/current) |
 | [豹 2A7V · SPECTRE42「炭灰分区」](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7v-spectre42/) | 已获准发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-spectre42/current) |
 | [10式「玄铁」· S42](https://icyryna.github.io/war-thunder-liveries/works/type10-xuantie-s42/) | 已获准发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/type10-xuantie-s42/current) |
 | [ZTZ99A · SPECTRE42「磨砂炭灰」](https://icyryna.github.io/war-thunder-liveries/works/ztz99a-spectre42/) | 已确认可发布 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/ztz99a-spectre42/current) |
@@ -41,6 +47,15 @@ EMBT 适配德国与法国两个版本；豹 2A7HU 包含专属炮塔与车长�
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
+| [歼-15T · 祀](works/aircraft/j15t-si/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j15t-si/current) |
+| [歼-11B · 祀](works/aircraft/j11b-si/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j11b-si/current) |
+| [歼-11B · 莱万汀 Astra](works/aircraft/j11b-laevatain-astra/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j11b-laevatain-astra/current) |
+| [歼-16 · 祀](works/aircraft/j16-si/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-si/current) |
+| [歼-16 · 青色无人物](works/aircraft/j16-cyan/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-cyan/current) |
+| [歼-10C · 青玉金黄无人物](works/aircraft/j10c-jade-gold/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-jade-gold/current) |
+| [歼-10C · 祀](works/aircraft/j10c-si/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-si/current) |
+| [歼-10C · 基础布局](works/aircraft/j10c-base-layout/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-base-layout/current) |
+| [Su-30SM2 · 基础布局](works/aircraft/su30sm2-base-layout/README.md) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/su30sm2-base-layout/current) |
 | [J-10C 庄方宜 · Akamywek 风格](https://icyryna.github.io/war-thunder-liveries/works/j10c-zhuang-fangyi-akamywek/) | 部分认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j10c-zhuang-fangyi-akamywek/current) |
 | [J-16 陈千语 · Akamywek 风格](https://icyryna.github.io/war-thunder-liveries/works/j16-chen-qianyu-akamywek/) | 已认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-chen-qianyu-akamywek/current) |
 | [J-16 汤汤 · 重修版](https://icyryna.github.io/war-thunder-liveries/works/j16-tangtang-repaired/) | 部分认可 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j16-tangtang-repaired/current) |
@@ -74,6 +89,9 @@ EMBT 适配德国与法国两个版本；豹 2A7HU 包含专属炮塔与车长�
 
 | 作品 | 状态 | 获取 |
 | --- | --- | --- |
+| [歼-11B · 莱万汀基础试画](works/aircraft/j11b-laevatain-layout/README.md) | 已认可 · 布局研究 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j11b-laevatain-layout/current) |
+| [歼-11B · 诀基础布局](works/aircraft/j11b-jue-layout/README.md) | 已认可 · 布局研究 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j11b-jue-layout/current) |
+| [歼-11B · 后肩面板练习](works/aircraft/j11b-shoulder-study/README.md) | 已认可 · 布局研究 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/j11b-shoulder-study/current) |
 | [豹 2A7V · 终末地干净试作](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7v-endfield-clean-pilot/) | 待评价 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-clean-pilot/current) |
 | [豹 2A7V · 终末地手绘临摹](https://icyryna.github.io/war-thunder-liveries/works/leopard2a7v-endfield-handdrawn/) | 待评价 | [查看下载](https://github.com/IcyRyna/war-thunder-liveries/releases/tag/works/leopard2a7v-endfield-handdrawn/current) |
 

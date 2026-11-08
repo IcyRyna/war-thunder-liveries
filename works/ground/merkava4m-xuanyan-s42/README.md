@@ -12,6 +12,8 @@ Merkava Mk.4M “Xuanyan” uses deep charcoal and low-contrast digital blocks a
 
 ## 下载 / Downloads
 
+- [轻量游戏包（含配套 WTG 模型）](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-light-game.zip) · [轻量包炮塔贴图](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-light-preview.jpg)
+
 - [游戏涂装与配套 WTG 模型 ZIP / Game skin and matching WTG model](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-game.zip)
 - [公开可编辑工程与源码 ZIP / Privacy-clean editable project and source](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-source.zip)
 - [七视图与三张整车大图 ZIP / Seven-view board and three large images](https://github.com/IcyRyna/war-thunder-liveries/releases/download/works/merkava4m-xuanyan-s42/current/merkava4m-xuanyan-s42-showcase.zip)

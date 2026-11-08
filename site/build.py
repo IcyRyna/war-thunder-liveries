@@ -130,13 +130,17 @@ def build(out,viewer,previews_dir=None,archive=None):
         variants=work['variants'];scenes=[{'label':v['label'],'scene':'../'+v['scene']} for v in variants]
         choices=''
         if len(scenes)>1:choices='<label class="variant">车型版本<select id="variant">'+''.join(f'<option value="{i}">{html.escape(v["label"])}</option>' for i,v in enumerate(scenes))+'</select></label>'
-        iframe='../../viewer/?embed=1&scene='+quote(scenes[0]['scene'],safe='')
-        content=f'''<nav class="breadcrumb"><a href="../../index.html">全部作品</a><a href="../../index.html?category={section}">{category}</a></nav><nav class="vehicle-kind">{'地面载具' if work['category']=='ground' else '飞机涂装'}</nav><h1>{title}</h1><p class="work-status">状态：{html.escape(work["status"])}</p><section class="interactive"><div class="preview-title"><h2>这套涂装的 3D 预览</h2><span>拖动旋转 · 滚轮拉近</span></div>{choices}<iframe id="preview" title="{title} 三维预览" src="{iframe}" data-scenes="{html.escape(json.dumps(scenes,ensure_ascii=False),quote=True)}" allow="fullscreen" loading="lazy"></iframe><p class="note">已自动载入对应车型和本套涂装 · 可在画面中切换清晰度与视角</p></section><article>{rendered[identifier]}</article>'''
+        preview_section=''
+        if scenes:
+            iframe='../../viewer/?embed=1&scene='+quote(scenes[0]['scene'],safe='')
+            preview_section=f'''<section class="interactive"><div class="preview-title"><h2>这套涂装的 3D 预览</h2><span>拖动旋转 · 滚轮拉近</span></div>{choices}<iframe id="preview" title="{title} 三维预览" src="{iframe}" data-scenes="{html.escape(json.dumps(scenes,ensure_ascii=False),quote=True)}" allow="fullscreen" loading="lazy"></iframe><p class="note">已自动载入对应车型和本套涂装 · 可在画面中切换清晰度与视角</p></section>'''
+        content=f'''<nav class="breadcrumb"><a href="../../index.html">全部作品</a><a href="../../index.html?category={section}">{category}</a></nav><nav class="vehicle-kind">{'地面载具' if work['category']=='ground' else '飞机涂装'}</nav><h1>{title}</h1><p class="work-status">状态：{html.escape(work["status"])}</p>{preview_section}<article>{rendered[identifier]}</article>'''
+        card_action='打开介绍与 3D 预览' if scenes else '查看作品与下载'
         (folder/'index.html').write_text(page(work['title'],content,2),encoding='utf-8')
-        cards[section].append(f'<a class="work" href="works/{identifier}/"><small>{"参考原作" if work["kind"]=="references" else "地面载具" if work["category"]=="ground" else "飞机涂装"} · {html.escape(work["status"])}</small><h2>{title}</h2><span>打开介绍与 3D 预览 →</span></a>')
+        cards[section].append(f'<a class="work" href="works/{identifier}/"><small>{"参考原作" if work["kind"]=="references" else "地面载具" if work["category"]=="ground" else "飞机涂装"} · {html.escape(work["status"])}</small><h2>{title}</h2><span>{card_action} →</span></a>')
     buttons='<button type="button" data-category="all" aria-pressed="true">全部作品 <span>'+str(len(data['works']))+'</span></button>'+''.join(f'<button type="button" data-category="{key}" aria-pressed="false">{html.escape(row["title"])} <span>{len(cards[key])}</span></button>' for key,row in sections.items())
     groups=''.join(f'<section class="work-group" data-section="{key}" id="{key}"><div class="group-heading"><h2>{html.escape(row["title"])}</h2><span>{len(cards[key])} 套</span></div><div class="works">'+''.join(cards[key])+'</div></section>' for key,row in sections.items())
-    content='<p class="eyebrow">按分类浏览 · 每套作品内嵌 3D 预览</p><h1>涂装作品集</h1><p class="intro">选择分类，再打开作品查看对应模型、介绍与下载。历史方案和参考原作单独归档，作品评价保持原样。</p><nav class="category-filter" aria-label="作品分类">'+buttons+'</nav><p class="filter-result" id="filterResult" role="status" aria-live="polite">全部作品 · '+str(len(data['works']))+' 套</p>'+groups
+    content='<p class="eyebrow">飞机、地面载具与布局研究</p><h1>涂装作品集</h1><p class="intro">选择分类，查看作品预览、介绍与下载。历史方案和参考原作单独归档，作品评价保持原样。</p><nav class="category-filter" aria-label="作品分类">'+buttons+'</nav><p class="filter-result" id="filterResult" role="status" aria-live="polite">全部作品 · '+str(len(data['works']))+' 套</p>'+groups
     (out/'index.html').write_text(page('作品与 3D 预览',content),encoding='utf-8')
     output_bytes=sum(p.stat().st_size for p in out.rglob('*') if p.is_file())
     if output_bytes>=950_000_000:raise ValueError('Published site exceeds the 950 MB resource budget')
